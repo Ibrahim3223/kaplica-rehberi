@@ -1,0 +1,6 @@
+# Disavow file for kaplicarehberi.com
+# Spam backlinks from low-quality domains
+
+domain:e-kodomo.net
+domain:sites.jake.eu
+domain:bye.fyi

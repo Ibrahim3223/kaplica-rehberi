@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{/* İller / Hastalıklar listesi sayfaları */}}
+
+{{ $isIller := eq .Data.Plural "iller" }}
+{{ $isHastaliklar := eq .Data.Plural "hastaliklar" }}
+
+<section class="term-hero" aria-labelledby="taxonomy-title">
+  <div class="container">
+    {{ if $isIller }}
+    <p class="term-hero__eyebrow">İl Rehberi</p>
+    <h1 class="term-hero__title" id="taxonomy-title">Türkiye'nin Tüm İllerinde Kaplıcalar</h1>
+    <p class="term-hero__subtitle">81 il, 1.500+ termal kaynak — yaşadığınız yere en yakın kaplıcayı bulun</p>
+    {{ else if $isHastaliklar }}
+    <p class="term-hero__eyebrow">Sağlık Kategorileri</p>
+    <h1 class="term-hero__title" id="taxonomy-title">Hastalıklara Göre Kaplıca Rehberi</h1>
+    <p class="term-hero__subtitle">Şikayetinize iyi gelen kaplıcaları hastalık kategorisine göre bulun</p>
+    {{ else }}
+    <h1 class="term-hero__title" id="taxonomy-title">{{ .Title }}</h1>
+    {{ end }}
+  </div>
+</section>
+
+<div class="container">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Anasayfa</a>
+    <span class="breadcrumb__sep" aria-hidden="true">›</span>
+    <span aria-current="page">{{ .Title }}</span>
+  </nav>
+</div>
+
+<section class="section" style="padding-top:1rem;">
+  <div class="container">
+    {{ if $isIller }}
+    <div class="il-grid fade-in">
+      {{ range .Data.Terms.ByCount }}
+      <a href="{{ .Page.RelPermalink }}" class="il-card">
+        <p class="il-card__name">{{ .Page.Title }}</p>
+        <span class="il-card__count">{{ .Count }} kaplıca</span>
+      </a>
+      {{ end }}
+    </div>
+    {{ else }}
+    <div class="hastalik-grid fade-in">
+      {{/* Her hastalık kategorisi için ikon ve renk sınıfı */}}
+      {{ $icons := dict
+        "romatizma"              (dict "icon" "🦴" "class" "kemik")
+        "cilt-hastalıkları"      (dict "icon" "✨" "class" "cilt")
+        "sinir-hastalıkları"     (dict "icon" "🧠" "class" "sinir")
+        "solunum-hastalıkları"   (dict "icon" "🫁" "class" "solunum")
+        "kas-hastalıkları"       (dict "icon" "💪" "class" "kemik")
+        "eklem-hastalıkları"     (dict "icon" "🔩" "class" "kemik")
+        "sindirim-hastalıkları"  (dict "icon" "🌿" "class" "sindirim")
+        "kas-romatizması"        (dict "icon" "💪" "class" "kemik")
+        "stres"                  (dict "icon" "🧘" "class" "sinir")
+        "diyabet"                (dict "icon" "🩸" "class" "sindirim")
+        "tansiyon"               (dict "icon" "❤️" "class" "sinir")
+        "egzama"                 (dict "icon" "✨" "class" "cilt")
+        "psoriazis"              (dict "icon" "✨" "class" "cilt")
+        "fibromiyalji"           (dict "icon" "💪" "class" "kemik")
+        "kalp-damar hastalıkları" (dict "icon" "❤️" "class" "sinir")
+      }}
+      {{ range .Data.Terms.ByCount }}
+      {{ $termKey := .Page.Title | lower }}
+      {{ $meta := index $icons $termKey | default (dict "icon" "🌊" "class" "diger") }}
+      {{/* Görüntüleme adı: tireleri boşluğa çevir, title-case yap */}}
+      {{ $displayName := .Page.Title | replaceRE "-" " " | title }}
+      <a href="{{ .Page.RelPermalink }}" class="hastalik-card">
+        <div class="hastalik-card__icon hastalik-card__icon--{{ $meta.class }}" aria-hidden="true">{{ $meta.icon }}</div>
+        <p class="hastalik-card__name">{{ $displayName }}</p>
+        <span class="hastalik-card__count">{{ .Count }} kaplıca</span>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

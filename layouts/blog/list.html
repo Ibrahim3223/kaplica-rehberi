@@ -1,0 +1,104 @@
+{{ define "main" }}
+
+<!-- =============================================
+     BLOG HERO
+============================================= -->
+<section class="blog-hero" aria-labelledby="blog-hero-title">
+  <div class="blog-hero__overlay" aria-hidden="true"></div>
+  <div class="container blog-hero__content">
+    <p class="blog-hero__eyebrow">Kaplıca Rehberi</p>
+    <h1 class="blog-hero__title" id="blog-hero-title">{{ .Title }}</h1>
+    <p class="blog-hero__subtitle">{{ with .Description }}{{ . }}{{ else }}Termal sağlık, kaplıca rehberleri ve şifalı sular hakkında uzman yazıları.{{ end }}</p>
+  </div>
+</section>
+
+<!-- =============================================
+     ÖNE ÇIKAN YAZI
+============================================= -->
+{{ $featured := where .Pages "Params.featured" true | first 1 }}
+{{ with $featured }}
+{{ range . }}
+<section class="blog-featured" aria-labelledby="featured-title">
+  <div class="container">
+    <div class="blog-featured__inner">
+      <div class="blog-featured__img-wrap">
+        {{ if .Params.image }}
+        <img class="blog-featured__img" src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+        {{ else }}
+        <div class="blog-featured__img-placeholder" aria-hidden="true"></div>
+        {{ end }}
+        {{ with index .Params.categories 0 }}
+        <span class="blog-featured__category">{{ . }}</span>
+        {{ end }}
+      </div>
+      <div class="blog-featured__body">
+        <p class="blog-featured__label">Öne Çıkan Yazı</p>
+        <h2 class="blog-featured__title" id="featured-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+        <p class="blog-featured__excerpt">{{ .Description }}</p>
+        <div class="blog-featured__meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+          {{ with .Params.reading_time }}
+          <span aria-hidden="true">·</span>
+          <span>{{ . }} dk okuma</span>
+          {{ end }}
+        </div>
+        <a href="{{ .RelPermalink }}" class="btn btn--primary blog-featured__cta">Yazıyı Oku →</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- =============================================
+     TÜM YAZILAR
+============================================= -->
+<section class="section" aria-labelledby="posts-title">
+  <div class="container">
+    <div class="section__header">
+      <span class="section__label">Blog</span>
+      <h2 class="section__title" id="posts-title">Tüm Yazılar</h2>
+    </div>
+
+    {{ if .Pages }}
+    <div class="blog-grid">
+      {{ range .Paginator.Pages }}
+        {{ partial "blog-card.html" . }}
+      {{ end }}
+    </div>
+
+    <!-- Sayfalama -->
+    {{ $paginator := .Paginator }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Sayfa navigasyonu">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" aria-label="Önceki sayfa">‹</a>
+      {{ end }}
+
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}
+        <span class="active" aria-current="page">{{ .PageNumber }}</span>
+        {{ else if le (math.Abs (sub .PageNumber $paginator.PageNumber)) 2 }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+        {{ end }}
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" aria-label="Sonraki sayfa">›</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    {{ else }}
+    <div style="text-align:center; padding:4rem 0; color:var(--color-text-light);">
+      <p style="font-size:3rem; margin-bottom:1rem;">📝</p>
+      <p>Henüz blog yazısı eklenmemiş.</p>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,32 @@
+# Hugo build output
+public/
+resources/
+
+# Hugo cache
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Python scripts (içerik üretimi)
+*.py
+*.pyc
+__pycache__/
+.env
+
+# Node
+node_modules/
+
+# Claude memory
+.claude/
+
+# Misc
+nul
+
+# Content generation scripts
+scripts/

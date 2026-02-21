@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /page/
+Disallow: /tags/
+
+Sitemap: https://kaplicarehberi.com/sitemap.xml

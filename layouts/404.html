@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section style="min-height:70vh; display:flex; align-items:center; justify-content:center; text-align:center; padding:4rem 1rem;">
+  <div>
+    <div style="font-size:5rem; margin-bottom:1rem; opacity:0.3;">🌊</div>
+    <h1 style="font-family:var(--font-heading); font-size:clamp(2rem,5vw,3.5rem); color:var(--color-primary); margin-bottom:1rem;">404</h1>
+    <h2 style="font-family:var(--font-heading); font-size:1.5rem; margin-bottom:1rem; color:var(--color-text);">Sayfa Bulunamadı</h2>
+    <p style="color:var(--color-text-light); max-width:420px; margin-inline:auto; margin-bottom:2rem;">
+      Aradığınız sayfa mevcut değil veya taşınmış olabilir. Anasayfaya dönüp keşfe devam edebilirsiniz.
+    </p>
+    <div style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
+      <a href="/" class="btn btn--primary">Anasayfaya Dön</a>
+      <a href="/kaplicalar/" class="btn btn--outline">Tüm Kaplıcalar</a>
+    </div>
+  </div>
+</section>
+{{ end }}

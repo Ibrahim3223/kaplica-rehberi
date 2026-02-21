@@ -1,0 +1,98 @@
+{{ define "main" }}
+{{/* Bu template hem il sayfaları (iller/afyonkarahisar/) hem hastalık sayfaları (hastaliklar/romatizma/) için çalışır */}}
+
+{{ $isIl := eq .Data.Plural "iller" }}
+{{ $isHastalik := eq .Data.Plural "hastaliklar" }}
+
+<!-- =============================================
+     TERM HERO
+============================================= -->
+<section class="term-hero" aria-labelledby="term-title">
+  <div class="container">
+    {{ if $isIl }}
+    <p class="term-hero__eyebrow">İl Rehberi</p>
+    <h1 class="term-hero__title" id="term-title">{{ .Title }} Kaplıcaları</h1>
+    <p class="term-hero__subtitle">
+      {{ .Title }} ilindeki {{ len .Pages }} termal kaynak ve kaplıca hakkında kapsamlı rehber
+    </p>
+    {{ else if $isHastalik }}
+    {{ $displayTitle := .Title | replaceRE "-" " " | title }}
+    <p class="term-hero__eyebrow">Sağlık Kategorisi</p>
+    <h1 class="term-hero__title" id="term-title">{{ $displayTitle }}</h1>
+    <p class="term-hero__subtitle">
+      {{ $displayTitle }} rahatsızlığına iyi gelen {{ len .Pages }} kaplıca
+    </p>
+    {{ else }}
+    <p class="term-hero__eyebrow">Kategori</p>
+    <h1 class="term-hero__title" id="term-title">{{ .Title }}</h1>
+    <p class="term-hero__subtitle">{{ len .Pages }} kaplıca listeleniyor</p>
+    {{ end }}
+  </div>
+</section>
+
+<!-- BREADCRUMB -->
+<div class="container">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Anasayfa</a>
+    <span class="breadcrumb__sep" aria-hidden="true">›</span>
+    {{ if $isIl }}<a href="/iller/">İller</a>{{ end }}
+    {{ if $isHastalik }}<a href="/hastaliklar/">Hastalıklar</a>{{ end }}
+    <span class="breadcrumb__sep" aria-hidden="true">›</span>
+    <span aria-current="page">{{ .Title }}</span>
+  </nav>
+</div>
+
+<!-- Hastalık için giriş paragrafı ve disclaimer -->
+{{ if $isHastalik }}
+<div class="container" style="max-width:720px; margin-bottom:0;">
+  <div style="background:var(--color-bg-warm); border-left:3px solid var(--color-accent); padding:1.25rem 1.5rem; border-radius:0 var(--radius-sm) var(--radius-sm) 0; margin-bottom:2rem;" class="fade-in">
+    <p style="font-size:0.875rem; color:var(--color-text-light); margin:0;">
+      ⚕️ <strong>Tıbbi Uyarı:</strong> Aşağıdaki bilgiler genel rehber amaçlıdır ve tıbbi tavsiye niteliği taşımaz.
+      Herhangi bir sağlık sorunu için kaplıca tedavisine başlamadan önce doktorunuza danışmanızı öneririz.
+    </p>
+  </div>
+</div>
+{{ end }}
+
+<!-- =============================================
+     KAPLICA GRİD
+============================================= -->
+<section class="section" style="padding-top:1rem;">
+  <div class="container">
+    {{ if .Pages }}
+    <div class="cards-grid">
+      {{ range .Paginator.Pages }}
+        {{ partial "kaplica-card.html" . }}
+      {{ end }}
+    </div>
+
+    {{ $paginator := .Paginator }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Sayfa navigasyonu">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" aria-label="Önceki sayfa">‹</a>
+      {{ end }}
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}
+        <span class="active" aria-current="page">{{ .PageNumber }}</span>
+        {{ else if le (math.Abs (sub .PageNumber $paginator.PageNumber)) 2 }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+        {{ end }}
+      {{ end }}
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" aria-label="Sonraki sayfa">›</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    {{ else }}
+    <div style="text-align:center; padding:4rem 0; color:var(--color-text-light);">
+      <p style="font-size:3rem; margin-bottom:1rem;">🌊</p>
+      <p>Bu kategoride henüz kaplıca eklenmemiş.</p>
+      <a href="/kaplicalar/" class="btn btn--primary" style="margin-top:1.5rem; display:inline-flex;">Tüm Kaplıcaları Gör</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

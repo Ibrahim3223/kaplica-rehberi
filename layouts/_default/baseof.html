@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="ltr">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body class="{{ if .IsHome }}page--home{{ end }}{{ with .Section }} page--{{ . }}{{ end }}">
+
+  {{ partial "header.html" . }}
+
+  <!-- Arama Overlay -->
+  <div class="search-overlay" id="search-overlay" role="dialog" aria-modal="true" aria-label="Kaplıca Ara">
+    <div class="search-overlay__header">
+      <input
+        type="search"
+        class="search-overlay__input"
+        id="search-overlay-input"
+        placeholder="Kaplıca adı, il veya rahatsızlık ara..."
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+      >
+      <button class="search-overlay__close" id="search-overlay-close" aria-label="Aramayı kapat">✕</button>
+    </div>
+    <div class="search-overlay__results" id="search-overlay-results">
+      <p class="search-overlay__status" id="search-overlay-status">Aramak için yazmaya başlayın...</p>
+    </div>
+  </div>
+
+  <main id="main-content" tabindex="-1">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  <!-- Fotoğraf Galerisi Lightbox -->
+  <div class="gallery-lightbox" id="gallery-lightbox" role="dialog" aria-modal="true" aria-label="Fotoğraf görüntüleyici" hidden>
+    <button class="gallery-lightbox__close" id="gallery-lb-close" aria-label="Kapat">✕</button>
+    <button class="gallery-lightbox__prev" id="gallery-lb-prev" aria-label="Önceki fotoğraf">‹</button>
+    <button class="gallery-lightbox__next" id="gallery-lb-next" aria-label="Sonraki fotoğraf">›</button>
+    <div class="gallery-lightbox__content">
+      <img class="gallery-lightbox__img" id="gallery-lb-img" src="" alt="" loading="eager">
+    </div>
+    <p class="gallery-lightbox__counter" id="gallery-lb-counter" aria-live="polite"></p>
+  </div>
+
+  <!-- JavaScript -->
+  {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+
+  {{ block "scripts" . }}{{ end }}
+</body>
+</html>

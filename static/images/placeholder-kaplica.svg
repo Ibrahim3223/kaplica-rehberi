@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E3D39"/>
+      <stop offset="100%" stop-color="#1A5F5A"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3DB8AE" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0E3D39" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="steam" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="white" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="250" fill="url(#bg)"/>
+
+  <!-- Far mountain silhouette -->
+  <path d="M0,155 L50,95 L105,130 L165,75 L220,115 L275,85 L330,105 L380,88 L400,95 L400,250 L0,250Z"
+        fill="rgba(0,0,0,0.18)"/>
+
+  <!-- Near hill -->
+  <path d="M0,200 Q80,165 160,185 Q220,198 280,178 Q340,158 400,185 L400,250 L0,250Z"
+        fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Water pool ellipse -->
+  <ellipse cx="200" cy="205" rx="135" ry="32" fill="url(#water)"/>
+
+  <!-- Ripple rings -->
+  <ellipse cx="200" cy="205" rx="100" ry="21" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1.5"/>
+  <ellipse cx="200" cy="205" rx="58" ry="13" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/>
+
+  <!-- Steam wisps -->
+  <path d="M148,178 C141,155 153,133 146,110 C140,90 148,73 143,55"
+        fill="none" stroke="url(#steam)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M200,174 C193,148 206,122 199,96 C193,72 201,55 195,36"
+        fill="none" stroke="url(#steam)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M252,178 C259,155 247,133 254,110 C260,90 252,73 257,55"
+        fill="none" stroke="url(#steam)" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Water drop icon -->
+  <path d="M200,95 C200,95 187,113 187,124 C187,131.9 192.9,138.5 200,138.5 C207.1,138.5 213,131.9 213,124 C213,113 200,95 200,95Z"
+        fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="1.5"/>
+
+  <!-- Label -->
+  <text x="200" y="237" font-family="Georgia, serif" font-size="11"
+        fill="rgba(255,255,255,0.32)" text-anchor="middle" letter-spacing="3">TERMAL KAYNAK</text>
+</svg>

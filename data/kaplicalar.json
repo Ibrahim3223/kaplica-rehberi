@@ -1,0 +1,1870 @@
+[
+  {
+    "id": "acisu-kaplicasi",
+    "name": "Acısu Kaplıcası",
+    "slug": "acisu-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.851944444,
+      "lng": 33.256666666
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741877",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "ayas-kaplicasi",
+    "name": "Ayaş Kaplıcası",
+    "slug": "ayas-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.132222222,
+      "lng": 32.160555555
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741889",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "babas",
+    "name": "Babas",
+    "slug": "babas",
+    "province": "",
+    "district": "",
+    "coords": null,
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mudurnu%20Babas.JPG",
+    "wikidata_id": "Q6077342",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Babas",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "bayramoren-kaplicasi",
+    "name": "Bayramören Kaplıcası",
+    "slug": "bayramoren-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.940555555,
+      "lng": 33.201666666
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741892",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "duzici-haruniye-ilicasi",
+    "name": "Düziçi Haruniye Ilıcası",
+    "slug": "duzici-haruniye-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.36,
+      "lng": 36.397777777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741906",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "evlik-kaplicasi",
+    "name": "Evlik Kaplıcası",
+    "slug": "evlik-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.900555555,
+      "lng": 34.889166666
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741908",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "figani-kaplicasi",
+    "name": "Figani Kaplıcası",
+    "slug": "figani-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.601666666,
+      "lng": 35.452222222
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741910",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "hamamlicay-koy-kaplicasi",
+    "name": "Hamamlıçay Köy Kaplıcası",
+    "slug": "hamamlicay-koy-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.663333333,
+      "lng": 34.860277777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741919",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "haymana-ilicasi",
+    "name": "Haymana Ilıcası",
+    "slug": "haymana-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 39.423333333,
+      "lng": 32.488611111
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741921",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "high"
+  },
+  {
+    "id": "karakaya-ilicasi",
+    "name": "Karakaya Ilıcası",
+    "slug": "karakaya-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.009166666,
+      "lng": 32.335833333
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741940",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kayacik-ilicasi",
+    "name": "Kayacık Ilıcası",
+    "slug": "kayacik-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.157777777,
+      "lng": 29.672777777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741943",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kazanci-kaplicasi",
+    "name": "Kazancı Kaplıcası",
+    "slug": "kazanci-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 41.003611111,
+      "lng": 33.701388888
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741944",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kos-kaplicasi",
+    "name": "Kös Kaplıcası",
+    "slug": "kos-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.840555555,
+      "lng": 32.898333333
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741951",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kukurt-kaplicasi",
+    "name": "Kükürt Kaplıcası",
+    "slug": "kukurt-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.919722222,
+      "lng": 33.072777777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741952",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kurttacin-ilicasi",
+    "name": "Kürttacın Ilıcası",
+    "slug": "kurttacin-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 39.205833333,
+      "lng": 32.063888888
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741953",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "kirmizi-su-karahayit",
+    "name": "Kırmızı Su Karahayıt",
+    "slug": "kirmizi-su-karahayit",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.967430516,
+      "lng": 29.102799294
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/K%C4%B1rm%C4%B1z%C4%B1%20Su%20%28Red%20Spring%29%2C%20Karahay%C4%B1t%2C%20Turkey%2C%20March%202024%2006.jpg",
+    "wikidata_id": "Q126059099",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "high"
+  },
+  {
+    "id": "pamukkale",
+    "name": "Pamukkale",
+    "slug": "pamukkale",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.9236,
+      "lng": 29.1223
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pamukkale%2030.jpg",
+    "wikidata_id": "Q105893254",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Pamukkale",
+    "source": "wikidata",
+    "popularity": "high"
+  },
+  {
+    "id": "saraycik-ilicasi",
+    "name": "Saraycık Ilıcası",
+    "slug": "saraycik-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 38.768888888,
+      "lng": 28.450277777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741974",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "sariot-kaplicasi",
+    "name": "Sarıot Kaplıcası",
+    "slug": "sariot-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.607222222,
+      "lng": 31.077777777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49741975",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "terzikoy-kaplicasi",
+    "name": "Terziköy Kaplıcası",
+    "slug": "terzikoy-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.472777777,
+      "lng": 35.705
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49742002",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "travertines-of-pamukkale",
+    "name": "Travertines of Pamukkale",
+    "slug": "travertines-of-pamukkale",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.92431,
+      "lng": 29.1235
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pamukkale%2030.jpg",
+    "wikidata_id": "Q123014534",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "high"
+  },
+  {
+    "id": "cavuscukoyu-acik-ilicasi",
+    "name": "Çavuşçuköyü Açık Ilıcası",
+    "slug": "cavuscukoyu-acik-ilicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 38.302222222,
+      "lng": 31.863888888
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49742033",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "insuyu-kaplicasi",
+    "name": "İnsuyu Kaplıcası",
+    "slug": "insuyu-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 37.436388888,
+      "lng": 30.557777777
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49742035",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "istinata-kaplicasi",
+    "name": "İstınata Kaplıcası",
+    "slug": "istinata-kaplicasi",
+    "province": "",
+    "district": "",
+    "coords": {
+      "lat": 40.934166666,
+      "lng": 33.651111111
+    },
+    "temperature": null,
+    "temperature_unit": "°C",
+    "minerals": [],
+    "conditions": [],
+    "image_url": "",
+    "wikidata_id": "Q49742036",
+    "wikipedia_url": "",
+    "source": "wikidata",
+    "popularity": "low"
+  },
+  {
+    "id": "gazligol-kaplicalari",
+    "name": "Gazlıgöl Kaplıcaları",
+    "slug": "gazligol-kaplicalari",
+    "province": "Afyonkarahisar",
+    "district": "Gazlıgöl",
+    "coords": {
+      "lat": 38.7234,
+      "lng": 30.4123
+    },
+    "temperature": 60,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "flor",
+      "kalsiyum",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "sindirim hastalıkları",
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q6088070",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Gazl%C4%B1g%C3%B6l",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "heybeli-kaplicalari",
+    "name": "Heybeli Kaplıcaları",
+    "slug": "heybeli-kaplicalari",
+    "province": "Afyonkarahisar",
+    "district": "Sandıklı",
+    "coords": {
+      "lat": 38.4801,
+      "lng": 30.2612
+    },
+    "temperature": 55,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "eklem hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q49741922",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "sandikli-hudai-kaplicasi",
+    "name": "Sandıklı Hüdai Kaplıcası",
+    "slug": "sandikli-hudai-kaplicasi",
+    "province": "Afyonkarahisar",
+    "district": "Sandıklı",
+    "coords": {
+      "lat": 38.4589,
+      "lng": 30.2736
+    },
+    "temperature": 72,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "radyoaktif"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "sinir hastalıkları",
+      "kas romatizması"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/H%C3%BCdai_Kaplicas%C4%B1",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "omer-gecek-kaplicalari",
+    "name": "Ömer-Gecek Kaplıcaları",
+    "slug": "omer-gecek-kaplicalari",
+    "province": "Afyonkarahisar",
+    "district": "Merkez",
+    "coords": {
+      "lat": 38.7156,
+      "lng": 30.5631
+    },
+    "temperature": 50,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "kalsiyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "ihlara-kaplicalari",
+    "name": "Ihlara Kaplıcaları",
+    "slug": "ihlara-kaplicalari",
+    "province": "Aksaray",
+    "district": "Güzelyurt",
+    "coords": {
+      "lat": 38.2534,
+      "lng": 34.1456
+    },
+    "temperature": 40,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "haymana-kaplicalari",
+    "name": "Haymana Kaplıcaları",
+    "slug": "haymana-kaplicalari",
+    "province": "Ankara",
+    "district": "Haymana",
+    "coords": {
+      "lat": 39.4311,
+      "lng": 32.4969
+    },
+    "temperature": 55,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "magnezyum",
+      "sülfat",
+      "kalsiyum"
+    ],
+    "conditions": [
+      "sinir hastalıkları",
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Haymana_Kaplicas%C4%B1",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "kizilcahamam-kaplicalari",
+    "name": "Kızılcahamam Kaplıcaları",
+    "slug": "kizilcahamam-kaplicalari",
+    "province": "Ankara",
+    "district": "Kızılcahamam",
+    "coords": {
+      "lat": 40.4697,
+      "lng": 32.6489
+    },
+    "temperature": 38,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "sülfat",
+      "kalsiyum",
+      "radyoaktif"
+    ],
+    "conditions": [
+      "sinir hastalıkları",
+      "romatizma",
+      "cilt hastalıkları",
+      "solunum hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "germencik-kaplicalari",
+    "name": "Germencik Kaplıcaları",
+    "slug": "germencik-kaplicalari",
+    "province": "Aydın",
+    "district": "Germencik",
+    "coords": {
+      "lat": 37.8712,
+      "lng": 27.8934
+    },
+    "temperature": 98,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "klorür",
+      "sodyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "diyadin-kaplicalari",
+    "name": "Diyadin Kaplıcaları",
+    "slug": "diyadin-kaplicalari",
+    "province": "Ağrı",
+    "district": "Diyadin",
+    "coords": {
+      "lat": 39.5478,
+      "lng": 43.6712
+    },
+    "temperature": 78,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "magnezyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "gonen-kaplicalari",
+    "name": "Gönen Kaplıcaları",
+    "slug": "gonen-kaplicalari",
+    "province": "Balıkesir",
+    "district": "Gönen",
+    "coords": {
+      "lat": 40.1002,
+      "lng": 27.6547
+    },
+    "temperature": 82,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "sodyum",
+      "sülfat",
+      "klorür"
+    ],
+    "conditions": [
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q49741917",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/G%C3%B6nen_Kaplicas%C4%B1",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "gure-kaplicalari",
+    "name": "Güre Kaplıcaları",
+    "slug": "gure-kaplicalari",
+    "province": "Balıkesir",
+    "district": "Edremit",
+    "coords": {
+      "lat": 39.5583,
+      "lng": 26.8924
+    },
+    "temperature": 57,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "magnezyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "kizilot-kaplicalari",
+    "name": "Kızılot Kaplıcaları",
+    "slug": "kizilot-kaplicalari",
+    "province": "Balıkesir",
+    "district": "Susurluk",
+    "coords": {
+      "lat": 40.1612,
+      "lng": 28.2431
+    },
+    "temperature": 44,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "sülfat",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "karacasu-kaplicalari",
+    "name": "Karacasu Kaplıcaları",
+    "slug": "karacasu-kaplicalari",
+    "province": "Bolu",
+    "district": "Merkez",
+    "coords": {
+      "lat": 40.7312,
+      "lng": 31.6123
+    },
+    "temperature": 42,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "seben-kaplicalari",
+    "name": "Seben Kaplıcaları",
+    "slug": "seben-kaplicalari",
+    "province": "Bolu",
+    "district": "Seben",
+    "coords": {
+      "lat": 40.3978,
+      "lng": 31.5612
+    },
+    "temperature": 38,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "bikarbonat",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "armutlu-kaplicalari",
+    "name": "Armutlu Kaplıcaları",
+    "slug": "armutlu-kaplicalari",
+    "province": "Bursa",
+    "district": "Mudanya",
+    "coords": {
+      "lat": 40.5187,
+      "lng": 28.8312
+    },
+    "temperature": 42,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "bursa-cekirge-kaplicalari",
+    "name": "Bursa Çekirge Kaplıcaları",
+    "slug": "bursa-cekirge-kaplicalari",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "coords": {
+      "lat": 40.1883,
+      "lng": 29.0474
+    },
+    "temperature": 47,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "bikarbonat",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları",
+      "cilt hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/%C3%87ekirge",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "oylat-kaplicalari",
+    "name": "Oylat Kaplıcaları",
+    "slug": "oylat-kaplicalari",
+    "province": "Bursa",
+    "district": "İnegöl",
+    "coords": {
+      "lat": 39.9823,
+      "lng": 29.5214
+    },
+    "temperature": 39,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "bikarbonat",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "sinir hastalıkları",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "karahayit-kaplicalari",
+    "name": "Karahayıt Kaplıcaları",
+    "slug": "karahayit-kaplicalari",
+    "province": "Denizli",
+    "district": "Pamukkale",
+    "coords": {
+      "lat": 37.9478,
+      "lng": 28.9876
+    },
+    "temperature": 56,
+    "temperature_unit": "°C",
+    "minerals": [
+      "demir",
+      "sülfat",
+      "kalsiyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "pamukkale-termal-kaynaklari",
+    "name": "Pamukkale Termal Kaynakları",
+    "slug": "pamukkale-termal-kaynaklari",
+    "province": "Denizli",
+    "district": "Pamukkale",
+    "coords": {
+      "lat": 37.9208,
+      "lng": 29.1186
+    },
+    "temperature": 35,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "bikarbonat",
+      "sülfat",
+      "magnezyum"
+    ],
+    "conditions": [
+      "cilt hastalıkları",
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Pamukkale",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "saraykoy-kaplicalari",
+    "name": "Sarayköy Kaplıcaları",
+    "slug": "saraykoy-kaplicalari",
+    "province": "Denizli",
+    "district": "Sarayköy",
+    "coords": {
+      "lat": 37.9218,
+      "lng": 28.9178
+    },
+    "temperature": 68,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "klorür",
+      "sodyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "eksisu-kaplicalari",
+    "name": "Ekşisu Kaplıcaları",
+    "slug": "eksisu-kaplicalari",
+    "province": "Erzincan",
+    "district": "Merkez",
+    "coords": {
+      "lat": 39.7534,
+      "lng": 39.5423
+    },
+    "temperature": 35,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "demir"
+    ],
+    "conditions": [
+      "sindirim hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "ilica-kaplicalari",
+    "name": "Ilıca Kaplıcaları",
+    "slug": "ilica-kaplicalari",
+    "province": "Erzurum",
+    "district": "Aziziye",
+    "coords": {
+      "lat": 39.9145,
+      "lng": 41.1789
+    },
+    "temperature": 40,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "sülfat",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "pasinler-kaplicalari",
+    "name": "Pasinler Kaplıcaları",
+    "slug": "pasinler-kaplicalari",
+    "province": "Erzurum",
+    "district": "Pasinler",
+    "coords": {
+      "lat": 39.9743,
+      "lng": 41.6712
+    },
+    "temperature": 53,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "saricakaya-kaplicalari",
+    "name": "Sarıcakaya Kaplıcaları",
+    "slug": "saricakaya-kaplicalari",
+    "province": "Eskişehir",
+    "district": "Sarıcakaya",
+    "coords": {
+      "lat": 39.9812,
+      "lng": 30.6534
+    },
+    "temperature": 55,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "magnezyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "dongel-kaplicalari",
+    "name": "Döngel Kaplıcaları",
+    "slug": "dongel-kaplicalari",
+    "province": "Kahramanmaraş",
+    "district": "Afşin",
+    "coords": {
+      "lat": 38.2456,
+      "lng": 36.9234
+    },
+    "temperature": 38,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "hisaralan-kaplicalari",
+    "name": "Hisaralan Kaplıcaları",
+    "slug": "hisaralan-kaplicalari",
+    "province": "Kastamonu",
+    "district": "Araç",
+    "coords": {
+      "lat": 41.2534,
+      "lng": 33.5123
+    },
+    "temperature": 38,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "magnezyum",
+      "kalsiyum"
+    ],
+    "conditions": [
+      "sinir hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q49741928",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "karamursel-kaplicalari",
+    "name": "Karamürsel Kaplıcaları",
+    "slug": "karamursel-kaplicalari",
+    "province": "Kocaeli",
+    "district": "Karamürsel",
+    "coords": {
+      "lat": 40.6923,
+      "lng": 29.6134
+    },
+    "temperature": 40,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "sülfat",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "ilgin-kaplicalari",
+    "name": "Ilgın Kaplıcaları",
+    "slug": "ilgin-kaplicalari",
+    "province": "Konya",
+    "district": "Ilgın",
+    "coords": {
+      "lat": 38.2834,
+      "lng": 31.9124
+    },
+    "temperature": 44,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "gediz-kaplicalari",
+    "name": "Gediz Kaplıcaları",
+    "slug": "gediz-kaplicalari",
+    "province": "Kütahya",
+    "district": "Gediz",
+    "coords": {
+      "lat": 38.9978,
+      "lng": 29.4123
+    },
+    "temperature": 45,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "magnezyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "simav-kaplicalari",
+    "name": "Simav Kaplıcaları",
+    "slug": "simav-kaplicalari",
+    "province": "Kütahya",
+    "district": "Simav",
+    "coords": {
+      "lat": 39.0836,
+      "lng": 28.9828
+    },
+    "temperature": 96,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "bor"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "eklem hastalıkları",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Simav",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "kirikkale-delice-kaplicalari",
+    "name": "Kırıkkale Delice Kaplıcaları",
+    "slug": "kirikkale-delice-kaplicalari",
+    "province": "Kırıkkale",
+    "district": "Delice",
+    "coords": {
+      "lat": 40.1823,
+      "lng": 33.9156
+    },
+    "temperature": 36,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "kas hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "terme-kaplicalari",
+    "name": "Terme Kaplıcaları",
+    "slug": "terme-kaplicalari",
+    "province": "Kırşehir",
+    "district": "Merkez",
+    "coords": {
+      "lat": 39.1478,
+      "lng": 34.1623
+    },
+    "temperature": 42,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "salihli-caferbeyli-kaplicalari",
+    "name": "Salihli Caferbeyli Kaplıcaları",
+    "slug": "salihli-caferbeyli-kaplicalari",
+    "province": "Manisa",
+    "district": "Salihli",
+    "coords": {
+      "lat": 38.4978,
+      "lng": 28.1456
+    },
+    "temperature": 63,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "klorür",
+      "sodyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "urganli-kaplicalari",
+    "name": "Urganlı Kaplıcaları",
+    "slug": "urganli-kaplicalari",
+    "province": "Manisa",
+    "district": "Turgutlu",
+    "coords": {
+      "lat": 38.5312,
+      "lng": 28.1487
+    },
+    "temperature": 50,
+    "temperature_unit": "°C",
+    "minerals": [
+      "magnezyum",
+      "kalsiyum",
+      "bikarbonat",
+      "sülfat"
+    ],
+    "conditions": [
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q31189587",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Urganl%C4%B1_Kapl%C4%B1calar%C4%B1",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "koycegiz-sultaniye-kaplicalari",
+    "name": "Köyceğiz Sultaniye Kaplıcaları",
+    "slug": "koycegiz-sultaniye-kaplicalari",
+    "province": "Muğla",
+    "district": "Köyceğiz",
+    "coords": {
+      "lat": 36.9478,
+      "lng": 28.6912
+    },
+    "temperature": 40,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "cilt hastalıkları",
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/K%C3%B6yce%C4%9Fiz_G%C3%B6l%C3%BC",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "kozakli-kaplicalari",
+    "name": "Kozaklı Kaplıcaları",
+    "slug": "kozakli-kaplicalari",
+    "province": "Nevşehir",
+    "district": "Kozaklı",
+    "coords": {
+      "lat": 38.9456,
+      "lng": 34.8512
+    },
+    "temperature": 60,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "sülfat",
+      "kalsiyum",
+      "radyoaktif"
+    ],
+    "conditions": [
+      "romatizma",
+      "sinir hastalıkları",
+      "cilt hastalıkları",
+      "solunum hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "ciftehan-kaplicalari",
+    "name": "Çiftehan Kaplıcaları",
+    "slug": "ciftehan-kaplicalari",
+    "province": "Niğde",
+    "district": "Ulukışla",
+    "coords": {
+      "lat": 37.4312,
+      "lng": 34.4823
+    },
+    "temperature": 45,
+    "temperature_unit": "°C",
+    "minerals": [
+      "magnezyum",
+      "kalsiyum",
+      "bikarbonat",
+      "sülfat"
+    ],
+    "conditions": [
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q49742034",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "tarakli-kaplicalari",
+    "name": "Taraklı Kaplıcaları",
+    "slug": "tarakli-kaplicalari",
+    "province": "Sakarya",
+    "district": "Taraklı",
+    "coords": {
+      "lat": 40.3923,
+      "lng": 30.4956
+    },
+    "temperature": 42,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "bikarbonat",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "kangal-balikli-kaplica",
+    "name": "Kangal Balıklı Kaplıca",
+    "slug": "kangal-balikli-kaplica",
+    "province": "Sivas",
+    "district": "Kangal",
+    "coords": {
+      "lat": 39.2312,
+      "lng": 37.4123
+    },
+    "temperature": 37,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "selenyum"
+    ],
+    "conditions": [
+      "cilt hastalıkları",
+      "sedef hastalığı",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Kangal_Bal%C4%B1kl%C4%B1_Kaplicas%C4%B1",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "corlu-misinli-kaplicalari",
+    "name": "Çorlu Misinli Kaplıcaları",
+    "slug": "corlu-misinli-kaplicalari",
+    "province": "Tekirdağ",
+    "district": "Çorlu",
+    "coords": {
+      "lat": 41.1534,
+      "lng": 27.8023
+    },
+    "temperature": 36,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "magnezyum",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "turhal-kaplicalari",
+    "name": "Turhal Kaplıcaları",
+    "slug": "turhal-kaplicalari",
+    "province": "Tokat",
+    "district": "Turhal",
+    "coords": {
+      "lat": 40.3923,
+      "lng": 36.0812
+    },
+    "temperature": 42,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "edremit-kaplicalari",
+    "name": "Edremit Kaplıcaları",
+    "slug": "edremit-kaplicalari",
+    "province": "Van",
+    "district": "Edremit",
+    "coords": {
+      "lat": 38.3823,
+      "lng": 43.2534
+    },
+    "temperature": 45,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "yalova-termal-kaplicalari",
+    "name": "Yalova Termal Kaplıcaları",
+    "slug": "yalova-termal-kaplicalari",
+    "province": "Yalova",
+    "district": "Termal",
+    "coords": {
+      "lat": 40.6589,
+      "lng": 29.2184
+    },
+    "temperature": 65,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "bikarbonat",
+      "sodyum",
+      "kalsiyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "sinir hastalıkları",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "https://tr.wikipedia.org/wiki/Yalova_Termal_Kapli%C3%A7alar%C4%B1",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "ciftlikkoy-kaplicalari",
+    "name": "Çiftlikköy Kaplıcaları",
+    "slug": "ciftlikkoy-kaplicalari",
+    "province": "Yalova",
+    "district": "Çiftlikköy",
+    "coords": {
+      "lat": 40.7234,
+      "lng": 29.3781
+    },
+    "temperature": 38,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "bikarbonat",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "medium"
+  },
+  {
+    "id": "sarikaya-kaplicalari",
+    "name": "Sarıkaya Kaplıcaları",
+    "slug": "sarikaya-kaplicalari",
+    "province": "Yozgat",
+    "district": "Sarıkaya",
+    "coords": {
+      "lat": 39.4812,
+      "lng": 35.3712
+    },
+    "temperature": 44,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "kestanbol-kaplicalari",
+    "name": "Kestanbol Kaplıcaları",
+    "slug": "kestanbol-kaplicalari",
+    "province": "Çanakkale",
+    "district": "Ezine",
+    "coords": {
+      "lat": 39.7456,
+      "lng": 26.2931
+    },
+    "temperature": 48,
+    "temperature_unit": "°C",
+    "minerals": [
+      "kalsiyum",
+      "magnezyum",
+      "sülfat",
+      "bikarbonat"
+    ],
+    "conditions": [
+      "eklem hastalıkları",
+      "cilt hastalıkları",
+      "romatizma"
+    ],
+    "image_url": "",
+    "wikidata_id": "Q49741945",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "kizilirmak-kaplicalari",
+    "name": "Kızılırmak Kaplıcaları",
+    "slug": "kizilirmak-kaplicalari",
+    "province": "Çankırı",
+    "district": "Merkez",
+    "coords": {
+      "lat": 40.6023,
+      "lng": 33.6234
+    },
+    "temperature": 36,
+    "temperature_unit": "°C",
+    "minerals": [
+      "bikarbonat",
+      "kalsiyum",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "eklem hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  },
+  {
+    "id": "dikili-termal-kaplicalari",
+    "name": "Dikili Termal Kaplıcaları",
+    "slug": "dikili-termal-kaplicalari",
+    "province": "İzmir",
+    "district": "Dikili",
+    "coords": {
+      "lat": 39.0712,
+      "lng": 26.8912
+    },
+    "temperature": 57,
+    "temperature_unit": "°C",
+    "minerals": [
+      "sülfat",
+      "kalsiyum",
+      "bikarbonat",
+      "magnezyum"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları",
+      "sinir hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "high"
+  },
+  {
+    "id": "seferihisar-sigacik-kaplicalari",
+    "name": "Seferihisar Sığacık Kaplıcaları",
+    "slug": "seferihisar-sigacik-kaplicalari",
+    "province": "İzmir",
+    "district": "Seferihisar",
+    "coords": {
+      "lat": 38.1978,
+      "lng": 26.8234
+    },
+    "temperature": 41,
+    "temperature_unit": "°C",
+    "minerals": [
+      "klorür",
+      "sodyum",
+      "sülfat"
+    ],
+    "conditions": [
+      "romatizma",
+      "cilt hastalıkları"
+    ],
+    "image_url": "",
+    "wikidata_id": "",
+    "wikipedia_url": "",
+    "source": "manual",
+    "popularity": "low"
+  }
+]

@@ -1,0 +1,30 @@
+<article class="blog-card">
+  <a href="{{ .RelPermalink }}" class="blog-card__img-wrap" tabindex="-1" aria-hidden="true">
+    {{ if .Params.image }}
+    <img
+      class="blog-card__img"
+      src="{{ .Params.image }}"
+      alt="{{ .Title }}"
+      loading="lazy"
+    >
+    {{ else }}
+    <div class="blog-card__img-placeholder" aria-hidden="true"></div>
+    {{ end }}
+    {{ with index .Params.categories 0 }}
+    <span class="blog-card__category">{{ . }}</span>
+    {{ end }}
+  </a>
+  <div class="blog-card__body">
+    <h2 class="blog-card__title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="blog-card__excerpt">{{ .Description }}</p>
+    <div class="blog-card__meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ with .Params.reading_time }}
+      <span class="blog-card__meta-sep" aria-hidden="true">·</span>
+      <span>{{ . }} dk okuma</span>
+      {{ end }}
+    </div>
+  </div>
+</article>

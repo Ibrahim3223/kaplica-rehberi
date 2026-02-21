@@ -1,0 +1,7 @@
+# Cloudflare Pages Redirect Kuralları
+
+# 404 yönlendirmesi
+/404   /404.html  404
+
+# Türkçe karakter düzeltmeleri (eski URL'ler varsa)
+/kaplicalar/afyonkarahisar/*  /iller/afyonkarahisar/:splat  301

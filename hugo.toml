@@ -1,0 +1,42 @@
+baseURL = "https://kaplicarehberi.com/"
+languageCode = "tr"
+title = "Kaplıca Rehberi - Türkiye Kaplıca ve Termal Kaynak Rehberi"
+defaultContentLanguage = "tr"
+
+[params]
+  description = "Türkiye'deki kaplıcalar, termal kaynaklar ve şifalı sular hakkında kapsamlı rehber."
+  author = "Kaplıca Rehberi"
+  ogimage = "/images/og-default.jpg"
+  sitelogo = "/logo.png"
+
+[taxonomies]
+  il = "iller"
+  hastalik = "hastaliklar"
+  tur = "turler"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[pagination]
+  pagerSize = 18
+
+[minify]
+  minifyOutput = true
+
+[build]
+  writeStats = true

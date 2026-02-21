@@ -1,0 +1,201 @@
+{{ define "main" }}
+
+<!-- =============================================
+     HERO SECTION
+============================================= -->
+<section class="hero" aria-label="Ana sayfa hero">
+  <div class="hero__bg" aria-hidden="true"></div>
+  <div class="hero__overlay" aria-hidden="true"></div>
+  <div class="hero__steam" aria-hidden="true"></div>
+
+  <div class="container hero__content">
+    <span class="hero__eyebrow">Türkiye'nin Şifalı Kaynakları</span>
+
+    <h1 class="hero__title">
+      Termal Sularda<br>
+      <em>Yeniden Doğun</em>
+    </h1>
+
+    <p class="hero__subtitle">
+      1.500+ Termal Kaynak
+      <span>•</span>
+      81 İl
+      <span>•</span>
+      Kapsamlı Rehberiniz
+    </p>
+
+    <div class="hero__search" role="search">
+      <form class="hero__search-inner" action="/ara/" method="get">
+        <label for="hero-search" class="sr-only">Kaplıca veya il adı ara</label>
+        <input
+          id="hero-search"
+          class="hero__search-input"
+          type="search"
+          name="q"
+          placeholder="Kaplıca veya il adı ara..."
+          autocomplete="off"
+          aria-label="Kaplıca veya il adı ara"
+        >
+        <button type="submit" class="hero__search-btn">Ara</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="hero__scroll" aria-hidden="true">
+    <div class="hero__scroll-line"></div>
+    <span>Keşfet</span>
+  </div>
+</section>
+
+<!-- =============================================
+     ÖNE ÇIKAN KAPLICALAR
+============================================= -->
+<section class="section" aria-labelledby="featured-title">
+  <div class="container">
+    <div class="section__header fade-in">
+      <span class="section__label">Editörün Seçimi</span>
+      <h2 class="section__title" id="featured-title">Keşfedilmeyi Bekleyen Şifalı Sular</h2>
+      <p class="section__subtitle">Türkiye'nin en prestijli ve köklü termal kaynaklarından bir seçki</p>
+    </div>
+
+    <div class="cards-grid">
+      {{/* Editörün seçimi: gerçek görseli olan en popüler kaplicalar */}}
+      {{ $slugs := slice
+        "pamukkale-termal-kaynaklari"
+        "yalova-termal-kaplicalari"
+        "kizilcahamam-kaplicalari"
+        "kangal-balikli-kaplica"
+        "dikili-termal-kaplicalari"
+        "haymana-kaplicalari"
+      }}
+      {{ range $slugs }}
+        {{ $page := site.GetPage (printf "/kaplicalar/%s" .) }}
+        {{ if $page }}{{ partial "kaplica-card.html" $page }}{{ end }}
+      {{ end }}
+    </div>
+
+    <div style="text-align:center; margin-top:2.5rem;" class="fade-in">
+      <a href="/kaplicalar/" class="btn btn--outline">Tüm Kaplıcaları Gör</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     İSTATİSTİK BANDI
+============================================= -->
+<section class="stats-band" aria-labelledby="stats-title">
+  <div class="container">
+    <h2 class="sr-only" id="stats-title">Kaplıca Rehberi İstatistikleri</h2>
+    <div class="stats-grid">
+      <div class="stat-item">
+        <span class="stat-item__number" data-count="80" data-suffix="+">80+</span>
+        <span class="stat-item__label">Detaylı Kaplıca Rehberi</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number" data-count="81">81</span>
+        <span class="stat-item__label">İl Kapsamında</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number" data-count="1000" data-suffix="+ Yıl">1.000+ Yıl</span>
+        <span class="stat-item__label">Köklü Tarih</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-item__number" data-count="7">7.</span>
+        <span class="stat-item__label">Dünya Sıralaması</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     İL BAZLI KEŞFEDİN
+============================================= -->
+<section class="section section--alt" aria-labelledby="iller-title">
+  <div class="container">
+    <div class="section__header fade-in">
+      <span class="section__label">İl Bazlı Keşif</span>
+      <h2 class="section__title" id="iller-title">Hangi İlden Keşfediyorsunuz?</h2>
+      <p class="section__subtitle">Türkiye'nin 81 ili — her ilden termal kaynaklar sizi bekliyor</p>
+    </div>
+
+    <div class="il-grid fade-in">
+      {{ range .Site.Taxonomies.iller.ByCount | first 24 }}
+      <a href="{{ .Page.RelPermalink }}" class="il-card">
+        <p class="il-card__name">{{ .Page.Title }}</p>
+        <span class="il-card__count">{{ .Count }} kaplıca</span>
+      </a>
+      {{ end }}
+    </div>
+
+    <div style="text-align:center; margin-top:2rem;" class="fade-in">
+      <a href="/iller/" class="btn btn--outline">Tüm İlleri Gör</a>
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     HASTALIK BAZLI KEŞFEDİN
+============================================= -->
+<section class="section" aria-labelledby="hastalik-title">
+  <div class="container">
+    <div class="section__header fade-in">
+      <span class="section__label">Sağlık Kategorileri</span>
+      <h2 class="section__title" id="hastalik-title">Şikayetinize Göre Kaplıca Bulun</h2>
+      <p class="section__subtitle">Hangi rahatsızlığa iyi gelen kaplıcaları arıyorsunuz?</p>
+    </div>
+
+    <div class="hastalik-grid fade-in">
+      {{/* key = frontmatter'daki gerçek değer (Turkish chars), href için urlize kullanılır */}}
+      {{ $hastaliklar := slice
+        (dict "key" "romatizma"          "name" "Romatizma"           "icon" "🦴" "class" "kemik")
+        (dict "key" "cilt-hastalıkları"  "name" "Cilt Hastalıkları"   "icon" "✨" "class" "cilt")
+        (dict "key" "sinir-hastalıkları" "name" "Sinir Hastalıkları"  "icon" "🧠" "class" "sinir")
+        (dict "key" "solunum-hastalıkları" "name" "Solunum Hastalıkları" "icon" "🫁" "class" "solunum")
+        (dict "key" "kas-hastalıkları"   "name" "Kas Hastalıkları"    "icon" "💪" "class" "kemik")
+        (dict "key" "eklem-hastalıkları" "name" "Eklem Hastalıkları"  "icon" "🔩" "class" "kemik")
+        (dict "key" "sindirim-hastalıkları" "name" "Sindirim Hastalıkları" "icon" "🌿" "class" "sindirim")
+        (dict "key" "stres"              "name" "Stres & Yorgunluk"   "icon" "🧘" "class" "sinir")
+      }}
+      {{ range $hastaliklar }}
+      <a href="/hastaliklar/{{ .key | urlize }}/" class="hastalik-card">
+        <div class="hastalik-card__icon hastalik-card__icon--{{ .class }}" aria-hidden="true">{{ .icon }}</div>
+        <p class="hastalik-card__name">{{ .name }}</p>
+        <span class="hastalik-card__count">
+          {{ with index $.Site.Taxonomies.hastaliklar .key }}{{ .Count }}{{ else }}0{{ end }} kaplıca
+        </span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     BİLGİ KUTUSU — Neden Kaplıca?
+============================================= -->
+<section class="section section--alt" aria-labelledby="why-title">
+  <div class="container" style="max-width:800px">
+    <div class="section__header fade-in">
+      <span class="section__label">Hakkımızda</span>
+      <h2 class="section__title" id="why-title">Neden Kaplıca Rehberi?</h2>
+    </div>
+    <div class="fade-in" style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:2rem; text-align:center;">
+      <div>
+        <div style="font-size:2.5rem; margin-bottom:0.75rem;">🔍</div>
+        <h3 style="font-size:1.1rem; margin-bottom:0.5rem;">Kapsamlı Veri</h3>
+        <p style="font-size:0.9rem; color:var(--color-text-light);">Sağlık Bakanlığı ve Wikidata'dan derlenen, düzenli güncellenen bilgiler</p>
+      </div>
+      <div>
+        <div style="font-size:2.5rem; margin-bottom:0.75rem;">🗺️</div>
+        <h3 style="font-size:1.1rem; margin-bottom:0.5rem;">İl & Hastalık Filtreleme</h3>
+        <p style="font-size:0.9rem; color:var(--color-text-light);">İl bazında veya şikayetinize göre kolayca arama yapın</p>
+      </div>
+      <div>
+        <div style="font-size:2.5rem; margin-bottom:0.75rem;">💊</div>
+        <h3 style="font-size:1.1rem; margin-bottom:0.5rem;">Sağlık Bilgisi</h3>
+        <p style="font-size:0.9rem; color:var(--color-text-light);">Her kaplıcada hangi mineraller var, hangi rahatsızlıklara iyi gelir?</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

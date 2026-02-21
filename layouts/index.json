@@ -1,0 +1,16 @@
+{{- $pages := where .Site.RegularPages "Section" "kaplicalar" -}}
+[
+  {{- range $i, $p := $pages -}}
+  {{- if $i }},{{ end -}}
+  {
+    "title": {{ $p.Title | jsonify }},
+    "url": {{ $p.RelPermalink | jsonify }},
+    "summary": {{ $p.Summary | plainify | truncate 150 | jsonify }},
+    "province": {{ $p.Params.province | default "" | jsonify }},
+    "district": {{ $p.Params.district | default "" | jsonify }},
+    "temperature": {{ with $p.Params.temperature }}{{ if and (ne . "None") (ne . "") }}{{ . }}{{ else }}0{{ end }}{{ else }}0{{ end }},
+    "popularity": {{ $p.Params.popularity | default "low" | jsonify }},
+    "conditions": {{ $p.Params.conditions | default slice | jsonify }}
+  }
+  {{- end -}}
+]

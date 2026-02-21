@@ -1,0 +1,308 @@
+{{ define "main" }}
+
+{{ if eq .Section "kaplicalar" }}
+<!-- =============================================
+     KAPLICA DETAY HERO
+============================================= -->
+<section class="detail-hero" aria-label="{{ .Title }} hero görseli">
+  {{ with .Params.image }}
+  <img
+    class="detail-hero__img"
+    src="{{ . }}"
+    alt="{{ $.Title }} termal kaplıcası"
+    loading="eager"
+    fetchpriority="high"
+  >
+  {{ else }}
+  <img
+    class="detail-hero__img"
+    src="/images/placeholder-kaplica.svg"
+    alt="{{ .Title }} termal kaplıcası"
+    loading="eager"
+    fetchpriority="high"
+  >
+  {{ end }}
+  <div class="detail-hero__overlay" aria-hidden="true"></div>
+  <div class="container detail-hero__content">
+    <nav class="detail-hero__breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Anasayfa</a>
+      <span class="detail-hero__breadcrumb-sep" aria-hidden="true">›</span>
+      <a href="/iller/{{ .Params.province | urlize }}/">{{ .Params.province }}</a>
+      <span class="detail-hero__breadcrumb-sep" aria-hidden="true">›</span>
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+    <h1 class="detail-hero__title">{{ .Title }}</h1>
+    {{ with .Params.district }}
+    <p class="detail-hero__location">{{ . }}{{ with $.Params.province }}, {{ . }}{{ end }}</p>
+    {{ end }}
+  </div>
+</section>
+
+{{ else }}
+<!-- =============================================
+     SAYFA HERO (Hakkımızda, Gizlilik vb.)
+============================================= -->
+<section class="page-hero" aria-labelledby="page-hero-title">
+  <div class="page-hero__overlay" aria-hidden="true"></div>
+  <div class="container page-hero__content">
+    <nav class="detail-hero__breadcrumb" aria-label="Breadcrumb" style="margin-bottom:1.25rem;">
+      <a href="/" style="color:rgba(255,255,255,0.7);">Anasayfa</a>
+      <span style="color:rgba(255,255,255,0.4); margin:0 0.5rem;">›</span>
+      <span style="color:white;" aria-current="page">{{ .Title }}</span>
+    </nav>
+    <h1 class="page-hero__title" id="page-hero-title">{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="page-hero__subtitle">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     HIZLI BİLGİ KARTI
+============================================= -->
+<div class="section" style="padding-bottom:0">
+  <div class="container">
+    <div class="info-card fade-in">
+      {{ with .Params.temperature }}
+      <div class="info-item">
+        <span class="info-item__label">Su Sıcaklığı</span>
+        <span class="info-item__value">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 14.76V3.5a2.5 2.5 0 00-5 0v11.26a4.5 4.5 0 105 0z"/></svg>
+          {{ . }}°C
+        </span>
+      </div>
+      {{ end }}
+
+      {{ with .Params.province }}
+      <div class="info-item">
+        <span class="info-item__label">İl</span>
+        <span class="info-item__value">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          {{ . }}
+        </span>
+      </div>
+      {{ end }}
+
+      {{ with .Params.district }}
+      <div class="info-item">
+        <span class="info-item__label">İlçe</span>
+        <span class="info-item__value">{{ . }}</span>
+      </div>
+      {{ end }}
+
+      {{ if .Params.latitude }}
+      <div class="info-item">
+        <span class="info-item__label">Konum</span>
+        <span class="info-item__value">
+          <a href="https://maps.google.com/?q={{ .Params.latitude }},{{ .Params.longitude }}" target="_blank" rel="noopener" style="color:var(--color-accent); font-size:0.85rem; display:flex; align-items:center; gap:0.25rem;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+            Haritada Gör
+          </a>
+        </span>
+      </div>
+      {{ end }}
+
+      {{ with .Params.minerals }}
+      <div class="info-item">
+        <span class="info-item__label">Mineral Sayısı</span>
+        <span class="info-item__value">{{ len . }} mineral</span>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<!-- =============================================
+     FOTOĞRAF GALERİSİ
+============================================= -->
+{{ if and (eq .Section "kaplicalar") .Params.gallery }}
+<section class="detail-gallery" aria-labelledby="gallery-title">
+  <div class="container">
+    <h2 class="detail-gallery__heading" id="gallery-title">Fotoğraf Galerisi</h2>
+    <div class="detail-gallery__grid">
+      {{ range $i, $img := .Params.gallery }}
+      <button
+        class="detail-gallery__item{{ if eq $i 0 }} detail-gallery__item--featured{{ end }}"
+        data-gallery-src="{{ $img }}"
+        data-gallery-index="{{ $i }}"
+        aria-label="Fotoğraf {{ add $i 1 }} — büyüt"
+        type="button"
+      >
+        <img
+          src="{{ $img }}"
+          alt="{{ if eq $i 0 }}{{ $.Title }} termal havuzu{{ else }}{{ $.Title }} kaplıca fotoğrafı {{ add $i 1 }}{{ end }}"
+          loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}"
+        >
+        <span class="detail-gallery__expand" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 3 21 3 21 9"/><polyline points="9 21 3 21 3 15"/>
+            <line x1="21" y1="3" x2="14" y2="10"/><line x1="3" y1="21" x2="10" y2="14"/>
+          </svg>
+        </span>
+      </button>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     ANA İÇERİK
+============================================= -->
+<div class="section">
+  <div class="container">
+    <div class="detail-layout">
+
+      <!-- İçerik -->
+      <article class="detail-content fade-in">
+        {{ .Content }}
+
+        <!-- Mineral Etiketleri -->
+        {{ with .Params.minerals }}
+        <div style="margin-top:2.5rem;">
+          <h2>Mineral İçeriği</h2>
+          <div class="mineral-tags" role="list" aria-label="Mineraller">
+            {{ range . }}
+            <span class="mineral-tag" role="listitem">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        <!-- Sağlık Faydaları -->
+        {{ with .Params.conditions }}
+        <div style="margin-top:2rem;">
+          <h2>İyi Geldiği Rahatsızlıklar</h2>
+          <ul class="benefits-list" aria-label="Sağlık faydaları">
+            {{ range . }}
+            <li>
+              <span class="benefits-list__icon" aria-hidden="true">✓</span>
+              <span>{{ . | title }}</span>
+            </li>
+            {{ end }}
+          </ul>
+          <p style="font-size:0.8rem; color:var(--color-text-light); margin-top:1rem; padding:0.75rem; background:var(--color-bg-warm); border-radius:var(--radius-sm);">
+            ⚕️ <strong>Önemli Not:</strong> Bu bilgiler genel rehber amaçlıdır. Herhangi bir sağlık sorunu için doktorunuza danışınız.
+          </p>
+        </div>
+        {{ end }}
+      </article>
+
+      <!-- Sidebar -->
+      <aside class="detail-sidebar fade-in">
+
+        <!-- Taxonomy Linkleri -->
+        {{ with .Params.iller }}
+        <div class="info-card" style="display:flex; flex-direction:column; gap:1rem;">
+          <h3 style="font-size:1rem; font-family:var(--font-ui); font-weight:700; text-transform:uppercase; letter-spacing:0.08em; color:var(--color-text-light); font-size:0.75rem;">{{ index . 0 }} Kaplıcaları</h3>
+          <a href="/iller/{{ index . 0 | urlize }}/" class="btn btn--outline" style="width:100%; justify-content:center; font-size:0.85rem;">
+            {{ index . 0 }}'daki Kaplıcalar →
+          </a>
+        </div>
+        {{ end }}
+
+        <!-- Hastalık Kategorileri -->
+        {{ with .Params.conditions }}
+        <div class="info-card" style="display:flex; flex-direction:column; gap:0.75rem;">
+          <h3 style="font-size:0.75rem; font-family:var(--font-ui); font-weight:700; text-transform:uppercase; letter-spacing:0.08em; color:var(--color-text-light);">İyi Geldiği Kategoriler</h3>
+          {{ range first 4 . }}
+          <a href="/hastaliklar/{{ . | urlize }}/" style="font-size:0.875rem; color:var(--color-primary); display:flex; align-items:center; gap:0.375rem;">
+            <span style="color:var(--color-accent);">→</span>
+            {{ . | title }}
+          </a>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <!-- Wikidata Linki -->
+        {{ with .Params.wikipedia_url }}
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn--outline" style="width:100%; justify-content:center; font-size:0.85rem;">
+          Wikipedia'da Oku ↗
+        </a>
+        {{ end }}
+
+      </aside>
+    </div>
+  </div>
+</div>
+
+<!-- =============================================
+     SIKÇA SORULAN SORULAR (FAQ)
+============================================= -->
+{{ if eq .Section "kaplicalar" }}
+<section class="faq-section" aria-labelledby="faq-heading">
+  <div class="container">
+    <h2 class="faq-section__heading" id="faq-heading">Sıkça Sorulan Sorular</h2>
+
+    {{ with .Params.temperature }}
+    <details>
+      <summary><strong>{{ $.Title }} su sıcaklığı kaç derece?</strong></summary>
+      <p>{{ $.Title }}'nın su sıcaklığı yaklaşık <strong>{{ . }}°C</strong>'dir. Bu yüksek mineral içerikli termal su, çeşitli sağlık sorunlarının tedavisinde yardımcı olmaktadır.</p>
+    </details>
+    {{ end }}
+
+    {{ with .Params.conditions }}
+    <details>
+      <summary><strong>{{ $.Title }} hangi hastalıklara iyi gelir?</strong></summary>
+      <p>{{ $.Title }}, özellikle <strong>{{ delimit . ", " " ve " }}</strong> gibi rahatsızlıklara iyi geldiği bilinmektedir.{{ with $.Params.minerals }} Termal suyun <strong>{{ delimit . ", " " ve " }}</strong> mineral içeriği bu tedavi edici etkilerin temelini oluşturur.{{ end }} Ancak herhangi bir sağlık sorunu için öncelikle doktorunuza danışmanızı öneririz.</p>
+    </details>
+    {{ end }}
+
+    {{ if or .Params.province .Params.district }}
+    <details>
+      <summary><strong>{{ .Title }} nerede, nasıl gidilir?</strong></summary>
+      <p>{{ .Title }}, {{ with .Params.province }}<strong>{{ . }}</strong> ili{{ end }}{{ with .Params.district }}nin <strong>{{ . }}</strong> ilçesinde{{ end }} yer almaktadır. Şehir merkezinden karayoluyla ulaşım mümkündür.{{ with .Params.latitude }} <a href="https://maps.google.com/?q={{ . }},{{ $.Params.longitude }}" target="_blank" rel="noopener">Google Harita'da görüntülemek için tıklayın.</a>{{ end }}</p>
+    </details>
+    {{ end }}
+
+    <details>
+      <summary><strong>{{ .Title }} giriş ücreti ne kadar?</strong></summary>
+      <p>{{ .Title }} giriş ücretleri sezona, günlük veya saatlik kullanıma göre değişiklik gösterebilir. En güncel fiyat bilgisi için ilgili tesisi doğrudan aramanızı veya resmi web sitesini ziyaret etmenizi öneririz.</p>
+    </details>
+
+    {{ with .Params.province }}
+    <details>
+      <summary><strong>{{ . }} bölgesinde başka hangi kaplıcalar var?</strong></summary>
+      <p>{{ . }} ilinde {{ $.Title }} dışında da termal kaynaklar bulunmaktadır. <a href="/iller/{{ . | urlize }}/">{{ . }} ilindeki tüm kaplıcaları görmek için tıklayın →</a></p>
+    </details>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}
+
+<!-- =============================================
+     YAKINDAKI KAPLICALAR
+============================================= -->
+{{ $province := .Params.province }}
+{{ $currentPermalink := .RelPermalink }}
+{{ $nearbyAll := where .Site.RegularPages "Params.province" $province }}
+{{ $nearby := slice }}
+{{ $nearbyTitles := slice }}
+{{ range $nearbyAll }}
+  {{ $titleLower := .Title | lower }}
+  {{ if and (ne .RelPermalink $currentPermalink) (lt (len $nearby) 6) (not (in $nearbyTitles $titleLower)) }}
+    {{ $nearby = $nearby | append . }}
+    {{ $nearbyTitles = $nearbyTitles | append $titleLower }}
+  {{ end }}
+{{ end }}
+{{ if $nearby }}
+<section class="section section--alt" aria-labelledby="nearby-title">
+  <div class="container">
+    <div class="section__header" style="text-align:left; margin-bottom:1.5rem;">
+      <span class="section__label">{{ $province }}</span>
+      <h2 class="section__title" id="nearby-title" style="font-size:1.5rem;">Bölgedeki Diğer Kaplıcalar</h2>
+    </div>
+    <div class="nearby-slider">
+      <div class="nearby-slider__track">
+        {{ range $nearby }}
+          {{ partial "kaplica-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

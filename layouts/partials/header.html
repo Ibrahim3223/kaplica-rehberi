@@ -1,0 +1,30 @@
+<header class="site-header{{ if .IsHome }} is-transparent{{ end }}" data-transparent="{{ .IsHome }}">
+  <div class="container">
+    <nav class="nav" aria-label="Ana navigasyon">
+
+      <!-- Logo -->
+      <a href="/" class="nav__logo" aria-label="Kaplıca Rehberi Ana Sayfa">
+        <img src="/logo.png" alt="" class="nav__logo-img" aria-hidden="true">
+        <span class="nav__logo-text">Kaplıca Rehberi</span>
+      </a>
+
+      <!-- Navigation Links -->
+      <ul class="nav__links" role="list">
+        <li><a href="/kaplicalar/">Kaplıcalar</a></li>
+        <li><a href="/iller/">İller</a></li>
+        <li><a href="/hastaliklar/">Hastalıklar</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/hakkimizda/">Hakkımızda</a></li>
+        <li><a href="/kaplicalar/" class="nav__cta">Keşfet</a></li>
+      </ul>
+
+      <!-- Hamburger (mobil) -->
+      <button class="nav__hamburger" aria-label="Menüyü aç/kapat" aria-expanded="false" aria-controls="nav-links">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    </nav>
+  </div>
+</header>

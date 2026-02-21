@@ -1,0 +1,658 @@
+{
+  "bursa-cekirge-kaplicasi": {
+    "name": "Bursa Çekirge Kaplıcaları",
+    "generated_at": "2026-02-18T13:46:32.077352",
+    "structure": "F",
+    "angle": "romantic",
+    "word_count": 608,
+    "filepath": "content\\kaplicalar\\bursa-cekirge-kaplicasi.md"
+  },
+  "kizilcahamam-kaplicasi": {
+    "name": "Kızılcahamam Kaplıcaları",
+    "generated_at": "2026-02-18T13:47:52.012258",
+    "structure": "D",
+    "angle": "family",
+    "word_count": 568,
+    "filepath": "content\\kaplicalar\\kizilcahamam-kaplicasi.md"
+  },
+  "oylat-kaplicasi": {
+    "name": "Oylat Kaplıcaları",
+    "generated_at": "2026-02-18T13:49:16.750235",
+    "structure": "E",
+    "angle": "romantic",
+    "word_count": 386,
+    "filepath": "content\\kaplicalar\\oylat-kaplicasi.md"
+  },
+  "haymana-kaplicasi": {
+    "name": "Haymana Kaplıcaları",
+    "generated_at": "2026-02-18T13:49:34.061541",
+    "structure": "A",
+    "angle": "budget",
+    "word_count": 478,
+    "filepath": "content\\kaplicalar\\haymana-kaplicasi.md"
+  },
+  "karahayit-kaplicasi": {
+    "name": "Karahayıt Kaplıcaları",
+    "generated_at": "2026-02-18T13:49:50.456532",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 404,
+    "filepath": "content\\kaplicalar\\karahayit-kaplicasi.md"
+  },
+  "ilica-kaplicasi-erzurum": {
+    "name": "Ilıca Kaplıcaları",
+    "generated_at": "2026-02-18T13:50:10.448505",
+    "structure": "C",
+    "angle": "family",
+    "word_count": 471,
+    "filepath": "content\\kaplicalar\\ilica-kaplicasi-erzurum.md"
+  },
+  "gazligol-kaplicasi": {
+    "name": "Gazlıgöl Kaplıcaları",
+    "generated_at": "2026-02-18T13:50:30.750148",
+    "structure": "B",
+    "angle": "romantic",
+    "word_count": 389,
+    "filepath": "content\\kaplicalar\\gazligol-kaplicasi.md"
+  },
+  "sandikli-hudai-kaplicasi": {
+    "name": "Sandıklı Hüdai Kaplıcası",
+    "generated_at": "2026-02-18T13:51:17.946850",
+    "structure": "A",
+    "angle": "health",
+    "word_count": 452,
+    "filepath": "content\\kaplicalar\\sandikli-hudai-kaplicasi.md"
+  },
+  "yalova-termal-kaplicasi": {
+    "name": "Yalova Termal Kaplıcaları",
+    "generated_at": "2026-02-18T13:51:39.163627",
+    "structure": "C",
+    "angle": "weekend",
+    "word_count": 453,
+    "filepath": "content\\kaplicalar\\yalova-termal-kaplicasi.md"
+  },
+  "gonen-kaplicasi": {
+    "name": "Gönen Kaplıcaları",
+    "generated_at": "2026-02-18T13:51:58.160164",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 433,
+    "filepath": "content\\kaplicalar\\gonen-kaplicasi.md"
+  },
+  "acisu-kaplicasi": {
+    "name": "Acısu Kaplıcası",
+    "generated_at": "2026-02-18T14:00:02.024321",
+    "structure": "B",
+    "angle": "weekend",
+    "word_count": 405,
+    "filepath": "content\\kaplicalar\\acisu-kaplicasi.md"
+  },
+  "ayas-kaplicasi": {
+    "name": "Ayaş Kaplıcası",
+    "generated_at": "2026-02-18T14:00:32.054740",
+    "structure": "B",
+    "angle": "romantic",
+    "word_count": 385,
+    "filepath": "content\\kaplicalar\\ayas-kaplicasi.md"
+  },
+  "babas": {
+    "name": "Babas",
+    "generated_at": "2026-02-18T14:01:03.762491",
+    "structure": "C",
+    "angle": "family",
+    "word_count": 378,
+    "filepath": "content\\kaplicalar\\babas.md"
+  },
+  "bayramoren-kaplicasi": {
+    "name": "Bayramören Kaplıcası",
+    "generated_at": "2026-02-18T14:01:30.270282",
+    "structure": "E",
+    "angle": "family",
+    "word_count": 384,
+    "filepath": "content\\kaplicalar\\bayramoren-kaplicasi.md"
+  },
+  "duzici-haruniye-ilicasi": {
+    "name": "Düziçi Haruniye Ilıcası",
+    "generated_at": "2026-02-18T14:01:55.310143",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 409,
+    "filepath": "content\\kaplicalar\\duzici-haruniye-ilicasi.md"
+  },
+  "evlik-kaplicasi": {
+    "name": "Evlik Kaplıcası",
+    "generated_at": "2026-02-18T14:02:28.493713",
+    "structure": "C",
+    "angle": "romantic",
+    "word_count": 424,
+    "filepath": "content\\kaplicalar\\evlik-kaplicasi.md"
+  },
+  "figani-kaplicasi": {
+    "name": "Figani Kaplıcası",
+    "generated_at": "2026-02-18T14:02:57.019911",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 355,
+    "filepath": "content\\kaplicalar\\figani-kaplicasi.md"
+  },
+  "hamamlicay-koy-kaplicasi": {
+    "name": "Hamamlıçay Köy Kaplıcası",
+    "generated_at": "2026-02-18T14:03:25.334325",
+    "structure": "C",
+    "angle": "family",
+    "word_count": 453,
+    "filepath": "content\\kaplicalar\\hamamlicay-koy-kaplicasi.md"
+  },
+  "haymana-ilicasi": {
+    "name": "Haymana Ilıcası",
+    "generated_at": "2026-02-18T14:04:07.894147",
+    "structure": "A",
+    "angle": "family",
+    "word_count": 463,
+    "filepath": "content\\kaplicalar\\haymana-ilicasi.md"
+  },
+  "karakaya-ilicasi": {
+    "name": "Karakaya Ilıcası",
+    "generated_at": "2026-02-18T14:04:36.876383",
+    "structure": "F",
+    "angle": "family",
+    "word_count": 387,
+    "filepath": "content\\kaplicalar\\karakaya-ilicasi.md"
+  },
+  "kayacik-ilicasi": {
+    "name": "Kayacık Ilıcası",
+    "generated_at": "2026-02-18T14:04:59.009563",
+    "structure": "B",
+    "angle": "family",
+    "word_count": 369,
+    "filepath": "content\\kaplicalar\\kayacik-ilicasi.md"
+  },
+  "kazanci-kaplicasi": {
+    "name": "Kazancı Kaplıcası",
+    "generated_at": "2026-02-18T14:05:26.982316",
+    "structure": "A",
+    "angle": "health",
+    "word_count": 381,
+    "filepath": "content\\kaplicalar\\kazanci-kaplicasi.md"
+  },
+  "kos-kaplicasi": {
+    "name": "Kös Kaplıcası",
+    "generated_at": "2026-02-18T14:06:08.233339",
+    "structure": "F",
+    "angle": "romantic",
+    "word_count": 462,
+    "filepath": "content\\kaplicalar\\kos-kaplicasi.md"
+  },
+  "kukurt-kaplicasi": {
+    "name": "Kükürt Kaplıcası",
+    "generated_at": "2026-02-18T14:06:30.592817",
+    "structure": "E",
+    "angle": "budget",
+    "word_count": 333,
+    "filepath": "content\\kaplicalar\\kukurt-kaplicasi.md"
+  },
+  "kurttacin-ilicasi": {
+    "name": "Kürttacın Ilıcası",
+    "generated_at": "2026-02-18T14:06:53.533274",
+    "structure": "D",
+    "angle": "romantic",
+    "word_count": 385,
+    "filepath": "content\\kaplicalar\\kurttacin-ilicasi.md"
+  },
+  "kirmizi-su-karahayit": {
+    "name": "Kırmızı Su Karahayıt",
+    "generated_at": "2026-02-18T14:07:25.789962",
+    "structure": "F",
+    "angle": "weekend",
+    "word_count": 496,
+    "filepath": "content\\kaplicalar\\kirmizi-su-karahayit.md"
+  },
+  "pamukkale": {
+    "name": "Pamukkale",
+    "generated_at": "2026-02-18T14:07:58.758335",
+    "structure": "E",
+    "angle": "romantic",
+    "word_count": 531,
+    "filepath": "content\\kaplicalar\\pamukkale.md"
+  },
+  "saraycik-ilicasi": {
+    "name": "Saraycık Ilıcası",
+    "generated_at": "2026-02-18T14:08:35.116009",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 383,
+    "filepath": "content\\kaplicalar\\saraycik-ilicasi.md"
+  },
+  "sariot-kaplicasi": {
+    "name": "Sarıot Kaplıcası",
+    "generated_at": "2026-02-18T14:09:07.128669",
+    "structure": "C",
+    "angle": "romantic",
+    "word_count": 380,
+    "filepath": "content\\kaplicalar\\sariot-kaplicasi.md"
+  },
+  "terzikoy-kaplicasi": {
+    "name": "Terziköy Kaplıcası",
+    "generated_at": "2026-02-18T14:09:33.841682",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 381,
+    "filepath": "content\\kaplicalar\\terzikoy-kaplicasi.md"
+  },
+  "travertines-of-pamukkale": {
+    "name": "Travertines of Pamukkale",
+    "generated_at": "2026-02-18T14:10:03.930580",
+    "structure": "D",
+    "angle": "romantic",
+    "word_count": 495,
+    "filepath": "content\\kaplicalar\\travertines-of-pamukkale.md"
+  },
+  "cavuscukoyu-acik-ilicasi": {
+    "name": "Çavuşçuköyü Açık Ilıcası",
+    "generated_at": "2026-02-18T14:10:22.287782",
+    "structure": "E",
+    "angle": "budget",
+    "word_count": 369,
+    "filepath": "content\\kaplicalar\\cavuscukoyu-acik-ilicasi.md"
+  },
+  "insuyu-kaplicasi": {
+    "name": "İnsuyu Kaplıcası",
+    "generated_at": "2026-02-18T14:10:48.601407",
+    "structure": "D",
+    "angle": "romantic",
+    "word_count": 387,
+    "filepath": "content\\kaplicalar\\insuyu-kaplicasi.md"
+  },
+  "istinata-kaplicasi": {
+    "name": "İstınata Kaplıcası",
+    "generated_at": "2026-02-18T14:11:20.665904",
+    "structure": "F",
+    "angle": "romantic",
+    "word_count": 436,
+    "filepath": "content\\kaplicalar\\istinata-kaplicasi.md"
+  },
+  "gazligol-kaplicalari": {
+    "name": "Gazlıgöl Kaplıcaları",
+    "generated_at": "2026-02-18T14:11:55.765775",
+    "structure": "A",
+    "angle": "romantic",
+    "word_count": 507,
+    "filepath": "content\\kaplicalar\\gazligol-kaplicalari.md"
+  },
+  "heybeli-kaplicalari": {
+    "name": "Heybeli Kaplıcaları",
+    "generated_at": "2026-02-18T14:12:17.146386",
+    "structure": "E",
+    "angle": "health",
+    "word_count": 396,
+    "filepath": "content\\kaplicalar\\heybeli-kaplicalari.md"
+  },
+  "omer-gecek-kaplicalari": {
+    "name": "Ömer-Gecek Kaplıcaları",
+    "generated_at": "2026-02-18T14:12:43.435108",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 455,
+    "filepath": "content\\kaplicalar\\omer-gecek-kaplicalari.md"
+  },
+  "ihlara-kaplicalari": {
+    "name": "Ihlara Kaplıcaları",
+    "generated_at": "2026-02-18T14:12:53.058613",
+    "structure": "A",
+    "angle": "romantic",
+    "word_count": 392,
+    "filepath": "content\\kaplicalar\\ihlara-kaplicalari.md"
+  },
+  "haymana-kaplicalari": {
+    "name": "Haymana Kaplıcaları",
+    "generated_at": "2026-02-18T14:13:17.669548",
+    "structure": "C",
+    "angle": "health",
+    "word_count": 494,
+    "filepath": "content\\kaplicalar\\haymana-kaplicalari.md"
+  },
+  "kizilcahamam-kaplicalari": {
+    "name": "Kızılcahamam Kaplıcaları",
+    "generated_at": "2026-02-18T14:13:42.575217",
+    "structure": "A",
+    "angle": "weekend",
+    "word_count": 506,
+    "filepath": "content\\kaplicalar\\kizilcahamam-kaplicalari.md"
+  },
+  "germencik-kaplicalari": {
+    "name": "Germencik Kaplıcaları",
+    "generated_at": "2026-02-18T14:13:57.420754",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 412,
+    "filepath": "content\\kaplicalar\\germencik-kaplicalari.md"
+  },
+  "diyadin-kaplicalari": {
+    "name": "Diyadin Kaplıcaları",
+    "generated_at": "2026-02-18T14:14:25.133898",
+    "structure": "F",
+    "angle": "health",
+    "word_count": 461,
+    "filepath": "content\\kaplicalar\\diyadin-kaplicalari.md"
+  },
+  "gonen-kaplicalari": {
+    "name": "Gönen Kaplıcaları",
+    "generated_at": "2026-02-18T14:14:52.947519",
+    "structure": "C",
+    "angle": "weekend",
+    "word_count": 426,
+    "filepath": "content\\kaplicalar\\gonen-kaplicalari.md"
+  },
+  "gure-kaplicalari": {
+    "name": "Güre Kaplıcaları",
+    "generated_at": "2026-02-18T14:15:21.742049",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 437,
+    "filepath": "content\\kaplicalar\\gure-kaplicalari.md"
+  },
+  "kizilot-kaplicalari": {
+    "name": "Kızılot Kaplıcaları",
+    "generated_at": "2026-02-18T14:15:34.785059",
+    "structure": "F",
+    "angle": "weekend",
+    "word_count": 432,
+    "filepath": "content\\kaplicalar\\kizilot-kaplicalari.md"
+  },
+  "karacasu-kaplicalari": {
+    "name": "Karacasu Kaplıcaları",
+    "generated_at": "2026-02-18T14:15:51.780101",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 380,
+    "filepath": "content\\kaplicalar\\karacasu-kaplicalari.md"
+  },
+  "seben-kaplicalari": {
+    "name": "Seben Kaplıcaları",
+    "generated_at": "2026-02-18T14:16:13.542647",
+    "structure": "A",
+    "angle": "family",
+    "word_count": 388,
+    "filepath": "content\\kaplicalar\\seben-kaplicalari.md"
+  },
+  "armutlu-kaplicalari": {
+    "name": "Armutlu Kaplıcaları",
+    "generated_at": "2026-02-18T14:16:32.744334",
+    "structure": "B",
+    "angle": "budget",
+    "word_count": 419,
+    "filepath": "content\\kaplicalar\\armutlu-kaplicalari.md"
+  },
+  "bursa-cekirge-kaplicalari": {
+    "name": "Bursa Çekirge Kaplıcaları",
+    "generated_at": "2026-02-18T14:16:43.867449",
+    "structure": "A",
+    "angle": "weekend",
+    "word_count": 453,
+    "filepath": "content\\kaplicalar\\bursa-cekirge-kaplicalari.md"
+  },
+  "oylat-kaplicalari": {
+    "name": "Oylat Kaplıcaları",
+    "generated_at": "2026-02-18T14:17:16.634087",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 489,
+    "filepath": "content\\kaplicalar\\oylat-kaplicalari.md"
+  },
+  "karahayit-kaplicalari": {
+    "name": "Karahayıt Kaplıcaları",
+    "generated_at": "2026-02-18T14:17:39.192616",
+    "structure": "D",
+    "angle": "family",
+    "word_count": 445,
+    "filepath": "content\\kaplicalar\\karahayit-kaplicalari.md"
+  },
+  "pamukkale-termal-kaynaklari": {
+    "name": "Pamukkale Termal Kaynakları",
+    "generated_at": "2026-02-18T14:17:59.765869",
+    "structure": "B",
+    "angle": "romantic",
+    "word_count": 400,
+    "filepath": "content\\kaplicalar\\pamukkale-termal-kaynaklari.md"
+  },
+  "saraykoy-kaplicalari": {
+    "name": "Sarayköy Kaplıcaları",
+    "generated_at": "2026-02-18T14:18:17.603919",
+    "structure": "C",
+    "angle": "romantic",
+    "word_count": 463,
+    "filepath": "content\\kaplicalar\\saraykoy-kaplicalari.md"
+  },
+  "eksisu-kaplicalari": {
+    "name": "Ekşisu Kaplıcaları",
+    "generated_at": "2026-02-18T14:18:37.413121",
+    "structure": "E",
+    "angle": "romantic",
+    "word_count": 336,
+    "filepath": "content\\kaplicalar\\eksisu-kaplicalari.md"
+  },
+  "ilica-kaplicalari": {
+    "name": "Ilıca Kaplıcaları",
+    "generated_at": "2026-02-18T14:18:56.815350",
+    "structure": "A",
+    "angle": "weekend",
+    "word_count": 441,
+    "filepath": "content\\kaplicalar\\ilica-kaplicalari.md"
+  },
+  "pasinler-kaplicalari": {
+    "name": "Pasinler Kaplıcaları",
+    "generated_at": "2026-02-18T14:19:13.114844",
+    "structure": "F",
+    "angle": "weekend",
+    "word_count": 447,
+    "filepath": "content\\kaplicalar\\pasinler-kaplicalari.md"
+  },
+  "saricakaya-kaplicalari": {
+    "name": "Sarıcakaya Kaplıcaları",
+    "generated_at": "2026-02-18T14:19:34.067109",
+    "structure": "C",
+    "angle": "health",
+    "word_count": 441,
+    "filepath": "content\\kaplicalar\\saricakaya-kaplicalari.md"
+  },
+  "dongel-kaplicalari": {
+    "name": "Döngel Kaplıcaları",
+    "generated_at": "2026-02-18T14:19:50.464613",
+    "structure": "C",
+    "angle": "family",
+    "word_count": 451,
+    "filepath": "content\\kaplicalar\\dongel-kaplicalari.md"
+  },
+  "hisaralan-kaplicalari": {
+    "name": "Hisaralan Kaplıcaları",
+    "generated_at": "2026-02-18T14:20:21.750225",
+    "structure": "A",
+    "angle": "health",
+    "word_count": 427,
+    "filepath": "content\\kaplicalar\\hisaralan-kaplicalari.md"
+  },
+  "karamursel-kaplicalari": {
+    "name": "Karamürsel Kaplıcaları",
+    "generated_at": "2026-02-18T14:20:37.272674",
+    "structure": "C",
+    "angle": "budget",
+    "word_count": 414,
+    "filepath": "content\\kaplicalar\\karamursel-kaplicalari.md"
+  },
+  "ilgin-kaplicalari": {
+    "name": "Ilgın Kaplıcaları",
+    "generated_at": "2026-02-18T14:20:55.794407",
+    "structure": "D",
+    "angle": "budget",
+    "word_count": 405,
+    "filepath": "content\\kaplicalar\\ilgin-kaplicalari.md"
+  },
+  "gediz-kaplicalari": {
+    "name": "Gediz Kaplıcaları",
+    "generated_at": "2026-02-18T14:21:15.624889",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 461,
+    "filepath": "content\\kaplicalar\\gediz-kaplicalari.md"
+  },
+  "simav-kaplicalari": {
+    "name": "Simav Kaplıcaları",
+    "generated_at": "2026-02-18T14:22:02.016513",
+    "structure": "C",
+    "angle": "romantic",
+    "word_count": 428,
+    "filepath": "content\\kaplicalar\\simav-kaplicalari.md"
+  },
+  "kirikkale-delice-kaplicalari": {
+    "name": "Kırıkkale Delice Kaplıcaları",
+    "generated_at": "2026-02-18T14:22:16.643194",
+    "structure": "A",
+    "angle": "romantic",
+    "word_count": 411,
+    "filepath": "content\\kaplicalar\\kirikkale-delice-kaplicalari.md"
+  },
+  "terme-kaplicalari": {
+    "name": "Terme Kaplıcaları",
+    "generated_at": "2026-02-18T14:22:28.095445",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 419,
+    "filepath": "content\\kaplicalar\\terme-kaplicalari.md"
+  },
+  "salihli-caferbeyli-kaplicalari": {
+    "name": "Salihli Caferbeyli Kaplıcaları",
+    "generated_at": "2026-02-18T14:22:43.152647",
+    "structure": "B",
+    "angle": "health",
+    "word_count": 373,
+    "filepath": "content\\kaplicalar\\salihli-caferbeyli-kaplicalari.md"
+  },
+  "urganli-kaplicalari": {
+    "name": "Urganlı Kaplıcaları",
+    "generated_at": "2026-02-18T14:22:58.704933",
+    "structure": "A",
+    "angle": "health",
+    "word_count": 459,
+    "filepath": "content\\kaplicalar\\urganli-kaplicalari.md"
+  },
+  "koycegiz-sultaniye-kaplicalari": {
+    "name": "Köyceğiz Sultaniye Kaplıcaları",
+    "generated_at": "2026-02-18T14:23:15.794089",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 417,
+    "filepath": "content\\kaplicalar\\koycegiz-sultaniye-kaplicalari.md"
+  },
+  "kozakli-kaplicalari": {
+    "name": "Kozaklı Kaplıcaları",
+    "generated_at": "2026-02-18T14:23:28.152179",
+    "structure": "E",
+    "angle": "family",
+    "word_count": 315,
+    "filepath": "content\\kaplicalar\\kozakli-kaplicalari.md"
+  },
+  "ciftehan-kaplicalari": {
+    "name": "Çiftehan Kaplıcaları",
+    "generated_at": "2026-02-18T14:23:37.712147",
+    "structure": "B",
+    "angle": "family",
+    "word_count": 370,
+    "filepath": "content\\kaplicalar\\ciftehan-kaplicalari.md"
+  },
+  "tarakli-kaplicalari": {
+    "name": "Taraklı Kaplıcaları",
+    "generated_at": "2026-02-18T14:23:52.068308",
+    "structure": "D",
+    "angle": "romantic",
+    "word_count": 409,
+    "filepath": "content\\kaplicalar\\tarakli-kaplicalari.md"
+  },
+  "kangal-balikli-kaplica": {
+    "name": "Kangal Balıklı Kaplıca",
+    "generated_at": "2026-02-18T14:24:08.375505",
+    "structure": "F",
+    "angle": "weekend",
+    "word_count": 479,
+    "filepath": "content\\kaplicalar\\kangal-balikli-kaplica.md"
+  },
+  "corlu-misinli-kaplicalari": {
+    "name": "Çorlu Misinli Kaplıcaları",
+    "generated_at": "2026-02-18T14:24:21.923944",
+    "structure": "E",
+    "angle": "family",
+    "word_count": 368,
+    "filepath": "content\\kaplicalar\\corlu-misinli-kaplicalari.md"
+  },
+  "turhal-kaplicalari": {
+    "name": "Turhal Kaplıcaları",
+    "generated_at": "2026-02-18T14:24:37.682961",
+    "structure": "E",
+    "angle": "weekend",
+    "word_count": 356,
+    "filepath": "content\\kaplicalar\\turhal-kaplicalari.md"
+  },
+  "edremit-kaplicalari": {
+    "name": "Edremit Kaplıcaları",
+    "generated_at": "2026-02-18T14:24:50.912238",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 371,
+    "filepath": "content\\kaplicalar\\edremit-kaplicalari.md"
+  },
+  "yalova-termal-kaplicalari": {
+    "name": "Yalova Termal Kaplıcaları",
+    "generated_at": "2026-02-18T14:25:11.671867",
+    "structure": "D",
+    "angle": "weekend",
+    "word_count": 536,
+    "filepath": "content\\kaplicalar\\yalova-termal-kaplicalari.md"
+  },
+  "ciftlikkoy-kaplicalari": {
+    "name": "Çiftlikköy Kaplıcaları",
+    "generated_at": "2026-02-18T14:25:28.453846",
+    "structure": "C",
+    "angle": "family",
+    "word_count": 439,
+    "filepath": "content\\kaplicalar\\ciftlikkoy-kaplicalari.md"
+  },
+  "sarikaya-kaplicalari": {
+    "name": "Sarıkaya Kaplıcaları",
+    "generated_at": "2026-02-18T14:25:59.973318",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 413,
+    "filepath": "content\\kaplicalar\\sarikaya-kaplicalari.md"
+  },
+  "kestanbol-kaplicalari": {
+    "name": "Kestanbol Kaplıcaları",
+    "generated_at": "2026-02-18T14:26:13.950779",
+    "structure": "F",
+    "angle": "weekend",
+    "word_count": 395,
+    "filepath": "content\\kaplicalar\\kestanbol-kaplicalari.md"
+  },
+  "kizilirmak-kaplicalari": {
+    "name": "Kızılırmak Kaplıcaları",
+    "generated_at": "2026-02-18T14:26:29.593227",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 408,
+    "filepath": "content\\kaplicalar\\kizilirmak-kaplicalari.md"
+  },
+  "dikili-termal-kaplicalari": {
+    "name": "Dikili Termal Kaplıcaları",
+    "generated_at": "2026-02-18T14:26:47.072245",
+    "structure": "D",
+    "angle": "health",
+    "word_count": 551,
+    "filepath": "content\\kaplicalar\\dikili-termal-kaplicalari.md"
+  },
+  "seferihisar-sigacik-kaplicalari": {
+    "name": "Seferihisar Sığacık Kaplıcaları",
+    "generated_at": "2026-02-18T14:26:58.943193",
+    "structure": "E",
+    "angle": "romantic",
+    "word_count": 332,
+    "filepath": "content\\kaplicalar\\seferihisar-sigacik-kaplicalari.md"
+  }
+}

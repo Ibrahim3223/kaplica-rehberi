@@ -1,0 +1,105 @@
+{{ define "main" }}
+
+<!-- =============================================
+     BLOG YAZI HERO
+============================================= -->
+<section class="blog-single-hero" aria-label="Yazı başlık alanı">
+  {{ if .Params.image }}
+  <img class="blog-single-hero__img" src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high">
+  {{ end }}
+  <div class="blog-single-hero__overlay" aria-hidden="true"></div>
+  <div class="container blog-single-hero__content">
+    <nav class="detail-hero__breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Anasayfa</a>
+      <span class="detail-hero__breadcrumb-sep" aria-hidden="true">›</span>
+      <a href="/blog/">Blog</a>
+      <span class="detail-hero__breadcrumb-sep" aria-hidden="true">›</span>
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+    {{ with index .Params.categories 0 }}
+    <span class="blog-single-hero__category">{{ . }}</span>
+    {{ end }}
+    <h1 class="blog-single-hero__title">{{ .Title }}</h1>
+    <div class="blog-single-hero__meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      {{ with .Params.reading_time }}
+      <span aria-hidden="true">·</span>
+      <span>{{ . }} dakika okuma</span>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- =============================================
+     YAZI İÇERİĞİ
+============================================= -->
+<div class="section">
+  <div class="container">
+    <div class="blog-single-layout">
+
+      <article class="blog-prose fade-in" aria-label="Yazı içeriği">
+        {{ if .Description }}
+        <p class="blog-prose__lead">{{ .Description }}</p>
+        {{ end }}
+        {{ .Content }}
+      </article>
+
+      <!-- Sidebar -->
+      <aside class="blog-single-sidebar fade-in" aria-label="Blog kenar çubuğu">
+
+        <!-- Kategoriler -->
+        {{ with .Params.categories }}
+        <div class="blog-sidebar-widget">
+          <h3 class="blog-sidebar-widget__title">Kategori</h3>
+          <div class="blog-sidebar-widget__tags">
+            {{ range . }}
+            <span class="mineral-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+
+        <!-- Okuma süresi -->
+        {{ with .Params.reading_time }}
+        <div class="blog-sidebar-widget">
+          <h3 class="blog-sidebar-widget__title">Okuma Süresi</h3>
+          <p class="blog-sidebar-widget__value">{{ . }} dakika</p>
+        </div>
+        {{ end }}
+
+        <!-- Diğer Yazılar -->
+        <div class="blog-sidebar-widget">
+          <h3 class="blog-sidebar-widget__title">Diğer Yazılar</h3>
+          {{ $current := . }}
+          {{ range first 4 (where .Site.RegularPages "Section" "blog") }}
+            {{ if ne .RelPermalink $current.RelPermalink }}
+            <a href="{{ .RelPermalink }}" class="blog-sidebar-widget__link">{{ .Title }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+
+      </aside>
+    </div>
+
+    <!-- Önceki / Sonraki -->
+    <nav class="blog-prevnext" aria-label="Önceki ve sonraki yazılar">
+      {{ with .PrevInSection }}
+      <a href="{{ .RelPermalink }}" class="blog-prevnext__item blog-prevnext__item--prev">
+        <span class="blog-prevnext__label">← Önceki Yazı</span>
+        <span class="blog-prevnext__title">{{ .Title }}</span>
+      </a>
+      {{ else }}
+      <div></div>
+      {{ end }}
+      {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}" class="blog-prevnext__item blog-prevnext__item--next">
+        <span class="blog-prevnext__label">Sonraki Yazı →</span>
+        <span class="blog-prevnext__title">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </nav>
+
+  </div>
+</div>
+
+{{ end }}

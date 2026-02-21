@@ -1,0 +1,361 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{{/* =====================================================
+     TITLE TAG — Sayfa tipine göre optimize edilmiş format
+===================================================== */}}
+{{ $siteShort := "Kaplıca Rehberi" }}
+{{ if .IsHome }}
+<title>Kaplıca Rehberi — Türkiye'nin Kaplıca ve Termal Kaynak Rehberi</title>
+{{ else if and (eq .Section "kaplicalar") .IsPage }}
+<title>{{ .Title }} — Su Sıcaklığı, Faydaları ve Ulaşım | {{ $siteShort }}</title>
+{{ else if eq .Data.Plural "iller" }}
+<title>{{ .Title }} Kaplıcaları — {{ len .Pages }} Termal Kaynak | {{ $siteShort }}</title>
+{{ else if eq .Data.Plural "hastaliklar" }}
+<title>{{ .Title }} — {{ len .Pages }} Şifalı Kaplıca | {{ $siteShort }}</title>
+{{ else if eq .Section "blog" }}
+<title>{{ .Title }} | {{ $siteShort }} Blog</title>
+{{ else }}
+<title>{{ .Title }} | {{ $siteShort }}</title>
+{{ end }}
+
+{{/* =====================================================
+     META DESCRIPTION — Sayfa tipine göre dinamik
+===================================================== */}}
+{{ $desc := "" }}
+{{ if .IsHome }}
+  {{ $desc = .Site.Params.description }}
+{{ else if and (eq .Section "kaplicalar") .IsPage }}
+  {{ $desc = .Description | default .Site.Params.description }}
+{{ else if eq .Data.Plural "iller" }}
+  {{ $desc = printf "%s ilindeki %d kaplıca — su sıcaklıkları, mineral içerikleri ve konaklama rehberi. Şifalı sularıyla ünlü %s'ı keşfedin." .Title (len .Pages) .Title }}
+{{ else if eq .Data.Plural "hastaliklar" }}
+  {{ $desc = printf "%s için iyi gelen %d kaplıca. Su sıcaklıkları, mineral içerikleri ve ulaşım bilgisi ile kapsamlı rehber." .Title (len .Pages) }}
+{{ else if eq .Section "blog" }}
+  {{ $desc = .Description | default .Site.Params.description }}
+{{ else }}
+  {{ $desc = .Description | default .Site.Params.description }}
+{{ end }}
+<meta name="description" content="{{ $desc }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph -->
+<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="tr_TR">
+{{ with .Params.image }}
+<meta property="og:image" content="{{ . | absURL }}">
+{{ else }}
+<meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}">
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+
+<!-- Robots -->
+{{ if .Params.draft }}<meta name="robots" content="noindex">{{ end }}
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png">
+
+<!-- Font Preload (kritik fontlar) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- CSS -->
+{{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+
+<!-- =====================================================
+     JSON-LD SCHEMA
+===================================================== -->
+
+{{ if .IsHome }}
+{{/* Ana Sayfa: WebSite + Organization */}}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "inLanguage": "tr",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ .Site.BaseURL }}ara/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Kaplıca Rehberi",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": "{{ "/logo.png" | absURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "sameAs": []
+  }
+]
+</script>
+
+{{ else if eq .Params.schema_type "TouristAttraction" }}
+{{/* Kaplıca Detay Sayfası: TouristAttraction + BreadcrumbList + FAQPage */}}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "TouristAttraction",
+    "name": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "url": "{{ .Permalink }}",
+    "image": [{{ if .Params.gallery }}{{ range $i, $img := .Params.gallery }}{{ if $i }},{{ end }}"{{ $img | absURL }}"{{ end }}{{ else }}"{{ .Params.image | absURL }}"{{ end }}],
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ .Params.district }}",
+      "addressRegion": "{{ .Params.province }}",
+      "addressCountry": "TR"
+    }
+    {{ with .Params.latitude }}
+    ,"geo": {
+      "@type": "GeoCoordinates",
+      "latitude": {{ . }},
+      "longitude": {{ $.Params.longitude }}
+    }
+    {{ end }}
+    ,"additionalType": "https://schema.org/HealthAndBeautyBusiness"
+    {{ with .Params.province }}
+    ,"containedInPlace": {
+      "@type": "AdministrativeArea",
+      "name": "{{ . }}"
+    }
+    {{ end }}
+    {{ if or .Params.temperature .Params.minerals }}
+    ,"amenityFeature": [
+      {{ $first := true }}
+      {{ with .Params.temperature }}
+      {{ if not $first }},{{ end }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Su Sıcaklığı",
+        "value": "{{ . }}°C"
+      }
+      {{ $first = false }}
+      {{ end }}
+      {{ with .Params.minerals }}
+      {{ if not $first }},{{ end }}
+      {
+        "@type": "LocationFeatureSpecification",
+        "name": "Mineral İçeriği",
+        "value": "{{ delimit . ", " }}"
+      }
+      {{ end }}
+    ]
+    {{ end }}
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Ana Sayfa",
+        "item": "{{ .Site.BaseURL }}"
+      }
+      {{ with .Params.province }}
+      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ . }} Kaplıcaları",
+        "item": "{{ $.Site.BaseURL }}iller/{{ . | urlize }}/"
+      }
+      ,{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ $.Title }}"
+      }
+      {{ else }}
+      ,{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ $.Title }}"
+      }
+      {{ end }}
+    ]
+  }
+  {{ if or .Params.temperature .Params.conditions }}
+  ,{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ $faqFirst := true }}
+      {{ with .Params.temperature }}
+      {
+        "@type": "Question",
+        "name": "{{ $.Title }} su sıcaklığı kaç derece?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $.Title }}'nın su sıcaklığı yaklaşık {{ . }}°C'dir."
+        }
+      }
+      {{ $faqFirst = false }}
+      {{ end }}
+      {{ with .Params.conditions }}
+      {{ if not $faqFirst }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $.Title }} hangi hastalıklara iyi gelir?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $.Title }}, özellikle {{ delimit . ", " " ve " }} rahatsızlıklarına iyi geldiği bilinmektedir.{{ with $.Params.minerals }} Termal suyun {{ delimit . ", " " ve " }} içeriği bu tedavi edici etkilerin temelini oluşturur.{{ end }}"
+        }
+      }
+      {{ $faqFirst = false }}
+      ,{
+        "@type": "Question",
+        "name": "{{ $.Title }} giriş ücreti ne kadar?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $.Title }} giriş ücretleri sezona ve tesise göre değişiklik gösterebilir. Güncel fiyatlar için ilgili tesislerle doğrudan iletişime geçmenizi öneririz."
+        }
+      }
+      {{ end }}
+      {{ if or $.Params.province $.Params.district }}
+      {{ if not $faqFirst }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $.Title }} nerede, nasıl gidilir?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $.Title }}, {{ with $.Params.province }}{{ . }} ili{{ end }}{{ with $.Params.district }}nin {{ . }} ilçesinde{{ end }} yer almaktadır. Şehir merkezinden karayoluyla ulaşım mümkündür."
+        }
+      }
+      {{ end }}
+    ]
+  }
+  {{ end }}
+]
+</script>
+
+{{ else if and (eq .Section "blog") .IsPage }}
+{{/* Blog Yazısı: Article + BreadcrumbList */}}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "image": "{{ .Params.image | absURL }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "author": {
+      "@type": "Organization",
+      "name": "Kaplıca Rehberi",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Kaplıca Rehberi",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ "/logo.png" | absURL }}"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "{{ .Site.BaseURL }}"},
+      {"@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ .Site.BaseURL }}blog/"},
+      {"@type": "ListItem", "position": 3, "name": "{{ .Title }}"}
+    ]
+  }
+]
+</script>
+
+{{ else if eq .Data.Plural "iller" }}
+{{/* İl Term Sayfası: CollectionPage + BreadcrumbList */}}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "{{ .Title }} Kaplıcaları",
+    "description": "{{ $desc }}",
+    "url": "{{ .Permalink }}",
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": {{ len .Pages }},
+      "itemListElement": [
+        {{ range $i, $p := first 5 .Pages }}
+        {{ if $i }},{{ end }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $i 1 }},
+          "url": "{{ $p.Permalink }}"
+        }
+        {{ end }}
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "{{ .Site.BaseURL }}"},
+      {"@type": "ListItem", "position": 2, "name": "İller", "item": "{{ .Site.BaseURL }}iller/"},
+      {"@type": "ListItem", "position": 3, "name": "{{ .Title }} Kaplıcaları"}
+    ]
+  }
+]
+</script>
+
+{{ else if eq .Data.Plural "hastaliklar" }}
+{{/* Hastalık Term Sayfası: MedicalWebPage + BreadcrumbList */}}
+{{ $condName := .Title }}
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "{{ $condName }} İçin Kaplıcalar",
+    "description": "{{ $desc }}",
+    "url": "{{ .Permalink }}",
+    "about": {
+      "@type": "MedicalCondition",
+      "name": "{{ $condName }}"
+    },
+    "lastReviewed": "{{ now.Format "2006-01-02" }}",
+    "medicalDisclaimer": "Bu bilgiler genel rehber amaçlıdır ve tıbbi tavsiye niteliği taşımaz. Sağlık sorunlarınız için doktorunuza danışınız."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Ana Sayfa", "item": "{{ .Site.BaseURL }}"},
+      {"@type": "ListItem", "position": 2, "name": "Hastalıklar", "item": "{{ .Site.BaseURL }}hastaliklar/"},
+      {"@type": "ListItem", "position": 3, "name": "{{ $condName }}"}
+    ]
+  }
+]
+</script>
+
+{{ end }}
+
+{{ partial "head-extra.html" . }}

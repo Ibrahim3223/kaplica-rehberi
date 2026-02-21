@@ -1,0 +1,90 @@
+{{ define "main" }}
+
+<!-- =============================================
+     LİSTE HERO
+============================================= -->
+<section class="term-hero" aria-labelledby="list-title">
+  <div class="container">
+    <p class="term-hero__eyebrow">
+      {{ if eq .Section "kaplicalar" }}Tüm Kaplıcalar{{ else }}{{ .Section | title }}{{ end }}
+    </p>
+    <h1 class="term-hero__title" id="list-title">{{ .Title }}</h1>
+    {{ with .Content }}
+    <div class="term-hero__subtitle">{{ . }}</div>
+    {{ else }}
+    <p class="term-hero__subtitle">
+      Türkiye'deki kaplıcaları ve termal kaynakları keşfedin.
+      {{ len .Pages }} kaplıca listelenmektedir.
+    </p>
+    {{ end }}
+  </div>
+</section>
+
+<!-- =============================================
+     BREADCRUMB
+============================================= -->
+<div class="container">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Anasayfa</a>
+    <span class="breadcrumb__sep" aria-hidden="true">›</span>
+    {{ if .Parent }}
+      {{ if .Parent.IsHome }}
+        <span aria-current="page">{{ .Title }}</span>
+      {{ else }}
+        <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+        <span class="breadcrumb__sep" aria-hidden="true">›</span>
+        <span aria-current="page">{{ .Title }}</span>
+      {{ end }}
+    {{ else }}
+      <span aria-current="page">{{ .Title }}</span>
+    {{ end }}
+  </nav>
+</div>
+
+<!-- =============================================
+     KAPLICA GRİD
+============================================= -->
+<section class="section" style="padding-top:1rem;">
+  <div class="container">
+
+    {{ if .Pages }}
+    <div class="cards-grid">
+      {{ range .Paginator.Pages }}
+        {{ partial "kaplica-card.html" . }}
+      {{ end }}
+    </div>
+
+    <!-- Sayfalama -->
+    {{ $paginator := .Paginator }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Sayfa navigasyonu">
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" aria-label="Önceki sayfa">‹</a>
+      {{ end }}
+
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}
+        <span class="active" aria-current="page">{{ .PageNumber }}</span>
+        {{ else if le (math.Abs (sub .PageNumber $paginator.PageNumber)) 2 }}
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+        {{ end }}
+      {{ end }}
+
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" aria-label="Sonraki sayfa">›</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    {{ else }}
+    <div style="text-align:center; padding:4rem 0; color:var(--color-text-light);">
+      <p style="font-size:3rem; margin-bottom:1rem;">🌊</p>
+      <p>Bu kategoride henüz kaplıca eklenmemiş.</p>
+      <a href="/kaplicalar/" class="btn btn--primary" style="margin-top:1.5rem;">Tüm Kaplıcaları Gör</a>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+{{ end }}
