@@ -17,7 +17,7 @@ popularity: "high"
 wikidata_id: ""
 wikipedia_url: "https://tr.wikipedia.org/wiki/%C3%87ekirge"
 iller: ["Bursa"]
-hastaliklar: ["romatizma", "kas-hastalıkları", "cilt-hastalıkları", "eklem-hastalıkları"]
+hastaliklar: ["romatizma", "kas-hastalıkları", "cilt-hastalıkları", "eklem-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "A"
 _angle: "weekend"

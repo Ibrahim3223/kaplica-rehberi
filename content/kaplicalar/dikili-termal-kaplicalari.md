@@ -17,7 +17,7 @@ popularity: "high"
 wikidata_id: ""
 wikipedia_url: ""
 iller: ["İzmir"]
-hastaliklar: ["romatizma", "cilt-hastalıkları", "sinir-hastalıkları"]
+hastaliklar: ["romatizma", "cilt-hastalıkları", "sinir-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "health"

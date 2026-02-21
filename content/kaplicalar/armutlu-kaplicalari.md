@@ -17,7 +17,7 @@ popularity: "medium"
 wikidata_id: ""
 wikipedia_url: ""
 iller: ["Bursa"]
-hastaliklar: ["romatizma", "kas-hastalıkları"]
+hastaliklar: ["romatizma", "kas-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "B"
 _angle: "budget"

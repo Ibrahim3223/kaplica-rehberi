@@ -17,7 +17,7 @@ popularity: "high"
 wikidata_id: ""
 wikipedia_url: "https://tr.wikipedia.org/wiki/Yalova_Termal_Kapli%C3%A7alar%C4%B1"
 iller: ["Yalova"]
-hastaliklar: ["romatizma", "sinir-hastalıkları", "cilt-hastalıkları"]
+hastaliklar: ["romatizma", "sinir-hastalıkları", "cilt-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "weekend"

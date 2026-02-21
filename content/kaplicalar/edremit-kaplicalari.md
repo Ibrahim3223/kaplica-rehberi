@@ -17,7 +17,7 @@ popularity: "low"
 wikidata_id: ""
 wikipedia_url: ""
 iller: ["Van"]
-hastaliklar: ["romatizma", "cilt-hastalıkları"]
+hastaliklar: ["romatizma", "cilt-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "weekend"

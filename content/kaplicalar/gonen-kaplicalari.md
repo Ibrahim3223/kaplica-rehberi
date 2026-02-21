@@ -17,7 +17,7 @@ popularity: "high"
 wikidata_id: "Q49741917"
 wikipedia_url: "https://tr.wikipedia.org/wiki/G%C3%B6nen_Kaplicas%C4%B1"
 iller: ["Balıkesir"]
-hastaliklar: ["eklem-hastalıkları", "cilt-hastalıkları", "romatizma", "kas-hastalıkları"]
+hastaliklar: ["eklem-hastalıkları", "cilt-hastalıkları", "romatizma", "kas-hastalıkları", "stres"]
 schema_type: "TouristAttraction"
 _structure: "C"
 _angle: "weekend"

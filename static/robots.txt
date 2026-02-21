@@ -2,5 +2,8 @@ User-agent: *
 Allow: /
 Disallow: /page/
 Disallow: /tags/
+Disallow: /iller/*/page/
+Disallow: /hastaliklar/*/page/
+Disallow: /kaplicalar/page/
 
 Sitemap: https://kaplicarehberi.com/sitemap.xml
