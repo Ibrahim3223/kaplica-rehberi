@@ -95,4 +95,17 @@
   </div>
 </section>
 
+<!-- =============================================
+     TAXONOMY CONTENT (from _index.md)
+============================================= -->
+{{ if .Content }}
+<section class="section taxonomy-content" style="padding-top:0; background:var(--color-bg-warm);">
+  <div class="container" style="max-width:780px;">
+    <div class="prose">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
 {{ end }}
