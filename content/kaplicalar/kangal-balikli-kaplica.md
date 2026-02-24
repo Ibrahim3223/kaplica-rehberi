@@ -50,3 +50,15 @@ Kangal, Sivas’ın doğal güzellikleri ve tarihi zenginlikleri ile dolu bir il
 Kangal Balıklı Kaplıca'ya ulaşım oldukça kolaydır. Sivas şehir merkezinden Kangal’a ulaşım, otobüs veya özel araçlarla 1 saat içinde sağlanabilmektedir. Kangal Balıklı Kaplıca giriş ücreti ise uygun fiyatlıdır, bu sayede bütçenizi sarsmadan sağlıklı bir tatil geçirebilirsiniz. Kangal'a gitmeden önce hava durumunu kontrol etmek ve uygun kıyafetlerle yolculuğunuza çıkmak faydalı olacaktır. Hafta sonu kaçamağı için ideal bir seçenek olan Kangal Balıklı Kaplıca, hem ruhunuza hem de bedeninize iyi gelecek bir deneyim sunuyor.
 
 Unutmayın, sağlığınızı korumak ve doğanın tadını çıkarmak için Kangal Balıklı Kaplıca’da bir hafta sonu geçirmeye ne dersiniz? Hem cildinizi besleyin, hem de ruhunuzu dinlendirerek hayatın stresinden uzaklaşın!
+
+---
+
+## Sivas ve Çevresindeki Termal Kaynaklar
+
+Kangal, [Sivas](/iller/sivas/) ilinin en tanınan termal destinasyonudur. Cilt sağlığı için kaplıca arayışındaysanız Türkiye’deki diğer seçeneklere de göz atmakta fayda var:
+
+- **[Pamukkale](/kaplicalar/pamukkale/):** Kalsiyum bikarbonat açısından zengin sular, cilt bariyerini onarıcı etkisi.
+- **[Karahayıt Kaplıcaları](/kaplicalar/karahayit-kaplicalari/):** Yüksek demir içerikli kırmızı su, cilt üzerinde terapötik etki.
+- **[Köyceğiz Sultaniye Kaplıcaları](/kaplicalar/koycegiz-sultaniye-kaplicalari/):** Sülfürlü çamur banyosu ile cilt yenilenmesi.
+
+[Sedef hastalığı](/hastaliklar/sedef-hastalığı/) ve [cilt hastalıkları](/hastaliklar/cilt-hastalıkları/) için Türkiye’nin en etkili kaplıcalarını karşılaştıran rehberimiz: [Cilt Hastalıklarına İyi Gelen Kaplıcalar](/blog/cilt-hastaliklarina-iyi-gelen-kaplicalar/)

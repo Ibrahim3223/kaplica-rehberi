@@ -48,3 +48,13 @@ Kozaklı Kaplıcaları'nın en önemli avantajlarından biri, suyun yüksek sıc
 ## Sonuç ve Tavsiye
 
 Kozaklı Kaplıcaları, hem sağlık hem de tatil amacıyla ideal bir seçenek olarak öne çıkıyor. Aile dostu yapısı, uygun fiyat seçenekleri ve sağladığı şifalı sularla bu kaplıca, sizi ve sevdiklerinizi bekliyor. Rahatlatıcı bir tatil arayışındaysanız, Kozaklı’yı listenize eklemeyi unutmayın. Hem bedeninizi hem ruhunuzu tazeleyeceğiniz bu eşsiz deneyimi yaşamak için harekete geçin!
+
+---
+
+## Nevşehir ve Çevresindeki Termal Destinasyonlar
+
+[Nevşehir](/iller/nevşehir/) iline bağlı Kozaklı, Kapadokya turizmiyle birleştirilen az sayıdaki kaplıcadan biridir. Kapadokya gezisini termal kür ile desteklemek isteyenler için bölgede birkaç gün kalmak yeterli olacaktır.
+
+[Sinir hastalıkları](/hastaliklar/sinir-hastalıkları/) ve [kas hastalıkları](/hastaliklar/kas-hastalıkları/) için Kozaklı’nın sodyum klorürlü suları özellikle önerilir. Türkiye’nin diğer termal destinasyonlarını keşfetmek isteyenler için: [2026’da Türkiye’nin En İyi 10 Kaplıcası](/blog/turkiyenin-en-iyi-kaplicalari/)
+
+**Ayrıca:** Kışın Kapadokya + Kozaklı kombinasyonu için [Kışın Gidilecek En İyi 7 Termal Tesis](/blog/kisin-gidilecek-termal-tesisler/)

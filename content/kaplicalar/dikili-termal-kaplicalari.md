@@ -57,3 +57,15 @@ Dikili Termal Kaplıcaları'nın ziyareti için en uygun mevsim, bahar ve sonbah
 Kaplıcayı ziyaret etmeyi düşünenler için, Dikili Termal Kaplıcaları’nın sunduğu çeşitli konaklama seçenekleri de mevcuttur. Dikili Termal Kaplıcaları otelleri, konforlu bir konaklama imkanı sunarak misafirlerin kaplıca deneyiminden en iyi şekilde faydalanmalarına olanak tanır.
 
 Sonuç olarak, Dikili Termal Kaplıcaları, sağlık turizmi için önemli bir destinasyon olmasının yanı sıra, huzurlu bir tatil geçirmenin de kapılarını aralıyor. Sağlık hizmetleri ve rahatlatıcı atmosferi ile kendinizi yenilemek için bu eşsiz kaplıcaları ziyaret etmeye davetlisiniz. Unutmayın, doğanın sunduğu bu şifalı sularda geçireceğiniz zaman, bedeninize ve ruhunuza iyi gelecektir.
+
+---
+
+## İzmir'deki Diğer Kaplıcalar
+
+[İzmir](/iller/izmir/) ili, Dikili'nin yanı sıra Ege kıyısına yakın konumuyla bir kaplıca seçeneği daha sunar:
+
+- **[Seferihisar Sığacık Kaplıcaları](/kaplicalar/seferihisar-sigacik-kaplicalari/):** İzmir'in güneyinde, Seferihisar'ın sakin atmosferinde termal deneyim.
+
+[Cilt hastalıkları](/hastaliklar/cilt-hastalıkları/) ve [sinir hastalıkları](/hastaliklar/sinir-hastalıkları/) için Dikili'nin sodyum klorürlü sularının önemi: [Cilt Hastalıklarına İyi Gelen Kaplıcalar](/blog/cilt-hastaliklarina-iyi-gelen-kaplicalar/)
+
+**Ayrıca:** Yaz tatilini termal deneyimle birleştirmek isteyenler için [2026'da Türkiye'nin En İyi 10 Kaplıcası](/blog/turkiyenin-en-iyi-kaplicalari/)

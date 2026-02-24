@@ -50,3 +50,14 @@ Armutlu Kaplıcaları'nda uygulanan kür programları, kişisel ihtiyaçlara gö
 Armutlu Kaplıcaları'na ulaşım oldukça kolaydır. Bursa şehir merkezinden otobüs veya özel araç ile yaklaşık 30 dakika içinde bu şifalı sulara erişebilirsiniz. Armutlu Kaplıcaları giriş ücreti ise oldukça uygundur; bütçenizi zorlamadan bu eşsiz deneyimi yaşamanızı sağlar. Ayrıca, çevrede bulunan Armutlu Kaplıcaları otelleri, farklı bütçelere hitap eden konaklama seçenekleri sunmaktadır. Bu otellerde konaklayarak, hem kaplıca hizmetlerinden faydalanabilir hem de çevreyi keşfedebilirsiniz.
 
 Armutlu Kaplıcaları, hem sağlık hem de huzur arayanlar için mükemmel bir durak. Uygun fiyatlı seçenekleri ile bu şifalı suların tadını çıkararak hem bedeninizi hem de ruhunuzu dinlendirin. Sağlığınıza yapacağınız bu yatırımın, hayatınıza kattığı değeri fark edeceksiniz. Şimdi, Armutlu Kaplıcaları'nın sunduğu bu eşsiz deneyimi yaşamak için ilk adımı atın!
+
+---
+
+## Bursa'daki Diğer Kaplıcalar
+
+Armutlu, [Bursa](/iller/bursa/) iline bağlı kıyı köylerinden birindedir. Aynı ilde incelenebilecek iki kaplıca daha var:
+
+- **[Bursa Çekirge Kaplıcaları](/kaplicalar/bursa-cekirge-kaplicalari/):** Tarihi Osmangazi semtinde, Osmanlı ve Roma izleri taşıyan termal merkez.
+- **[Oylat Kaplıcaları](/kaplicalar/oylat-kaplicalari/):** İnegöl vadisinde, sakin ve kalabalıksız, 39°C.
+
+İstanbul'dan günübirlik Armutlu ziyareti planlayanlar için kapsamlı rota rehberi: [İstanbul'dan Günübirlik Gidilecek Kaplıcalar](/blog/istanbuldan-gunubirlik-kaplicalar/)

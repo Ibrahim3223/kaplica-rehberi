@@ -58,4 +58,17 @@ Oylat Kaplıcaları, yıl boyunca ziyaret edilebilen bir tesistir. Ancak, en ide
 
 Kış aylarında ise termal suların sıcaklığı, soğuk havanın etkisini ortadan kaldırarak, misafirlere farklı bir deneyim sunar. Kışın kar manzarası eşliğinde sıcak termal suda vakit geçirmek, huzur dolu anlar yaşatır. Yaz aylarında ise sıcakların artmasıyla birlikte, kaplıca sularının serinletici etkisi öne çıkar.
 
-Oylat Kaplıcaları, hem sağlık hem de huzur arayışında olanların mutlaka deneyimlemesi gereken bir destinasyon. Ziyaretinizde hem fiziksel hem de ruhsal olarak yenilenecek, doğanın kucaklayıcı güzelliklerinde unutulmaz anılar biriktireceksiniz. Bu eşsiz deneyimi yaşamak için Oylat Kaplıcaları’na mutlaka uğrayın!
+Oylat Kaplıcaları, hem sağlık hem ve huzur arayışında olanların mutlaka deneyimlemesi gereken bir destinasyon. Ziyaretinizde hem fiziksel hem de ruhsal olarak yenilenecek, doğanın kucaklayıcı güzelliklerinde unutulmaz anılar biriktireceksiniz. Bu eşsiz deneyimi yaşamak için Oylat Kaplıcaları’na mutlaka uğrayın!
+
+---
+
+## Bursa’daki Diğer Kaplıcalar
+
+[Bursa](/iller/bursa/) ili, Oylat’ın yanı sıra iki köklü termal destinasyona daha ev sahipliği yapar:
+
+- **[Bursa Çekirge Kaplıcaları](/kaplicalar/bursa-cekirge-kaplicalari/):** Roma döneminden bu yana kesintisiz kullanılan tarihi merkez, 47°C.
+- **[Armutlu Kaplıcaları](/kaplicalar/armutlu-kaplicalari/):** Deniz kıyısına yakın, 42°C’lik ılımlı termal kaçamak.
+
+[Romatizma](/hastaliklar/romatizma/) ve [kas hastalıkları](/hastaliklar/kas-hastalıkları/) için üç seçenek arasında hangisinin daha uygun olduğunu görmek için [Bursa kaplıcaları sayfamıza](/iller/bursa/) bakabilirsiniz.
+
+**Ayrıca:** Sakin kış kaçamağı arayanlar için [Kışın Gidilecek En İyi 7 Termal Tesis](/blog/kisin-gidilecek-termal-tesisler/)
