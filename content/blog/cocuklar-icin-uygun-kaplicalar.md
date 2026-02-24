@@ -4,6 +4,7 @@ description: "Çocuklar kaplıcaya girebilir mi? Uygun yaş, su sıcaklığı ve
 slug: "cocuklar-icin-uygun-kaplicalar"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/armutlu-kaplicalari-1.jpg"
 categories: ["Aile", "Rehber"]
 ---
 

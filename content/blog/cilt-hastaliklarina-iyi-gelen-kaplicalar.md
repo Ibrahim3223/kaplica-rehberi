@@ -4,6 +4,7 @@ description: "Sedef, egzama ve cilt sorunları için Türkiye'nin en etkili term
 slug: "cilt-hastaliklarina-iyi-gelen-kaplicalar"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/kangal-balikli-kaplica-1.jpg"
 categories: ["Sağlık", "Rehber"]
 ---
 

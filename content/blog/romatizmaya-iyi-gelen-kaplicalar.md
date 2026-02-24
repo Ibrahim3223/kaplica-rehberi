@@ -4,6 +4,7 @@ description: "Romatizma ve eklem ağrıları için Türkiye'nin en etkili kaplı
 slug: "romatizmaya-iyi-gelen-kaplicalar"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/gonen-kaplicalari-1.jpg"
 categories: ["Sağlık", "Rehber"]
 ---
 

@@ -4,6 +4,7 @@ description: "Pamukkale'den Kangal'a, Yalova'dan Gönen'e — uzmanlar ve ziyare
 slug: "turkiyenin-en-iyi-kaplicalari"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/pamukkale-1.jpg"
 categories: ["Rehber", "Listeler"]
 ---
 

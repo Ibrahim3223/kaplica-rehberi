@@ -4,6 +4,7 @@ description: "Kar manzarası eşliğinde sıcak sulara girmek için Türkiye'nin
 slug: "kisin-gidilecek-termal-tesisler"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/kozakli-kaplicalari-1.webp"
 categories: ["Gezi", "Mevsimsel"]
 ---
 

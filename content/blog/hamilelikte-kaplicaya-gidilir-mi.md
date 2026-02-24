@@ -4,6 +4,7 @@ description: "Hamilelikte kaplıca güvenli mi? Hangi trimestrda riskli, hangi s
 slug: "hamilelikte-kaplicaya-gidilir-mi"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/koycegiz-sultaniye-kaplicalari-1.jpg"
 categories: ["Sağlık", "Rehber"]
 ---
 

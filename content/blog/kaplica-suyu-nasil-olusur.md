@@ -4,6 +4,7 @@ description: "Yeraltından fışkıran şifalı su nasıl oluşur? Termal suyun 
 slug: "kaplica-suyu-nasil-olusur"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/pamukkale-2.jpg"
 categories: ["Bilim", "Eğitim"]
 ---
 

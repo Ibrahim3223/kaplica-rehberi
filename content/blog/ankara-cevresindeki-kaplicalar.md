@@ -4,6 +4,7 @@ description: "Ankara'ya yakın kaplıcalar: Kızılcahamam, Haymana, Bayramören
 slug: "ankara-cevresindeki-kaplicalar"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/kizilcahamam-kaplicalari-1.webp"
 categories: ["Gezi", "Ankara"]
 ---
 

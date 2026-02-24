@@ -4,6 +4,7 @@ description: "Yalova, Bursa, Tekirdağ ve çevresi: İstanbul'dan 1-2 saatlik me
 slug: "istanbuldan-gunubirlik-kaplicalar"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/yalova-termal-kaplicalari-1.jpg"
 categories: ["Gezi", "İstanbul"]
 ---
 

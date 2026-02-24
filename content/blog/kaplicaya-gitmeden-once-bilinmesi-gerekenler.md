@@ -4,6 +4,7 @@ description: "İlk kez kaplıcaya gidecekler için pratik rehber: ne götürmeli
 slug: "kaplicaya-gitmeden-once-bilinmesi-gerekenler"
 date: 2026-02-24
 draft: false
+image: "/images/kaplicalar/sandikli-hudai-kaplicasi-1.webp"
 categories: ["Rehber", "İpuçları"]
 ---
 
