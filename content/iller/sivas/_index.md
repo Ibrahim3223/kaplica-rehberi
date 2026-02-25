@@ -1,5 +1,5 @@
 ---
-title: "Sivas Kaplıcaları"
+title: "Sivas"
 description: "Sivas ilindeki kaplıcalar: Kangal Balıklı Kaplıca. Türkiye'nin ve dünyanın en ünlü sedef kaplıcası Kangal rehberi."
 ---
 

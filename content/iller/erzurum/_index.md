@@ -1,5 +1,5 @@
 ---
-title: "Erzurum Kaplıcaları"
+title: "Erzurum"
 description: "Erzurum ilindeki kaplıcalar: İlıca ve Pasinler. Doğu Anadolu'nun yüksek irtifasında termal kaplıca deneyimi rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kırşehir Kaplıcaları"
+title: "Kırşehir"
 description: "Kırşehir ilindeki kaplıcalar: Terme Kaplıcaları. Ahi Evren'in şehri Kırşehir'in termal kaynakları ve medikal kür rehberi."
 ---
 

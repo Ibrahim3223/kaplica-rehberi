@@ -1,5 +1,5 @@
 ---
-title: "Aydın Kaplıcaları"
+title: "Aydın"
 description: "Aydın ilindeki kaplıcalar: Germencik. Türkiye'nin en sıcak kaynak suyuna sahip kaplıca ve Ege tatili kombinasyonu rehberi."
 ---
 

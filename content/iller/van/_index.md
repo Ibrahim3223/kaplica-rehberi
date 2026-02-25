@@ -1,5 +1,5 @@
 ---
-title: "Van Kaplıcaları"
+title: "Van"
 description: "Van ilindeki kaplıcalar: Edremit Kaplıcaları. Van Gölü kıyısında termal deneyim rehberi."
 ---
 

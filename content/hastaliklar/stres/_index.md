@@ -1,5 +1,5 @@
 ---
-title: "Stres ve Yorgunluk için Kaplıca Tedavisi"
+title: "Stres"
 description: "Kronik stres, tükenmişlik ve yorgunluk için önerilen kaplıcalar ve termal dinlenme uygulamaları. Türkiye'nin en iyi stres kaplıcaları."
 ---
 

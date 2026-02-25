@@ -1,5 +1,5 @@
 ---
-title: "Konya Kaplıcaları"
+title: "Konya"
 description: "Konya ilindeki kaplıcalar: İlgın ve Çavuşçuköy. Mevlana şehrinin termal kaynakları, ulaşım ve tesis bilgileriyle rehber."
 ---
 

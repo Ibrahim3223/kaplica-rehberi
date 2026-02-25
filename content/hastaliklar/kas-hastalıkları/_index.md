@@ -1,5 +1,5 @@
 ---
-title: "Kas Hastalıkları için Kaplıca Tedavisi"
+title: "Kas Hastalıkları"
 description: "Kas hastalıkları, fibromiyalji ve miyalji şikâyetleri için önerilen kaplıcalar ve termal kür uygulamaları. Türkiye'nin kas kaplıcaları rehberi."
 ---
 

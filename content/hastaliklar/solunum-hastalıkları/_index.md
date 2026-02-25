@@ -1,5 +1,5 @@
 ---
-title: "Solunum Hastalıkları için Kaplıca Tedavisi"
+title: "Solunum Hastalıkları"
 description: "Astım, bronşit, sinüzit ve KOAH şikâyetleri için önerilen kaplıcalar ve inhalasyon tedavisi. Türkiye'nin solunum kaplıcaları rehberi."
 ---
 

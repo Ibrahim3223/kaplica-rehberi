@@ -1,5 +1,5 @@
 ---
-title: "Çorum Kaplıcaları"
+title: "Çorum"
 description: "Çorum ilindeki kaplıcalar: Evlik, Figani ve Hamamlıçay. Hitit medeniyetinin beşiği Çorum'un termal kaynakları ve kültürel turizm rehberi."
 ---
 

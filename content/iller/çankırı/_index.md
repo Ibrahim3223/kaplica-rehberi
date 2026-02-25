@@ -1,5 +1,5 @@
 ---
-title: "Çankırı Kaplıcaları"
+title: "Çankırı"
 description: "Çankırı ilindeki kaplıcalar: Acısu, Bayramören, Kazancı, Kös, Kükürt ve Kızılırmak. Türkiye'nin en fazla termal kaynağa sahip illerinden Çankırı'nın rehberi."
 ---
 

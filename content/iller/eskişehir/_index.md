@@ -1,5 +1,5 @@
 ---
-title: "Eskişehir Kaplıcaları"
+title: "Eskişehir"
 description: "Eskişehir ilindeki kaplıcalar: Sarıcakaya. Lületaşı ve sanat şehri Eskişehir'in termal kaynakları rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sedef Hastalığı için Kaplıca Tedavisi"
+title: "Sedef Hastalığı"
 description: "Sedef hastalığı (psoriasis) için önerilen kaplıcalar, Garra Rufa tedavisi ve balneoloji uygulamaları. Kangal ve diğer Türkiye kaplıcaları rehberi."
 ---
 

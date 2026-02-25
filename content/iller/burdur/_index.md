@@ -1,5 +1,5 @@
 ---
-title: "Burdur Kaplıcaları"
+title: "Burdur"
 description: "Burdur ilindeki kaplıcalar: İnsuyu ve Kayacık. Göl kenti Burdur'un termal kaynakları ve doğa turizmi rehberi."
 ---
 

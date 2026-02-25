@@ -1,5 +1,5 @@
 ---
-title: "Kocaeli Kaplıcaları"
+title: "Kocaeli"
 description: "Kocaeli ilindeki kaplıcalar: Karamürsel Kaplıcaları. İstanbul'a en yakın illerin birinde termal kaçamak rehberi."
 ---
 

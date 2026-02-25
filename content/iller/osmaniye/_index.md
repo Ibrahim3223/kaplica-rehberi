@@ -1,5 +1,5 @@
 ---
-title: "Osmaniye Kaplıcaları"
+title: "Osmaniye"
 description: "Osmaniye ilindeki kaplıcalar: Düziçi Haruniye Ilıcası. Amanos Dağları eteklerinde termal kaçamak rehberi."
 ---
 

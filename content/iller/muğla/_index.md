@@ -1,5 +1,5 @@
 ---
-title: "Muğla Kaplıcaları"
+title: "Muğla"
 description: "Muğla ilindeki kaplıcalar: Köyceğiz Sultaniye. Ege tatilinin yanında termal deneyim; Dalyan ve Köyceğiz Gölü ile birleşik rehber."
 ---
 

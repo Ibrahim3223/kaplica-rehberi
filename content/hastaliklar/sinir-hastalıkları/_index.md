@@ -1,5 +1,5 @@
 ---
-title: "Sinir Hastalıkları için Kaplıca Tedavisi"
+title: "Sinir Hastalıkları"
 description: "Sinir hastalıkları, nöralji, siyatik ve periferik nöropati şikâyetleri için önerilen kaplıcalar ve kür uygulamaları. Türkiye'nin sinir kaplıcaları rehberi."
 ---
 

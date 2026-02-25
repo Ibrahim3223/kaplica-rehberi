@@ -1,5 +1,5 @@
 ---
-title: "Bursa Kaplıcaları"
+title: "Bursa"
 description: "Bursa ilindeki kaplıcalar: Çekirge, Oylat ve Armutlu. Osmanlı'dan günümüze Bursa'nın termal mirası, ulaşım ve tesis bilgileriyle kapsamlı rehber."
 ---
 

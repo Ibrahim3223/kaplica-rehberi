@@ -1,5 +1,5 @@
 ---
-title: "Kütahya Kaplıcaları"
+title: "Kütahya"
 description: "Kütahya ilindeki kaplıcalar: Gediz ve Simav. Çini sanatının şehri Kütahya'nın termal kaynakları rehberi."
 ---
 

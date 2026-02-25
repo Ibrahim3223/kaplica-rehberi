@@ -1,5 +1,5 @@
 ---
-title: "Kırıkkale Kaplıcaları"
+title: "Kırıkkale"
 description: "Kırıkkale ilindeki kaplıcalar: Delice Kaplıcaları. Ankara'ya en yakın alternatif kaplıca destinasyonu rehberi."
 ---
 

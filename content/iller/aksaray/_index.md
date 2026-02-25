@@ -1,5 +1,5 @@
 ---
-title: "Aksaray Kaplıcaları"
+title: "Aksaray"
 description: "Aksaray ilindeki kaplıcalar: İhlara Kaplıcaları. Ihlara Vadisi'nin yanında termal deneyim rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bolu Kaplıcaları"
+title: "Bolu"
 description: "Bolu ilindeki kaplıcalar: Seben, Sarıot, Karacasu ve Babas. Ormanlar ve doğa içinde Bolu'nun termal kaynakları rehberi."
 ---
 

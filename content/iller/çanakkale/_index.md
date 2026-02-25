@@ -1,5 +1,5 @@
 ---
-title: "Çanakkale Kaplıcaları"
+title: "Çanakkale"
 description: "Çanakkale ilindeki kaplıcalar: Kestanbol Kaplıcaları. Truva ve Gelibolu'nun yanında termal dinlenme rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Erzincan Kaplıcaları"
+title: "Erzincan"
 description: "Erzincan ilindeki kaplıcalar: Ekşisu Kaplıcaları. Doğu Anadolu'nun bu güzel ilindeki termal kaynaklar rehberi."
 ---
 

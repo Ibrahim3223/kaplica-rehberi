@@ -1,5 +1,5 @@
 ---
-title: "Niğde Kaplıcaları"
+title: "Niğde"
 description: "Niğde ilindeki kaplıcalar: Çiftehan Kaplıcaları. Hasan Dağı ve Aladağlar'ın gölgesinde termal kaçamak rehberi."
 ---
 

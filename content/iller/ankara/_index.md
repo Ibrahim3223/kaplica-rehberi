@@ -1,5 +1,5 @@
 ---
-title: "Ankara Kaplıcaları"
+title: "Ankara"
 description: "Ankara ilindeki kaplıcalar: Kızılcahamam, Haymana ve çevresi. Başkente yakın termal kaynaklar, mesafe ve ulaşım bilgisiyle kapsamlı rehber."
 ---
 

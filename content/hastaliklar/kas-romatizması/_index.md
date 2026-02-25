@@ -1,5 +1,5 @@
 ---
-title: "Kas Romatizması için Kaplıca Tedavisi"
+title: "Kas Romatizması"
 description: "Kas romatizması (fibromiyalji, miyalji) için önerilen kaplıcalar, su tipleri ve kür programları. Türkiye'nin kas romatizması kaplıcaları."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Manisa Kaplıcaları"
+title: "Manisa"
 description: "Manisa ilindeki kaplıcalar: Salihli Caferbeyli, Saraycık ve Urganlı. Ege'nin Manisa kaplıca rehberi; ulaşım, su özellikleri ve tesis bilgileri."
 ---
 

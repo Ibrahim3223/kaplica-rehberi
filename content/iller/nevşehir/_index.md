@@ -1,5 +1,5 @@
 ---
-title: "Nevşehir Kaplıcaları"
+title: "Nevşehir"
 description: "Nevşehir ilindeki kaplıcalar: Kozaklı Kaplıcaları. Kapadokya'nın peri bacaları arasında termal deneyim rehberi."
 ---
 

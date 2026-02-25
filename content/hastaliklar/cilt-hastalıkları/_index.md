@@ -1,5 +1,5 @@
 ---
-title: "Cilt Hastalıkları için Kaplıca Tedavisi"
+title: "Cilt Hastalıkları"
 description: "Cilt hastalıklarına (egzama, sedef, atopik dermatit) iyi gelen kaplıcalar ve termal kür uygulamaları. Türkiye'nin cilt kaplıcaları rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Amasya Kaplıcaları"
+title: "Amasya"
 description: "Amasya ilindeki kaplıcalar: Terzüköy Kaplıcası. Yeşilırmak kıyısındaki tarihi Amasya'nın termal kaynakları rehberi."
 ---
 

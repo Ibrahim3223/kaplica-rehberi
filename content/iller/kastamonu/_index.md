@@ -1,5 +1,5 @@
 ---
-title: "Kastamonu Kaplıcaları"
+title: "Kastamonu"
 description: "Kastamonu ilindeki kaplıcalar: Hisaralan Kaplıcaları. Kastamonu'nun doğa ve termal kaynakları rehberi."
 ---
 

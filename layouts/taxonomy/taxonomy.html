@@ -51,6 +51,7 @@
         "eklem-hastalıkları"     (dict "icon" "🔩" "class" "kemik")
         "sindirim-hastalıkları"  (dict "icon" "🌿" "class" "sindirim")
         "kas-romatizması"        (dict "icon" "💪" "class" "kemik")
+        "sedef-hastalığı"        (dict "icon" "🌟" "class" "cilt")
         "stres"                  (dict "icon" "🧘" "class" "sinir")
         "diyabet"                (dict "icon" "🩸" "class" "sindirim")
         "tansiyon"               (dict "icon" "❤️" "class" "sinir")
@@ -60,9 +61,10 @@
         "kalp-damar hastalıkları" (dict "icon" "❤️" "class" "sinir")
       }}
       {{ range .Data.Terms.ByCount }}
-      {{ $termKey := .Page.Title | lower }}
+      {{/* Klasör adını kullan — URL encode olmaz, Türkçe karakter dict key'leriyle eşleşir */}}
+      {{ $termKey := .Page.File.ContentBaseName }}
       {{ $meta := index $icons $termKey | default (dict "icon" "🌊" "class" "diger") }}
-      {{/* Görüntüleme adı: tireleri boşluğa çevir, title-case yap */}}
+      {{/* Görüntüleme adı: .Page.Title (artık kısa form), yoksa slug'dan oluştur */}}
       {{ $displayName := .Page.Title | replaceRE "-" " " | title }}
       <a href="{{ .Page.RelPermalink }}" class="hastalik-card">
         <div class="hastalik-card__icon hastalik-card__icon--{{ $meta.class }}" aria-hidden="true">{{ $meta.icon }}</div>

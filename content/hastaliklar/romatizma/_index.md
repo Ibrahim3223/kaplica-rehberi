@@ -1,5 +1,6 @@
 ---
-title: "Romatizma için Kaplıca Tedavisi"
+title: "Romatizma"
+
 description: "Romatizma şikâyetleri için en iyi kaplıcalar, önerilen su tipleri, kür süresi ve dikkat edilmesi gerekenler. Türkiye'nin romatizma kaplıcaları rehberi."
 ---
 

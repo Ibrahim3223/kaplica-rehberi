@@ -1,5 +1,5 @@
 ---
-title: "Afyonkarahisar Kaplıcaları"
+title: "Afyonkarahisar"
 description: "Afyonkarahisar ilindeki kaplıcalar: Sandıklı Hüdai, Gazlıgöl, Heybeli ve Ömer Gecek. Türkiye'nin en büyük termal turizm destinasyonu rehberi."
 ---
 

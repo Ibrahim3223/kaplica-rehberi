@@ -1,5 +1,5 @@
 ---
-title: "Yozgat Kaplıcaları"
+title: "Yozgat"
 description: "Yozgat ilindeki kaplıcalar: Sarıkaya Kaplıcaları. İç Anadolu'nun sakin ilinde termal kür rehberi."
 ---
 

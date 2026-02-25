@@ -1,5 +1,5 @@
 ---
-title: "Eklem Hastalıkları için Kaplıca Tedavisi"
+title: "Eklem Hastalıkları"
 description: "Eklem hastalıkları (artrit, osteoartrit, artrit) için önerilen kaplıcalar, su sıcaklıkları ve kür programları. Türkiye'nin eklem kaplıcaları rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sakarya Kaplıcaları"
+title: "Sakarya"
 description: "Sakarya ilindeki kaplıcalar: Taraklı Kaplıcaları. UNESCO listesindeki tarihi Taraklı kasabasında termal deneyim rehberi."
 ---
 

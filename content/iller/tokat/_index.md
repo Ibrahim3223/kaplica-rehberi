@@ -1,5 +1,5 @@
 ---
-title: "Tokat Kaplıcaları"
+title: "Tokat"
 description: "Tokat ilindeki kaplıcalar: Turhal Kaplıcaları. Yeşilırmak kıyısında Tokat'ın termal kaynakları ve kültürel turizm rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Denizli Kaplıcaları"
+title: "Denizli"
 description: "Denizli ilindeki kaplıcalar: Pamukkale, Karahayıt ve Sarayköy. Türkiye'nin en ünlü termal destinasyonu Denizli'nin kapsamlı kaplıca rehberi."
 ---
 

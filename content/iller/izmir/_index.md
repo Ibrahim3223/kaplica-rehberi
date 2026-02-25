@@ -1,5 +1,5 @@
 ---
-title: "İzmir Kaplıcaları"
+title: "İzmir"
 description: "İzmir ilindeki kaplıcalar: Dikili Termal ve Seferihisar Sığacık. Ege kıyısında termal ve deniz turizmi rehberi."
 ---
 

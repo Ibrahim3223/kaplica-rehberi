@@ -1,5 +1,5 @@
 ---
-title: "Balıkesir Kaplıcaları"
+title: "Balıkesir"
 description: "Balıkesir ilindeki kaplıcalar: Gönen, Güre ve Kızılot. Ege ve Marmara'yı birleştiren Balıkesir'in termal kaynakları rehberi."
 ---
 

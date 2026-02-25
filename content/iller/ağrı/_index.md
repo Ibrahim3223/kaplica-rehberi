@@ -1,5 +1,5 @@
 ---
-title: "Ağrı Kaplıcaları"
+title: "Ağrı"
 description: "Ağrı ilindeki kaplıcalar: Diyadin Kaplıcaları. Ağrı Dağı'nın gölgesinde termal kaçamak rehberi."
 ---
 

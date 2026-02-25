@@ -1,5 +1,5 @@
 ---
-title: "Tekirdağ Kaplıcaları"
+title: "Tekirdağ"
 description: "Tekirdağ ilindeki kaplıcalar: Çorlu Misinli Kaplıcaları. İstanbul'a yakın Trakya'nın termal kaynakları rehberi."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sindirim Hastalıkları için Kaplıca Tedavisi"
+title: "Sindirim Hastalıkları"
 description: "Sindirim sistemi hastalıkları için önerilen kaplıcalar, içme kürü ve banyo uygulamaları. Türkiye'nin sindirim kaplıcaları rehberi."
 ---
 

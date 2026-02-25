@@ -1,5 +1,5 @@
 ---
-title: "Yalova Kaplıcaları"
+title: "Yalova"
 description: "Yalova ilindeki kaplıcalar: Yalova Termal ve Çiftlikköy. İstanbul'a en yakın termal destinasyon; ulaşım, tarih ve tesis bilgileriyle rehber."
 ---
 

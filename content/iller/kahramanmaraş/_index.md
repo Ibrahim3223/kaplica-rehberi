@@ -1,5 +1,5 @@
 ---
-title: "Kahramanmaraş Kaplıcaları"
+title: "Kahramanmaraş"
 description: "Kahramanmaraş ilindeki kaplıcalar: Döngel Kaplıcaları. Maraş dondurmasının şehrinde termal kaçamak rehberi."
 ---
 
