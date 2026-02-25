@@ -48,3 +48,12 @@ Düziçi Haruniye Ilıcası’nda uygulanan kür programları, misafirlerin ihti
 Düziçi Haruniye Ilıcası’na ulaşım oldukça kolaydır. Adana il merkezinden araçla sadece kısa bir mesafede yer alan kaplıca, toplu taşıma ile de ulaşılabilir. Kaplıcaya giriş ücreti, güncel olarak değişiklik gösterebilmektedir; bu nedenle ziyaretten önce bilgi almak faydalı olacaktır. Bölgede konaklama imkanı sunan çeşitli Düziçi Haruniye Ilıcası otelleri, misafirlerin konforlu bir şekilde dinlenmesini sağlamakta ve tedavi süreçlerini desteklemektedir. Tüm bu pratik bilgiler, ziyaretçilerin sağlık ve huzur dolu bir deneyim yaşamasına katkıda bulunmaktadır.
 
 Düziçi Haruniye Ilıcası, sunduğu doğal kaynaklar ve sağlık olanakları ile sizleri bekliyor. Sağlığınıza kavuşmak ve doğayla iç içe bir tatil deneyimi yaşamak için ilıcanın kapılarını aralamaya ne dersiniz?
+
+## Konaklama Rehberi
+
+duzici-haruniye-ilicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: duzici-haruniye-ilicasi, İl: İl Merkezi -->

@@ -67,3 +67,19 @@ Haymana Kaplıcaları, yalnızca Türkiye'nin değil, dünyanın da en önemli t
 Ankara çevresindeki tüm kaplıca seçeneklerini karşılaştırmak için: [Ankara Çevresindeki Kaplıcalar: Hafta Sonu Kaçamağı Rehberi](/blog/ankara-cevresindeki-kaplicalar/)
 
 [Romatizma](/hastaliklar/romatizma/) ve [eklem hastalıkları](/hastaliklar/eklem-hastalıkları/) için Haymana'nın neden bu kadar önerildiğini açıklayan rehberimiz: [Romatizmaya İyi Gelen Kaplıcalar](/blog/romatizmaya-iyi-gelen-kaplicalar/)
+
+## Konaklama Rehberi
+
+Haymana, Ankara'ya 70 km mesafesiyle hafta sonu kaçamağı ya da kısa kür konaklama için ideal bir termal destinasyondur. İlçede birkaç termal otel ve pansiyondan oluşan küçük ölçekli bir konaklama bölgesi mevcuttur.
+
+### Konaklama Tipleri
+
+**Termal Oteller ve Tesisler:** Haymana'da termal havuzlu otel ve tatil köyü seçenekleri bulunmaktadır. Bazı tesislerde kür paketi (konaklama + banyo + tedavi) mevcuttur.
+
+**Pansiyonlar:** İlçe merkezindeki pansiyonlar bütçe dostu konaklama sağlar; kaplıca tesisine araçla ulaşmak kolaydır.
+
+### Rezervasyon İpuçları
+
+Ankara şehir merkezinden yaklaşık 1 saatlik yol; hafta içi ziyaretlerde daha sakin bir deneyim yaşanır. Romatizma ve eklem hastalıkları için **3–7 gece** konaklama önerilmektedir. [Ankara kaplıcaları rehberine bakın →](/iller/ankara/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: haymana-kaplicalari, İl: Ankara -->

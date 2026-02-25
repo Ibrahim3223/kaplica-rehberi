@@ -36,6 +36,16 @@ Terziköy Kaplıcası'nın sunduğu termal deneyim, sadece bedeninizi değil, ru
 
 Kaplıca tatilinizin sadece su ile sınırlı kalmasını istemiyorsanız, Terziköy çevresinde keşfedilecek pek çok aktivite mevcut. Yürüyüş parkurları, doğa yürüyüşleri için ideal bir alan sunarken, bölgedeki ormanlar, doğanın tadını çıkarmanız için harika bir fırsat. Ayrıca, Terziköy'ün yakınındaki tarihi mekanlar ve köyler, kültürel bir gezi yapmak isteyenler için keşfedilmeyi bekliyor. Yerel kafelerde yöresel lezzetlerin tadına bakarak gastronomik bir deneyim yaşayabilir, akşamları ise yıldızların altında dinlendirici bir zaman geçirebilirsiniz.
 
+
+## Konaklama Rehberi
+
+terzikoy-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: terzikoy-kaplicasi, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Terziköy Kaplıcası, her yaştan ziyaretçiye hitap eden bir yapıya sahip. Hem dinlenmek hem de sağlık bulmak isteyenler, kaplıcanın sunduğu şifalı sular sayesinde rahatlayabilir. Özellikle stres, kas ağrıları veya cilt sorunları yaşayanlar için bu kaplıca ideal bir seçenek. Ayrıca, aileler için uygun fiyatlı konaklama imkanları ve çocuk dostu aktiviteler sunarak, ailecek keyifli bir tatil deneyimi yaşatıyor. Terziköy Kaplıcası, hem yalnız başına tatil yapmak isteyenler hem de arkadaş grupları için uygun bir alternatif oluşturuyor.

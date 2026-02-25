@@ -48,6 +48,16 @@ Kızılot Kaplıcaları, sağlığa olan katkılarının yanı sıra wellness ol
 
 Balıkesir'in zengin kültürü ve doğal güzellikleri, Kızılot Kaplıcaları çevresinde keşfedilmeyi bekleyen birçok aktivite sunmaktadır. Kaplıcalara yakın konumda bulunan Susurluk, meşhur tostları ve doğal ürünleriyle ünlüdür. Ayrıca, kaplıca ziyaretinin ardından yapılacak kısa bir yürüyüş, bölgedeki yeşil alanları keşfetmek ve doğanın tadını çıkarmak için idealdir. Kızılot Kaplıcaları, çevresindeki tarihi ve doğal değerleriyle bir araya gelerek, sadece sağlık değil, aynı zamanda kültürel bir deneyim sunmaktadır.
 
+
+## Konaklama Rehberi
+
+kizilot-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kizilot-kaplicalari, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Kızılot Kaplıcaları'na ulaşım oldukça kolaydır. Balıkesir şehir merkezinden yaklaşık 80 km uzaklıkta bulunan kaplıcalar, özel araçla veya otobüsle rahatlıkla ulaşılabilir. Kızılot Kaplıcaları giriş ücreti, ziyaretçi sayısına ve sezon koşullarına göre değişiklik göstermektedir. Bu nedenle, seyahatinizi planlarken güncel bilgileri göz önünde bulundurmak faydalı olacaktır. Kaplıca çevresinde birçok otel ve konaklama seçeneği bulunduğu için, yorgunluk sonrası dinlenmek için ideal bir ortam sunmaktadır.

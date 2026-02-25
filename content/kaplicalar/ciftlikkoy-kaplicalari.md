@@ -54,3 +54,12 @@ Yalova'nın Çiftlikköy ilçesinde yer alan Çiftlikköy Kaplıcaları, hem sa�
 Çiftlikköy Kaplıcaları, hem konaklama hem de giriş ücretleri açısından aile bütçesine dost alternatifler sunuyor. Çiftlikköy Kaplıcaları giriş ücreti, genellikle makul seviyelerde seyrediyor ve aile paketleri ile daha ekonomik çözümler bulmak mümkün. Kaplıcaların sunduğu hizmetler, tatilinizin keyfini artırırken, bütçenizi sarsmadan kaliteli bir tatil deneyimi yaşamanıza olanak sağlıyor. Aile olarak birlikte geçireceğiniz bu zaman, hem fiziksel hem de ruhsal bir yenilenme sağlayacak.
 
 Çiftlikköy Kaplıcaları, ailenizle birlikte sağlıklı ve keyifli bir tatil deneyimi yaşamanız için harika bir seçenek sunuyor. Doğanın kucağında, huzurlu bir tatil arıyorsanız, bu şifalı sularda buluşma zamanı!
+
+## Konaklama Rehberi
+
+ciftlikkoy-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ciftlikkoy-kaplicalari, İl: İl Merkezi -->

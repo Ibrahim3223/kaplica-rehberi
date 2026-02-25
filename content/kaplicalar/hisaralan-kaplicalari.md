@@ -49,6 +49,16 @@ Hisaralan Kaplıcaları'nın sunduğu sağlık faydaları, özellikle sinir hast
 
 Hisaralan Kaplıcaları, Kastamonu’nun Araç ilçesinde yer aldığı için ulaşımı oldukça kolaydır. Kastamonu şehir merkezinden Araç ilçesine düzenli olarak otobüs seferleri bulunmaktadır. Araç ilçesine ulaştıktan sonra, Hisaralan Kaplıcaları'na kısa bir yolculukla varmak mümkündür. Konaklama seçenekleri açısından da zengin bir çeşitlilik sunan Hisaralan Kaplıcaları otelleri, hem bütçe dostu hem de lüks seçeneklerle ziyaretçilerin konforunu sağlamaktadır. Kaplıca otellerinde genellikle termal havuzlardan yararlanmak ve çeşitli sağlık hizmetlerinden faydalanmak mümkündür.
 
+
+## Konaklama Rehberi
+
+hisaralan-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: hisaralan-kaplicalari, İl: İl Merkezi -->
+
 ## Ziyaretçi İpuçları
 
 Hisaralan Kaplıcaları'nı ziyaret etmek isteyenlerin, kaplıcaların sunduğu sağlık faydalarını en üst düzeye çıkarmak için önceden plan yapmaları önerilmektedir. Özellikle tedavi sürecine başlamadan önce bir doktora danışılması, kişisel sağlık durumuna göre en uygun yöntemlerin belirlenmesine yardımcı olacaktır. Ayrıca, Hisaralan Kaplıcaları giriş ücreti ve açık olduğu saatler hakkında bilgi edinmek, ziyaretçilerin planlarını daha verimli yapmasını sağlayacaktır.

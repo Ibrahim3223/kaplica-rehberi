@@ -40,6 +40,31 @@ Karahayıt Kaplıcaları’nın en önemli çekim merkezi, 56°C sıcaklıkta ç
 
 Karahayıt Kaplıcaları’nın çevresi, sadece kaplıca deneyimiyle sınırlı değil. Denizli’nin tarihi ve doğal güzelliklerini keşfetmek için pek çok fırsat sunuyor. Pamukkale Travertenleri, yakın mesafedeki bu muhteşem doğal oluşum, tüm ailenin ilgisini çekecek bir gezi noktasıdır. Pamukkale'ye olan yakınlığı sayesinde, kaplıca konaklaması sırasında travertenlerde de serinleyebilir ve muhteşem manzaralar eşliğinde fotoğraflar çekebilirsiniz. Ayrıca, çevredeki tarihi kalıntılar ve antik şehirler, ailece keşfedebileceğiniz ilginç duraklar arasında yer alıyor. Çocuklar için eğitici bir deneyim sunan bu yerler, hem eğlenceli hem de öğretici bir tatil fırsatı sunuyor.
 
+
+## Konaklama Rehberi
+
+Karahayıt, Pamukkale'ye 5 km mesafesiyle hem termal tedavi hem de kültür turizmi için çift avantaj sunan bir destinasyondur. Demir oksit içeriğinden kaynaklanan kırmızı renkli termal sularıyla dünyaca tanınan Karahayıt, yoğun otelcilik altyapısına sahiptir.
+
+### Konaklama Tipleri
+
+**Termal Oteller:** Karahayıt'ta onlarca termal otel yan yana sıralanmaktadır; pek çok tesiste kırmızı termal su ile dolu özel havuzlar mevcuttur. 3–5 yıldız arasında değişen oteller SPA, hamam ve fizyoterapi hizmetleri sunar.
+
+**Pamukkale Kasabası (5 km):** Travertenler ve Hierapolis'e yürüme mesafesindeki küçük aile otelleri ve pansiyonlar; kültürel ziyareti öncelikleyenler buradan da Karahayıt kaplıcalarına kolayca ulaşabilir.
+
+**Günlük Giriş:** Sadece termal deneyimi yaşamak isteyenler için günlük girişe açık tesisler mevcuttur; otel konaklaması zorunlu değildir.
+
+### Fiyat Aralığı ve Sezon Bilgisi
+
+Uluslararası turist ilgisi fiyatları yukarı çeker; ancak farklı segmentte alternatifler bulunmaktadır. İlkbahar ve sonbahar en uygun seyahat zamanıdır. Yaz aylarında Ege ısısı yüksek olduğundan erken rezervasyon önemlidir.
+
+### Rezervasyon İpuçları
+
+Denizli Çardak Havalimanı'ndan Karahayıt'a 45 dakikalık transfer. Termal tedavi için **3–5 gece** konaklama önerilir; Pamukkale gezisi de programa eklenerek kombinasyon tatil yapılabilir.
+
+[Denizli kaplıcaları rehberine bakın →](/iller/denizli/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: karahayit-kaplicalari, İl: Denizli -->
+
 ## Kimler İçin Uygun
 
 Karahayıt Kaplıcaları, ailelerin rahat bir tatil geçirebileceği, çocuklar için güvenli bir ortam sunmaktadır. Termal suyun sağladığı şifalı özellikler nedeniyle, ebeveynler için sağlık açısından da oldukça faydalıdır. Romatizma ve eklem hastalıkları olan bireyler için ideal bir seçenek olan bu kaplıcılar, cilt problemleri yaşan aile bireyleri için de şifalı sularıyla destek olmaktadır. Ayrıca, çocuk dostu alanlarının bulunması sayesinde, ailenizle birlikte güvenle tatil yapabileceğiniz bir ortam sunuyor. Her yaş grubundan misafirin keyif alabileceği çeşitli aktiviteler, Karahayıt Kaplıcaları’nı tüm aile üyeleri için cazip hale getiriyor.

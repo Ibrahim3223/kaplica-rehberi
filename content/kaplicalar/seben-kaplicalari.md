@@ -49,6 +49,16 @@ Seben Kaplıcaları'nın sunduğu sağlık faydaları, aileler için büyük bir
 
 Seben Kaplıcaları, Bolu merkezine yaklaşık 40 kilometre mesafede yer almaktadır. Bolu'dan Seben'e ulaşım oldukça kolaydır; özel araçla 45 dakikalık bir yolculuk yaparak kaplıcalara ulaşabilirsiniz. Ayrıca otobüs seferleriyle de Seben'e gelmek mümkündür. Ziyaretçiler, Seben Kaplıcaları otelleri ve çevresindeki konaklama seçenekleri ile rahat bir tatil yapabilirler. Aileler için geniş odalar ve çocuk dostu hizmetler sunan tesisler, konaklama konusundaki tüm ihtiyaçları karşılamaktadır.
 
+
+## Konaklama Rehberi
+
+seben-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: seben-kaplicalari, İl: İl Merkezi -->
+
 ## Ziyaretçi İpuçları
 
 Seben Kaplıcaları'nı ziyaret etmeyi planlayan aileler için bazı ipuçları önemlidir. Öncelikle, kaplıcaya gitmeden önce suyun sağlık faydalarını araştırmakta fayda var. Ziyaretçilerin, kaplıcalara giriş ücreti ve tesisin sunduğu hizmetler hakkında bilgi sahibi olmaları da önemlidir. Ayrıca, çocuklarla birlikte gidileceği için tesisin çocuklar için sunmuş olduğu aktiviteler hakkında bilgi almak da yararlıdır. Seben Kaplıcaları'na yapılacak bir ziyaret, ailenizle birlikte unutulmaz anılar biriktirmenize yardımcı olacaktır.

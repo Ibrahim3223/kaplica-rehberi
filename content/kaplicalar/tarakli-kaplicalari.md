@@ -39,6 +39,16 @@ Taraklı Kaplıcaları’ndaki su, 42°C sıcaklığıyla hafif bir sıcaklıkta
 
 Taraklı, sadece kaplıcalarıyla değil, doğal güzellikleri ve tarihi yapılarıyla da dikkat çekiyor. Çiftler için romantik bir yürüyüş yapmak isterseniz, Taraklı'nın şirin sokaklarında kaybolabilir veya eski taş evlerin önünde anılar biriktirebilirsiniz. Ayrıca, doğa yürüyüşleri ile çevredeki yeşilin tadını çıkarabilir, bisiklet veya at sırtında keşfe çıkabilirsiniz. Taraklı'nın el sanatları ve yöresel lezzetlerini denemek için yerel dükkanlarda kısa bir mola vermek, bu romantik kaçamağınıza renk katacaktır. Üstelik, bölgedeki diğer Sakarya kaplıcaları ile kıyasladığınızda, Taraklı’nın sakinliği ve huzuru, özel anlarınıza daha fazla anlam katacaktır.
 
+
+## Konaklama Rehberi
+
+tarakli-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: tarakli-kaplicalari, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Taraklı Kaplıcaları, huzuru arayan çiftler için ideal bir kaçış noktası. Romantik bir atmosferde, yalnızca sağlığınıza değil, aynı zamanda ilişkilerinize de iyi gelecek bir deneyim sunuyor. Fiziksel rahatsızlıkları olanlar için ise kaplıcaların sağladığı şifa, hem zihin hem de beden için yenileyici bir etki yaratacak. Stresli günlerden uzaklaşmak, yalnızca tatil yapmak değil, aynı zamanda birlikte kaliteli zaman geçirmek isteyen her çift, Taraklı Kaplıcaları'nda kendilerini yeniden bulacak.

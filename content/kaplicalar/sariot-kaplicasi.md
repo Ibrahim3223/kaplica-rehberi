@@ -53,3 +53,12 @@ Sarıot Kaplıcası'na ulaşmak oldukça kolaydır. Özel aracınızla geldiğin
 Sarıot Kaplıcası giriş ücreti, sunduğu hizmetler ve olanaklara göre değişiklik göstermektedir. Ancak, hem konaklama hem de kaplıca kullanımı açısından uygun fiyatlı seçenekler bulmak mümkündür. Eğer romantik bir kaçamak için bütçenizi planlıyorsanız, grup indirimlerinden yararlanarak maliyetlerinizi düşürebilir, kaplıca keyfini iki katına çıkarabilirsiniz.
 
 Sarıot Kaplıcası, unutulmaz anılar biriktirmek isteyen çiftler için eşsiz bir mekan sunuyor. Hem doğanın hem de aşkın tadını çıkarmak için Sarıot Kaplıcası’na kendinizi bırakın; ruhunuzu dinlendirin ve birlikte geçirdiğiniz anların kıymetini bilin.
+
+## Konaklama Rehberi
+
+sariot-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: sariot-kaplicasi, İl: İl Merkezi -->

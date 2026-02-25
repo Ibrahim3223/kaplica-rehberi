@@ -40,6 +40,23 @@ Ilgın Kaplıcaları, 44°C sıcaklığa sahip olan termal su kaynağıyla dikka
 
 Ilgın Kaplıcaları'nın çevresinde keşfedilecek birçok yer var. Kaplıcalardan sonra yapabileceğiniz yürüyüşler, doğanın tadını çıkarmanız için harika bir fırsat sunuyor. Ayrıca, Ilgın ilçesi, tarihi zenginlikleri ile de göz dolduruyor. Ilgın Kalesi, ziyaretçilerin ilgisini çeken tarihi yapılar arasında yer alıyor. Bunun yanı sıra, yöresel lezzetler denemek isteyenler için de pek çok restoran ve kafe mevcut. Hem kaplıca keyfini sürüp hem de yerel mutfağın tadını çıkarabilirsiniz. Tüm bu aktiviteleri uygunsuz fiyatlarla gerçekleştirmek, bütçenizi de korumanıza yardımcı olacaktır.
 
+
+## Konaklama Rehberi
+
+Ilgın, Konya iline bağlı tarihi bir termal kasabadır. Mevlana Şehri Konya'ya yakınlığı, termal tedaviyi kültür turizmiyle birleştirme imkânı sunar.
+
+### Konaklama Tipleri
+
+**Termal Tesisler:** Ilgın'da termal havuzlu otel ve tesisler ile Ilgın Belediyesi kaplıcası mevcuttur. Ekonomik konaklama seçenekleri sunulmaktadır.
+
+**Konya Merkez (80 km):** Konya'da tüm kategorilerde otel bulunur; Mevlana'yı ziyaret edip Ilgın'a günübirlik çıkmak mümkündür.
+
+### Rezervasyon İpuçları
+
+Konya–Ilgın arası yaklaşık 1,5 saattir; İstanbul–Konya uçuşundan sonra güzergâha dahil edilebilir. Termal tedavi için **3–5 gece** konaklama önerilir.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ilgin-kaplicalari, İl: Konya -->
+
 ## Kimler İçin Uygun
 
 Ilgın Kaplıcaları, sağlık sorunları olan bireyler için harika bir alternatif sunuyor. Özellikle romatizma, cilt hastalıkları ve eklem rahatsızlıklarından muzdarip olanlar, bu kaplıcaların sunduğu şifalı sulardan faydalanabilirler. Bununla birlikte, stres atmak ve dinlenmek isteyen herkes, buradaki termal deneyimden yararlanabilir. Uygun fiyatlı konaklama seçenekleri ile Ilgın Kaplıcaları, hem sağlık arayanlar hem de tatil yapmak isteyenler için idealdir. Ayrıca, ailece gelinip keyifli anlar geçirilecek bir yer olmasının yanı sıra, yalnız seyahat edenler için de rahatlatıcı bir alan sunuyor.

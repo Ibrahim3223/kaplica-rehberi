@@ -49,6 +49,31 @@ Kızılcahamam Kaplıcaları'nın sunduğu sağlık faydaları saymakla bitmez. 
 
 Kızılcahamam Kaplıcaları, Ankara şehir merkezine yalnızca 100 km mesafededir ve Ankara’nın doğusundaki yeşil alanlarla dolu bir bölgede bulunmaktadır. Özel araç ile gelmek isteyenler için D140 karayolunu takip ederek ulaşım oldukça kolaydır. Toplu taşıma tercih edenler için ise, Ankara otogarından Kızılcahamam’a seferler düzenleyen otobüsler mevcuttur. Kaplıcaların çevresinde birçok konaklama seçeneği bulunmaktadır. Kızılcahamam Kaplıcaları otelleri, konforlu ve şık tesisleriyle misafirlerine çeşitli hizmetler sunar. Hem kaplıca olanaklarından faydalanmak hem de çevre güzelliklerini keşfetmek için ideal bir konaklama deneyimi yaşamanız mümkündür.
 
+
+## Konaklama Rehberi
+
+Kızılcahamam, Ankara'ya 80 km mesafesiyle başkent sakinlerinin gözdesi olan bir hafta sonu termal destinasyonudur. Soğuksu Milli Parkı'nın serin ormanlarına yaslanmış konaklama tesisleri, doğa ve termal tedaviyi bir arada sunar.
+
+### Konaklama Tipleri
+
+**Termal Oteller ve Tatil Köyleri:** Kızılcahamam'da büyük termal otel kompleksleri ve tatil köyleri mevcuttur. Orman içinde konumlanmış bungalov tipi tesisler, şehir yorgunluğunu atmak isteyenler için tercih edilir. Birçok tesiste kapalı-açık termal havuz, hamam ve SPA hizmetleri sunulmaktadır.
+
+**Pansiyonlar:** İlçe merkezindeki küçük pansiyonlar ve butik konaklamalar, bütçe dostu bir seçenek oluşturur.
+
+**Kamp Alanları:** Soğuksu Milli Parkı içindeki kamp alanları, aktif tatil arayanlar için ilgi çekici bir seçenektir.
+
+### Fiyat Aralığı ve Sezon Bilgisi
+
+Kızılcahamam yıl boyunca ziyaret edilebilir; ancak yaz ayları (Haziran–Ağustos) ve kış tatilleri en yoğun dönemlerdir. Hafta sonu doluluk oranı Ankara yakınlığı nedeniyle yüksektir. Hafta içi ziyaretlerde hem uygun fiyat hem de kalabalıksız tesis deneyimi yaşanabilir.
+
+### Rezervasyon İpuçları
+
+D140 karayolunu takip ederek Ankara'dan yaklaşık 1,5 saatte ulaşılabilir; düzenli otobüs seferleri de mevcuttur. Termal tedavi için **3–5 gece**, solunum rahatsızlıkları için **7–10 gece** konaklama önerilir. Soğuksu Milli Parkı'ndaki doğa yürüyüşlerini programınıza ekleyebilirsiniz.
+
+[Ankara kaplıcaları rehberine bakın →](/iller/ankara/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kizilcahamam-kaplicalari, İl: Ankara -->
+
 ## Ziyaretçi İpuçları
 
 Kızılcahamam Kaplıcaları'nı ziyaret etmek isteyenler için birkaç pratik ipucu sunmakta fayda var. Öncelikle, özellikle yaz aylarında kalabalık olabileceği için erken rezervasyon yapmanız önerilir. Kızılcahamam Kaplıcaları giriş ücreti bölgedeki otellerin sunduğu paketlere göre değişiklik gösterebilir. Kaplıca sularına girmeden önce mutlaka doktor tavsiyesi almayı unutmayın, böylece sağlığınıza uygun bir deneyim yaşayabilirsiniz. Ayrıca, termal suları kullanırken bol su içmeyi ve dinlenmeyi ihmal etmemeniz önemlidir. Son olarak, doğa yürüyüşleri ve çevreyi keşfetmek için yanınıza uygun ayakkabılar almayı unutmayın; çünkü Kızılcahamam’ın doğal güzellikleri sizi bekliyor.

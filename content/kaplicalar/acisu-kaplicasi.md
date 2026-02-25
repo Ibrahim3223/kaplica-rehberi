@@ -45,3 +45,12 @@ Acısu Kaplıcası’nda uygulanabilecek çeşitli kür programları ve yönteml
 Acısu Kaplıcası'na gitmek oldukça kolay; şehir merkezinden birkaç saat içerisinde ulaşmak mümkün. Kendi aracınızla gitmek isterseniz, yol tarifi almak için harita uygulamalarını kullanabilirsiniz. Alternatif olarak, toplu taşıma seçenekleriyle de kaplıcaya ulaşmanız mümkün. Acısu Kaplıcası giriş ücreti, genellikle uygun fiyatlı olup, hem günlük hem de haftalık planlamalar için esneklik sağlıyor. Ayrıca, çevresinde yer alan Acısu Kaplıcası otelleri, konaklama konusunda da çeşitli seçenekler sunuyor. Bu oteller, kaplıca hizmetlerinden yararlanarak hem dinlenmek hem de keyifli bir tatil geçirmek isteyen misafirlere hitap ediyor.
 
 Sonuç olarak, Acısu Kaplıcası, doğayla iç içe, şifalı suların tadını çıkarabileceğiniz bir hafta sonu kaçamağı arayanlar için mükemmel bir tercih. Sağlığınızı yenilemek ve ruhunuzu dinlendirmek için bu eşsiz deneyimi kaçırmayın!
+
+## Konaklama Rehberi
+
+acisu-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: acisu-kaplicasi, İl: İl Merkezi -->

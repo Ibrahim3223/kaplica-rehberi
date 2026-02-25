@@ -50,3 +50,19 @@ Karacasu Kaplıcaları, sunduğu çeşitli kür programları ile misafirlerine k
 Karacasu Kaplıcaları'na ulaşım oldukça kolaydır. Bolu şehir merkezine yakın bir konumda bulunan kaplıcalar, hem özel araçlarla hem de toplu taşıma ile rahatlıkla ulaşılabilir. Kaplıcaların giriş ücreti, sezon ve hizmetlere göre değişiklik göstermektedir, bu nedenle ziyaret öncesinde güncel fiyat bilgilerini incelemek faydalı olacaktır. Karacasu çevresinde konaklama imkanı sunan çeşitli oteller, ziyaretçilerin konforlu bir şekilde kalmasını sağlamaktadır. Karacasu Kaplıcaları'nın sunduğu sağlık imkanlarını ve huzuru deneyimlemek, sağlığınızı desteklemek için mükemmel bir fırsat sunmaktadır.
 
 Karacasu Kaplıcaları, hem fiziksel hem de zihinsel sağlığınıza katkıda bulunmak için sizi bekliyor. Sağlık dolu bir tatil için Karacasu'yu tercih edin.
+
+## Konaklama Rehberi
+
+Bolu iline bağlı Göynük ilçesindeki Karacasu Kaplıcaları, Abant Gölü ve Bolu ormanlarıyla çevrili doğa içinde bir termal destinasyondur.
+
+### Konaklama Tipleri
+
+**Tesis Konaklama:** Karacasu tesislerinde konaklama seçeneği mevcuttur. Bolu'nun orman konumuyla bungalov ya da tatil köyü konseptli konaklamalar yaygındır.
+
+**Bolu Merkez (60 km) ve Abant (40 km):** Bolu merkezindeki oteller veya Abant çevresindeki tatil tesisleri, Karacasu'ya gezi güzergâhı olarak programlanabilir.
+
+### Rezervasyon İpuçları
+
+Bolu–Abant–Karacasu kombinasyonu haftasonları için harika bir doğa + termal güzergâhıdır. Termal tedavi için **3–5 gece** konaklama önerilir.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: karacasu-kaplicalari, İl: Bolu -->

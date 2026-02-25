@@ -45,6 +45,23 @@ Ziyaretçilerine sunduğu sağlık ve wellness olanakları ile Kangal Balıklı 
 
 Kangal, Sivas’ın doğal güzellikleri ve tarihi zenginlikleri ile dolu bir ilçesidir. Kaplıcanın yakınında yer alan tarihi kalıntılar, göletler ve yemyeşil doğa manzaraları ile dolu yürüyüş yolları, keşfe çıkmanız için harika fırsatlar sunar. Ayrıca, Kangal'da yer alan çeşitli restoranlar ve kafe seçenekleri, yöresel lezzetleri tatma imkanı sunar. Kangal Balıklı Kaplıca'nın yakınında konaklayabileceğiniz oteller de mevcuttur. Kangal Balıklı Kaplıca otelleri, hem konforlu bir konaklama hem de kaplıca deneyimini bir arada yaşama fırsatı sunmaktadır.
 
+
+## Konaklama Rehberi
+
+Kangal, Sivas iline bağlı küçük bir ilçe olup dünyada psoriasis tedavisiyle tanınan Garra Rufa balıklı kaplıcasıyla ünlenmiştir. Organize konaklama imkânı sınırlı olsa da kaplıca tesisi kendi yatakhanesini sunmaktadır.
+
+### Konaklama Tipleri
+
+**Kaplıca Tesisi Yatakhanesi:** Tesisin bünyesindeki yatakhane, uzun süreli kür tedavisi için en pratik seçenektir; tedavi süreci kesintisiz sürdürülebilir.
+
+**Sivas Merkez (100 km):** Sivas'ta her kategoride otel bulunmakta; ancak günlük gidip gelmek zahmetli olduğundan tesis içi konaklama tercih edilir.
+
+### Rezervasyon İpuçları
+
+Sedef hastalığı için en az **14–21 gün** konaklama gereklidir. Psoriasis mevsimi yaz (Haziran–Ağustos) olduğundan bu dönemde kapasite hızla tükenir; erken rezervasyon şarttır. [Sivas kaplıcaları rehberine bakın →](/iller/sivas/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kangal-balikli-kaplica, İl: Sivas -->
+
 ## Seyahat Planlama
 
 Kangal Balıklı Kaplıca'ya ulaşım oldukça kolaydır. Sivas şehir merkezinden Kangal’a ulaşım, otobüs veya özel araçlarla 1 saat içinde sağlanabilmektedir. Kangal Balıklı Kaplıca giriş ücreti ise uygun fiyatlıdır, bu sayede bütçenizi sarsmadan sağlıklı bir tatil geçirebilirsiniz. Kangal'a gitmeden önce hava durumunu kontrol etmek ve uygun kıyafetlerle yolculuğunuza çıkmak faydalı olacaktır. Hafta sonu kaçamağı için ideal bir seçenek olan Kangal Balıklı Kaplıca, hem ruhunuza hem de bedeninize iyi gelecek bir deneyim sunuyor.

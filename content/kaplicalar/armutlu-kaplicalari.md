@@ -45,6 +45,23 @@ Armutlu Kaplıcaları'nın sunduğu şifalı sular, başta romatizma ve kas hast
 
 Armutlu Kaplıcaları'nda uygulanan kür programları, kişisel ihtiyaçlara göre şekillendirilir. Sıcak su banyoları, hidroterapi uygulamaları ve masaj terapileri gibi seçenekler, burada sunulan sağlık hizmetleri arasında yer alır. Bu programlar, misafirlerin daha sağlıklı ve dinç hissetmelerini sağlamak için özenle hazırlanmıştır. Genellikle, sıcak su banyolarında geçirilen süre, 15-30 dakika arasında değişir ve bu süre zarfında buharın cilt üzerinde yarattığı etkiler, vücut tarafından hızla hissedilir. Ayrıca, kaplıcaların doğal ortamında yapılan yürüyüşler ve doğa aktiviteleri de, fiziksel ve ruhsal sağlığınızı destekleyecek harika birer yöntemdir.
 
+
+## Konaklama Rehberi
+
+Armutlu, Yalova'nın Marmara kıyısında yer alır ve hem deniz hem termal imkânı sunan nadir destinasyonlardandır. Şehirlilerden uzak, sakin bir yarımada atmosferi hâkimdir.
+
+### Konaklama Tipleri
+
+**Termal ve Deniz Kıyısı Tesisler:** Armutlu'da deniz kıyısına yakın termal havuzlu küçük oteller ve tatil beldeleri mevcuttur. Yaz aylarında deniz + termal kombinasyonu büyük ilgi görür.
+
+**Pansiyonlar:** İlçede ekonomik pansiyonlar mevcuttur; ailelere uygun fiyat avantajı sağlar.
+
+### Rezervasyon İpuçları
+
+İstanbul'dan en pratik güzergâh: Yenikapı'dan Yalova'ya feribot, ardından Armutlu'ya minibüs (toplam ~2 saat). Yaz aylarında hızla dolan Armutlu'da **önceden rezervasyon şarttır**.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: armutlu-kaplicalari, İl: Yalova -->
+
 ## Pratik Bilgiler
 
 Armutlu Kaplıcaları'na ulaşım oldukça kolaydır. Bursa şehir merkezinden otobüs veya özel araç ile yaklaşık 30 dakika içinde bu şifalı sulara erişebilirsiniz. Armutlu Kaplıcaları giriş ücreti ise oldukça uygundur; bütçenizi zorlamadan bu eşsiz deneyimi yaşamanızı sağlar. Ayrıca, çevrede bulunan Armutlu Kaplıcaları otelleri, farklı bütçelere hitap eden konaklama seçenekleri sunmaktadır. Bu otellerde konaklayarak, hem kaplıca hizmetlerinden faydalanabilir hem de çevreyi keşfedebilirsiniz.

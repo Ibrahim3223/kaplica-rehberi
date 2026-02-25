@@ -49,6 +49,31 @@ Sandıklı Hüdai Kaplıcası’nın şifalı suları, birçok sağlık sorununa
 
 Sandıklı Hüdai Kaplıcası’na ulaşım oldukça kolaydır. Afyonkarahisar il merkezine 50 kilometre mesafede bulunan kaplıca, otobüsle veya özel araçla rahatlıkla ulaşılabilir. Sandıklı ilçesi, şehirlerarası otobüs seferleriyle de bağlantılıdır. Ziyaretçiler, Sandıklı Hüdai Kaplıcası’na geldiklerinde bölgedeki çeşitli otellerde konaklayabilirler. Sandıklı Hüdai Kaplıcası otelleri, misafirlere hem konforlu bir konaklama imkanı sunmakta hem de sağlık hizmetlerinden faydalanma fırsatı vermektedir. 
 
+
+## Konaklama Rehberi
+
+Sandıklı Hüdai, Afyonkarahisar'ın Sandıklı ilçesinde hem tarihsel hem de medikal kimliğiyle öne çıkan bir termal merkezdir. Belediye işletmesinden özel termal otellere kadar uzanan geniş konaklama yelpazesi, farklı bütçelere hitap eder.
+
+### Konaklama Tipleri
+
+**Termal Oteller:** Hüdai bölgesinde termal suya doğrudan erişimli oteller mevcuttur. Çamur banyosu (fango) tesislerini bünyesinde barındıran tesisler, romatizma ve deri rahatsızlıkları için özel kür programları sunar. Kür programı dahil oda seçenekleri mevcuttur.
+
+**Belediye Tesisi:** Sandıklı Belediyesi'nin işlettiği kaplıca tesisi, ekonomik konaklama ve günlük giriş imkânı sunar. Fizyoterapi hizmetleri de burada alınabilmektedir.
+
+**Pansiyonlar:** İlçe merkezindeki pansiyonlar, bütçe dostu bir alternatif olarak öne çıkar; kaplıca tesisine yürüme mesafesindedir.
+
+### Fiyat Aralığı ve Sezon Bilgisi
+
+Sandıklı Hüdai, yıl boyunca ziyaret edilebilir. Yaz ayları ve bayram tatilleri yoğun dönemlerdir; bu zamanlarda erken rezervasyon şarttır. Kür paketleri (konaklama + tedavi + fizyoterapi), günlük fiyatlandırmaya göre daha avantajlıdır.
+
+### Rezervasyon İpuçları
+
+Romatizma ve kas hastalıkları için **minimum 7–10 gece** konaklama önerilmektedir; medikal kür için 14 gün idealdir. Afyonkarahisar merkezinden Sandıklı'ya 50 km'dir; şehirlerarası otobüs seferleri mevcuttur. Kür programına dahil olmak için randevunuzu önceden alın.
+
+[Afyonkarahisar kaplıcaları rehberine bakın →](/iller/afyonkarahisar/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: sandikli-hudai-kaplicasi, İl: Afyonkarahisar -->
+
 ## Ziyaretçi İpuçları
 
 Sandıklı Hüdai Kaplıcası’nı ziyaret etmek isteyenler için bazı ipuçları, keyifli ve faydalı bir deneyim yaşamanıza yardımcı olacaktır. Öncelikle, kaplıca giriş ücreti hakkında bilgi edinmek yararlı olacaktır; böylece bütçenizi planlayabilirsiniz. Kaplıcada uygulanacak tedavi yöntemlerinin yanı sıra, haftalık programlar düzenlenmekte olup, bu programlara katılmak sağlık açısından büyük fayda sağlayabilir. Ayrıca, kaplıca ziyaretiniz sırasında bol su içmeyi ve dinlenmeyi unutmamanız önemlidir. Kaplıcanın sunduğu doğal güzellikleri keşfetmek için çevrede yürüyüş yapmayı da düşünebilirsiniz.

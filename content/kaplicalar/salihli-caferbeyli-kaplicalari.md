@@ -50,3 +50,12 @@ Salihli Caferbeyli Kaplıcaları, konuklarına çeşitli kür programları sunar
 Salihli Caferbeyli Kaplıcaları'na ulaşım oldukça kolaydır. Manisa şehir merkezinden Salihli ilçesine ulaşarak, buradan Caferbeyli'ye yönelmek yeterlidir. Kaplıcanın giriş ücreti, sunduğu hizmetler ve sağlık uygulamaları ile orantılı olarak belirlenmektedir. Ziyaretçiler için yakın konaklama seçenekleri de mevcuttur; çeşitli oteller, kaplıca misafirlerine rahat bir konaklama imkanı sunmaktadır. Salihli Caferbeyli Kaplıcaları'nın sunduğu tüm bu imkanlar, onu sağlık turizmi açısından bölgedeki diğer kaplıcalar arasında özel kılmaktadır.
 
 Salihli Caferbeyli Kaplıcaları, hem doğal güzellikleri hem de şifalı sularıyla sizleri bekliyor. Sağlığınıza önem veriyorsanız, bu kaplıcaların sunduğu doğanın tadını çıkararak, ruhsal ve fiziksel olarak yenilenebilirsiniz. Sağlık dolu bir tatil için Salihli Caferbeyli Kaplıcaları'na bir uğrayın!
+
+## Konaklama Rehberi
+
+salihli-caferbeyli-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: salihli-caferbeyli-kaplicalari, İl: İl Merkezi -->

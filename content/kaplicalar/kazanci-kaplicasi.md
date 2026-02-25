@@ -44,6 +44,16 @@ Kazancı Kaplıcası’nın suyu, romatizmal hastalıklar, cilt problemleri ve k
 
 Kazancı Kaplıcası’na ulaşım oldukça kolaydır. Sivas il merkezinden özel araç veya toplu taşıma ile kısa bir yolculukla kaplıcaya ulaşmak mümkündür. Kazancı Kaplıcası giriş ücreti hakkında güncel bilgiler yerel otoritelerden edinilebilir. Ziyaretçiler için çevrede çeşitli konaklama seçenekleri sunan Kazancı Kaplıcası otelleri mevcuttur. Bu oteller, konforlu bir konaklama imkanı sunarak ziyaretçilere kaplıca suyu ile sağlık bulmaları konusunda yardımcı olmaktadır.
 
+
+## Konaklama Rehberi
+
+kazanci-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kazanci-kaplicasi, İl: İl Merkezi -->
+
 ## Ziyaretçi İpuçları
 
 Kazancı Kaplıcası’nı ziyaret ederken, rahat giysiler ve terlik gibi uygun eşyalar getirmeniz önemlidir. Ayrıca, sağlık durumunuza uygun olarak bir doktor tavsiyesi almanız da faydalı olacaktır. Kaplıca suyunun faydalarından en iyi şekilde yararlanmak için, düzenli aralıklarla suya girmek ve bu süreçte dinlenmeye özen göstermek önemlidir. Ziyaretinizi planlarken, kaplıca çevresindeki doğal güzellikleri keşfetmeyi unutmayın; bu şekilde hem bedeninizi hem de ruhunuzu yenileme fırsatı bulabilirsiniz.

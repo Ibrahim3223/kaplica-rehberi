@@ -50,3 +50,12 @@ Ayaş Kaplıcası'nda sunulan kür programları genellikle sıcak su tedavisi, m
 Ayaş Kaplıcası'na ulaşmak oldukça kolaydır. Ankara'nın merkezine yakın bir konumda yer alan bu kaplıcaya özel araçla veya otobüsle ulaşım sağlanabilir. Kaplıcanın konumu sayesinde doğayla iç içe bir deneyim sunarken, konaklama seçenekleri de oldukça çeşitlidir. Ayaş Kaplıcası otelleri, konforlu bir konaklama deneyimi sağlar ve sakin atmosferiyle çiftlere huzurlu bir kaçamak sunar. Kaplıca giriş ücreti ise, sunduğu hizmetlerle orantılı olarak uygun bir fiyat aralığındadır. 
 
 Ayaş Kaplıcası, sevgilinizle birlikte geçireceğiniz huzur dolu bir tatil için harika bir seçenek! Sıcak suların ve doğal güzelliklerin tadını çıkararak, unutulmaz anılar biriktirebilirsiniz. Kendinize ve sevdiğinize bu özel deneyimi hediye edin!
+
+## Konaklama Rehberi
+
+ayas-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ayas-kaplicasi, İl: İl Merkezi -->

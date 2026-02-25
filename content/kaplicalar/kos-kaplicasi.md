@@ -44,6 +44,16 @@ Kös Kaplıcası, sunduğu sağlık ve wellness olanaklarıyla da dikkat çekmek
 
 Kös Kaplıcası civarında keşfedilecek birçok doğal güzellik ve tarihi yer bulunmaktadır. Kaplıcadan kısa bir mesafede yer alan göletler ve dağ manzaraları, her mevsim farklı bir güzellik sunar. Doğa yürüyüşleri, bisiklet turları ve piknik alanları, çiftlere birlikte keyifli anlar yaşatırken, bölgedeki yerel restoranlarda sunulan yöresel lezzetler de damak tadınızı şenlendirir. Kös Kaplıcası, sadece bir kaplıca değil, aynı zamanda keşfedilmeyi bekleyen bir cennet köşesidir.
 
+
+## Konaklama Rehberi
+
+kos-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kos-kaplicasi, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Kös Kaplıcası'na ulaşım oldukça kolaydır. Özel araçla veya toplu taşıma ile rahatlıkla gidilebilir. Kös Kaplıcası’na giderken, yolculuğunuzun keyfini artırmak için güzergah üzerindeki yerel köylerde mola vermek harika bir fikir olabilir. Kaplıca çevresinde konaklamak isteyen çiftler için birçok otel seçeneği mevcuttur. Kös Kaplıcası otelleri, konforlu ve romantik bir konaklama sunarak, aşk dolu anlarınızı daha da özel kılar. Kös Kaplıcası giriş ücreti ise, ziyaretçi akışına bağlı olarak değişiklik gösterebilir, bu nedenle gitmeden önce kontrol etmek faydalı olacaktır.

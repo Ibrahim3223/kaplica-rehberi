@@ -46,6 +46,23 @@ Oylat Kaplıcaları, sadece şifalı sularıyla değil, çevresindeki doğal gü
 
 Bursa'nın tarihi ve kültürel zenginliklerinin yanı sıra, Oylat Kaplıcaları'na yakın yerleşim birimlerinde yöresel lezzetleri tadabileceğiniz restoranlar da bulunmaktadır. Özellikle İnegöl köftesi ve çeşitli yerel şaraplar, burayı ziyaret edenlerin mutlaka denemesi gereken tatlar arasında.
 
+
+## Konaklama Rehberi
+
+Oylat, Bursa'nın İnegöl ilçesine bağlı, dar bir vadi içinde konumlanmış sakin bir termal destinasyondur. Orman içi konumuyla Bursa Çekirge'nin şehir gürültüsünden uzak bir kür alternatifi sunar.
+
+### Konaklama Tipleri
+
+**Termal Tesisler:** Oylat vadisinde sınırlı sayıda küçük ölçekli termal otel ve pansiyonlar hizmet verir. Doğal ortam içindeki bu tesisler dinlenme ve iyileşme için elverişlidir.
+
+**İnegöl Merkez (35 km):** İnegöl'deki otellerde konaklanarak Oylat'a günübirlik gidilebilir; ancak kür amacıyla gidilecekse tesis içi konaklama daha verimlidir.
+
+### Rezervasyon İpuçları
+
+Bursa–İnegöl arası 40 km, İnegöl–Oylat 35 km'dir. Romatizma ve sinir hastalıkları için **5–7 gece** konaklama önerilir. [Bursa kaplıcaları rehberine bakın →](/iller/bursa/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: oylat-kaplicalari, İl: Bursa -->
+
 ## Kimler İçin Uygun
 
 Oylat Kaplıcaları, farklı yaş gruplarındaki bireyler için uygundur. Romatizma, sinir hastalıkları, cilt hastalıkları gibi sağlık sorunları yaşayan bireyler, bu kaplıcalardan ciddi ölçüde fayda sağlayabilir. Ayrıca, stres yönetimi ve ruhsal denge arayışında olan herkes, bu doğal ortamda kendilerine iyi gelecek bir deneyim yaşayabilir. 

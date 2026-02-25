@@ -41,6 +41,23 @@ Güre Kaplıcaları'nın termal suyu, mineraller açısından oldukça zengindir
 
 Güre Kaplıcaları yalnızca sağlık için değil, aynı zamanda çeşitli aktiviteleriyle de ziyaretçilere geniş bir yelpaze sunmaktadır. Edremit'in tarihi ve doğal güzelliklerini keşfetmek isteyenler için pek çok seçenek mevcuttur. Ziyaretçiler, yakınlardaki Kaz Dağları'nın eşsiz doğasında yürüyüşler yapabilir, bölgedeki şelaleleri ziyaret edebilir veya denize girebilir. Ayrıca, yöresel lezzetlerle dolu restoranlar ve kafelerde, Balıkesir’in otantik mutfağını tatma fırsatı bulabilirsiniz. Güre Kaplıcaları'na gelenler, çeşitli doğa aktiviteleri ve kültürel deneyimlerle dolu bir tatil geçirebilir.
 
+
+## Konaklama Rehberi
+
+Güre, Balıkesir'in Edremit ilçesine bağlı, Kazdağları eteklerinde deniz kıyısına yakın konumlu bir termal destinasyondur. Tuzlu deniz suyu ile termal su banyosunu aynı bölgede deneyimlemek mümkündür.
+
+### Konaklama Tipleri
+
+**Güre Termal Tesisleri:** Güre'de termal havuzlu oteller ve tatil köyleri mevcuttur; bazılarında deniz manzarası ve termal havuza erişim bulunur.
+
+**Edremit–Akçay:** Yakın çevredeki tatil beldelerinde geniş konaklama seçenekleri; Güre'ye günübirlik erişim de mümkündür.
+
+### Rezervasyon İpuçları
+
+Yaz döneminde (Temmuz–Ağustos) kapasite dolmaktadır; erken rezervasyon şarttır. Kazdağları yürüyüş güzergâhları Güre programına eklenebilir.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: gure-kaplicalari, İl: Balıkesir -->
+
 ## Kimler İçin Uygun
 
 Güre Kaplıcaları, özellikle romatizma, cilt hastalıkları ve sinir hastalıkları gibi sağlık sorunları olan bireyler için idealdir. Kaplıca suyu, bu rahatsızlıkların tedavisinde önemli bir rol oynayarak, hastaların semptomlarını hafifletmeye yardımcı olur. Bunun yanı sıra, sağlığını korumak isteyen ve stres atmak isteyen herkes, burada kendine uygun bir terapi bulabilir. Kaplıca tesislerinde sunulan profesyonel sağlık hizmetleri ve doktor tavsiyeleri, ziyaretçilerin en iyi şekilde yönlendirilmesini sağlıyor. Yani, Güre Kaplıcaları; hem tedavi arayanlar hem de sağlıklı yaşamı desteklemek isteyenler için cazip bir merkezdir.

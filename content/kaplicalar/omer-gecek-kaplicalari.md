@@ -47,6 +47,23 @@ Romatizma ve cilt hastalıkları gibi rahatsızlıkları olan kişiler için öz
 
 Aynı zamanda, Afyonkarahisar’ın ünlü yemeklerini denemek için yerel restoranlara da uğrayabilirsiniz. Özellikle sucuk ve kaymaklı tatlılar, ziyaretçilerin damaklarında unutulmaz bir tat bırakıyor. Kaplıca keyfini, bu lezzetli molalarla taçlandırabilirsiniz.
 
+
+## Konaklama Rehberi
+
+Ömer-Gecek Kaplıcaları, Afyonkarahisar il merkezine 7 km mesafesiyle kentin neredeyse içinde sayılabilecek bir termal destinasyondur.
+
+### Konaklama Tipleri
+
+**Termal Oteller (Ömer-Gecek bölgesi):** Kaplıca bölgesinde termal havuzlu oteller ve belediye tesisi mevcuttur. Büyük termal otel kompleksleri bu bölgede yoğunlaşmıştır.
+
+**Afyonkarahisar Merkez (7 km):** Şehir merkezindeki her kategoride otel; kaplıcalara kısa sürede ulaşılabilir.
+
+### Rezervasyon İpuçları
+
+Zafer Havalimanı–Afyon merkez arası 15 km, kaplıcaya 22 km'dir. Romatizma ve eklem tedavisi için **5–10 gece** konaklama önerilir. Afyonkarahisar'ın lokum ve kaymak lezzetleri de kür programına güzel bir ek sunar.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: omer-gecek-kaplicalari, İl: Afyonkarahisar -->
+
 ## Kimler İçin Uygun
 
 Ömer-Gecek Kaplıcaları, başta romatizma ve cilt hastalıkları olmak üzere çeşitli rahatsızlıklardan muzdarip olanlar için uygun bir alternatif sunuyor. Bununla birlikte, stres atmak ve yorgunluktan arınmak isteyen herkes için ideal bir kaçış noktası. Aileler, çiftler veya yalnız seyahat edenler için sunduğu olanaklar ve çevresel güzellikler sayesinde her kesime hitap ediyor.

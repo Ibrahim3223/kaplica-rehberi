@@ -46,6 +46,16 @@ Urganlı Kaplıcaları'nın sunduğu sağlık faydaları, tıbbi açıdan olduk�
 
 Urganlı Kaplıcaları, Manisa'nın Turgutlu ilçesinde yer alması dolayısıyla ulaşım açısından avantajlı bir konumda bulunmaktadır. Toplu taşıma araçları ile Turgutlu'ya ulaşmak oldukça kolaydır. Turgutlu merkezinden kaplıcalara yürüyerek veya kısa bir taksi yolculuğu ile ulaşmak mümkündür. Turgutlu'da konaklama için pek çok otel ve pansiyon seçeneği bulunmaktadır. Urganlı Kaplıcaları'na yakın konumda bulunan oteller, çeşitli fiyat aralıklarında hizmet vererek ziyaretçilerin konforunu sağlamaktadır. Urganlı Kaplıcaları giriş ücreti, kaplıcaların sunduğu hizmetlere göre değişiklik göstermektedir.
 
+
+## Konaklama Rehberi
+
+urganli-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: urganli-kaplicalari, İl: İl Merkezi -->
+
 ## Ziyaretçi İpuçları
 
 Urganlı Kaplıcaları’nı ziyaret etmeyi planlayanlar için bazı ipuçları sunmak faydalı olacaktır. Öncelikle, kaplıcalara gitmeden önce mutlaka doktor tavsiyesi almanız önerilir. Sağlık durumunuza uygun tedavi süreçlerini belirlemek için profesyonel bir görüş almanız faydalı olacaktır. Ayrıca, kaplıca tesislerinde sunulan spa ve masaj hizmetlerinden yararlanmanız, deneyiminizi daha da zenginleştirebilir. Ziyaret saatlerinizi, yoğun saatlerden kaçınarak belirlemeniz, daha sakin bir deneyim yaşamanıza yardımcı olacaktır. Ayrıca, kaplıca suyunun mineral içeriği nedeniyle, vücudunuzun su ile dengeli bir şekilde hidrasyonunu sağlamayı ihmal etmeyin.

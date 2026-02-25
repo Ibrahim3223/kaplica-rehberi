@@ -58,6 +58,27 @@ Kırmızı Su Karahayıt, sadece kaplıca deneyimi sunmakla kalmaz; çevresindek
 
 Bölgedeki oteller genellikle kaplıca hizmetleri ile entegre çalışarak, hem konaklama hem de sağlık hizmetlerini bir arada sunar. Kırmızı Su Karahayıt otelleri arasında, konfor ve hizmet kalitesi açısından seçkin seçenekler bulmak mümkündür.
 
+
+## Konaklama Rehberi
+
+Karahayıt'ın simgesi haline gelen kırmızı termal sular, bölgeyi hem yerli hem yabancı ziyaretçiler için çekici kılar. Pamukkale'ye 5 km mesafesiyle kültür + termal kombinasyonu yapılabilen bir lokasyondur.
+
+### Konaklama Tipleri
+
+**Karahayıt Termal Otelleri:** Kırmızı su havuzlu onlarca termal otel mevcuttur. 3–5 yıldızlı tesisler SPA ve hamam hizmeti sunar; oda tipine göre özel termal banyolar bulunabilir.
+
+**Pamukkale Kasabası (5 km):** Daha küçük aile işletmesi pansiyonlar; Pamukkale gezisini öncelikleyenler için tercih edilir.
+
+### Fiyat Aralığı ve Sezon Bilgisi
+
+Uluslararası talep nedeniyle bölge yıl boyunca aktiftir. Yaz zirvesinde kapasite dolar; ilkbahar ve sonbahar daha sakin ve ekonomik bir deneyim sunar.
+
+### Rezervasyon İpuçları
+
+Cilt ve romatizmal hastalıklar için **5–7 gece** konaklama önerilir. Denizli Çardak Havalimanı'ndan transfer 40–45 dakika sürer. Pamukkale–Karahayıt arası dolmuş seferleri mevcuttur.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kirmizi-su-karahayit, İl: Denizli -->
+
 ## Seyahat Planlama
 
 Kırmızı Su Karahayıt’a ulaşım oldukça kolaydır. Kütahya il merkezine yaklaşık 20 kilometre mesafede bulunan kaplıcaya, özel araçla gelmek en pratik yoldur. Ayrıca, Kütahya otogarından hareket eden dolmuşlar da düzenli olarak kaplıcaya sefer düzenlemektedir. 

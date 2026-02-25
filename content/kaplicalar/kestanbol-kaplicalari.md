@@ -48,6 +48,16 @@ Kestanbol Kaplıcaları, sadece termal suyu ile değil, sunduğu sağlık ve wel
 
 Kestanbol Kaplıcaları çevresinde keşfedilecek pek çok doğal güzellik bulunmaktadır. Çanakkale'nin tarihi zenginlikleri arasında yer alan Truva Antik Kenti ve Assos, bu bölgedeki gezilecek yerlerden sadece birkaçıdır. Ayrıca, doğa yürüyüşleri için ideal olan Kaz Dağları’nın eteklerinde yürüyüş yapmak da mümkündür. Yerel lezzetlerin tadına bakmak için ise Ezine'nin meşhur peynirlerini denemeyi unutmayın. Çanakkale kaplıcaları arasında Kestanbol, sunduğu doğal güzelliklerle birleştiğinde unutulmaz bir tecrübe vadediyor.
 
+
+## Konaklama Rehberi
+
+kestanbol-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kestanbol-kaplicalari, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Kestanbol Kaplıcaları’na ulaşmak oldukça kolaydır. Çanakkale şehir merkezinden yaklaşık 30 kilometre mesafede yer alan kaplıcalara özel araçla veya toplu taşıma ile gitmek mümkündür. Eğer özel bir konaklama tercih ediyorsanız, çevredeki Kestanbol Kaplıcaları otelleri konforlu bir tatil için sizleri bekliyor. Kestanbol Kaplıcaları giriş ücreti ise oldukça makuldür; bu sayede herkes bu şifa kaynağından faydalanma fırsatını elde eder. 

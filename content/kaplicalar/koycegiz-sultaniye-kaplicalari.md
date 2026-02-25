@@ -38,6 +38,23 @@ Köyceğiz Sultaniye Kaplıcaları, 40°C sıcaklığındaki şifalı suyu ile c
 
 Köyceğiz Sultaniye Kaplıcaları, yalnızca termal suyun tadını çıkarmakla kalmayıp, çevresindeki doğal güzellikleri keşfetme fırsatı da sunuyor. Kaplıcalara oldukça yakın konumda bulunan Köyceğiz Gölü, doğa yürüyüşleri ve gölde tekne turları gibi su aktiviteleri için ideal bir ortam sağlıyor. Ayrıca, bölgedeki zeytinlikler ve narenciye bahçeleri, yürüyüş yaparken gözlerinizi gönlünüzü açacak manzaralar sunuyor. Ek olarak, bölgedeki yerel restoranlarda organik ve taze ürünlerle hazırlanan yöresel lezzetleri tatma imkanı da mevcut. Gezginler için çeşitli güzellikler sunan bu bölge, hem sağlık hem de dinlenme amacıyla gelenler için mükemmel bir destinasyon.
 
+
+## Konaklama Rehberi
+
+Köyceğiz–Sultaniye Kaplıcaları, Muğla'nın Köyceğiz Gölü kıyısında tekneyle ulaşılan eşsiz konumuyla Türkiye'nin en ilginç termal destinasyonlarından biridir. Açık hava çamur banyosu ve göl-orman manzarası Ege kıyılarının mücevheri sayılır.
+
+### Konaklama Tipleri
+
+**Köyceğiz Merkez:** Sultaniye kaplıcalarına en yakın konaklama noktasıdır. Göl kıyısında butik oteller, pansiyonlar ve tatil evleri mevcuttur; buradan tekneyle 30–40 dakikada kaplıcalara ulaşılır.
+
+**Dalyan (15 km):** İztuzu plajı ve Caretta caretta ile ünlü Dalyan'dan günübirlik tekne turuyla Sultaniye'ye ulaşmak mümkündür.
+
+### Rezervasyon İpuçları
+
+Muğla-Fethiye güzergâhına dahil edilerek **5–7 gece** kombine Ege tatili planlanabilir. Yaz (Haziran–Eylül) en yoğun dönemdir. [Muğla kaplıcaları rehberine bakın →](/iller/muğla/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: koycegiz-sultaniye-kaplicalari, İl: Muğla -->
+
 ## Kimler İçin Uygun
 
 Köyceğiz Sultaniye Kaplıcaları, özellikle cilt rahatsızlıkları, romatizma ve eklem ağrıları yaşayan bireyler için tavsiye edilmektedir. Bununla birlikte, stres atma ve bedensel rahatlama arayışında olan herkes için de uygun bir ortama sahiptir. Termal suların şifalı etkileri, hamileler, yaşlılar ve çeşitli hastalıkları bulunan bireyler için doktor önerileri doğrultusunda değerlendirilmelidir. Ayrıca, kaplıca tesisleri, aileler ve çiftler için rahatlayacakları huzurlu bir atmosfer sunmaktadır.

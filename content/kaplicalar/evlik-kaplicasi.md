@@ -49,3 +49,12 @@ Evlik Kaplıcası'na ulaşım oldukça kolaydır. Bulunduğu konum itibarıyla, 
 Evlik Kaplıcası’nda bir tatil planlamak için bütçe konusunda dikkatli olmanızda fayda var. Kaplıca giriş ücreti oldukça makul seviyelerde, bu da tatilinizi daha da erişilebilir kılıyor. Konaklama ve yemek masraflarınızı da göz önünde bulundurduğunuzda, romantik bir kaçamak için bütçenizi rahatlıkla ayarlayabilirsiniz. Çiftler için özel paketlerin bulunduğu otellerde, tatilinizi daha da unutulmaz kılacak fırsatlar bulmanız mümkün.
 
 Sonuç olarak, Evlik Kaplıcası, bir aşk hikayesinin yeni sayfalarını yazmak için ideal bir mekan. Doğanın sunduğu huzur, sıcak kaplıca suları ve romantik atmosfer, unutulmaz anılar biriktirmenize yardımcı olacak. Şimdi, bu eşsiz deneyimi yaşamak için harekete geçme zamanı!
+
+## Konaklama Rehberi
+
+evlik-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: evlik-kaplicasi, İl: İl Merkezi -->

@@ -36,6 +36,16 @@ Kürttacın Ilıcası'nın şifalı sularında zaman geçirdikçe bedeninizin ve
 
 Kürttacın Ilıcası'nın çevresi, sadece termal sularıyla değil, aynı zamanda keşfedilmeyi bekleyen doğa harikalarıyla doludur. Yakınlardaki yürüyüş parkurları, dağların ve ağaçların arasında kaybolmanızı sağlayacak doğa yürüyüşleri için mükemmel bir fırsat sunar. Eşinizle birlikte el ele tutuşarak bu parkurlarda yürümek, ilişkinize yeni bir boyut kazandırabilir. Ayrıca doğa ile bütünleşmek isteyenler için bisiklet kiralama imkanı da bulunmakta. Böylece hem eğlenceli zaman geçirebilir, hem de muhteşem manzaraların tadını çıkarabilirsiniz. Gün batımında yapılacak bir yürüyüş ise, unutulmaz anılar biriktirmenizi sağlayacaktır.
 
+
+## Konaklama Rehberi
+
+kurttacin-ilicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kurttacin-ilicasi, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Kürttacın Ilıcası, özellikle huzur arayan çiftler için ideal bir kaçış noktasıdır. İster romantik bir tatil, ister ruhsal bir yenilenme arayışında olun, burası her iki tür için de mükemmel bir ortam sunar. Kimi zaman günlük hayatın koşuşturmasında kaybolmuş olan ilişkiler, bu kaplıcada yeniden canlanabilir. Ayrıca stresli bir iş yaşamından uzaklaşmak isteyenler için de burası, rahatlama ve yenilenme fırsatı sunar. Her yaştan çiftin burada kendine uygun bir deneyim bulması mümkün.

@@ -39,6 +39,21 @@ Edremit Kaplıcaları'nda su sıcaklığı 45°C'ye ulaşıyor ve bu sıcak su, 
 
 Edremit Kaplıcaları'nın çevresi, sadece kaplıca deneyimiyle sınırlı değildir. Doğanın içinde yürüyüş yapabilir, görülmeye değer manzaralar eşliğinde fotoğraflar çekebilirsiniz. Van Gölü’ne yakınlığı sayesinde göl kenarında keyifli piknikler yapabilir veya su sporlarıyla adrenalini artırabilirsiniz. Ayrıca, Edremit merkezinde yer alan yerel restoranlarda, bölgeye özgü lezzetlerin tadına bakmayı unutmayın. Hem kültürel bir deneyim yaşamak hem de sağlıklı beslenmek için harika bir fırsat sunar.
 
+
+## Konaklama Rehberi
+
+Edremit, Balıkesir'in Körfez kıyısında zeytin ormanları ve Kazdağları eteklerinde termal kaynakları barındıran bir destinasyondur. Deniz + yayla + termal kombinasyonu mümkündür.
+
+### Konaklama Tipleri
+
+**Edremit Körfezi Tesisleri:** Edremit, Burhaniye ve Akçay'da sahil boyunca geniş konaklama yelpazesi mevcuttur; butik otellerden büyük tatil köylerine kadar seçenekler çeşitlidir.
+
+### Rezervasyon İpuçları
+
+Yaz aylarında Ege sahil tatiliyle termal kür birleştirilebilir. Balıkesir Koca Seyit Havalimanı'ndan Edremit'e yaklaşık 50 dakika sürer.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: edremit-kaplicalari, İl: Balıkesir -->
+
 ## Kimler İçin Uygun
 
 Edremit Kaplıcaları, yalnızca sağlık arayanlar için değil, aynı zamanda doğayla iç içe bir tatil yapmak isteyen herkes için uygundur. Romatizma, cilt hastalıkları gibi rahatsızlıkları olan bireyler, kaplıcalardan büyük fayda göreceklerdir. Bunun yanı sıra, stresli bir iş temposu içinde olanlar, rahatlamak ve yenilenmek için burayı tercih edebilir. Aileler, çiftler ve yalnız seyahat edenler için de ideal bir durak olan Edremit, herkesin gönlünde taht kuracak bir yer.

@@ -44,6 +44,16 @@ Karakaya Ilıcası, özellikle ailelerin sağlık ve wellness ihtiyaçlarını k
 
 Karakaya Ilıcası, sadece kaplıca deneyimiyle değil, çevresindeki doğal güzelliklerle de dikkat çekmektedir. Aileler, yürüyüş parkurlarında doğayla iç içe zaman geçirebilir; bölgedeki piknik alanlarında mangal yapabilirler. Ayrıca, çocuklar için güvenli oyun alanları ve aile dostu restoranlar, tatilinizi renklendirecek unsurlar arasında yer almaktadır. Yakın çevredeki tarihi kalıntılar ve doğal parklar, ailelerin keşfetmesi için harika fırsatlar sunar. 
 
+
+## Konaklama Rehberi
+
+karakaya-ilicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: karakaya-ilicasi, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Karakaya Ilıcası’na ulaşmak oldukça kolaydır. Özel araçla seyahat eden aileler, belirlenen yolları takip ederek kaplıcaya rahatlıkla ulaşabilirler. Toplu taşıma kullanacak olanlar içinse, bölgeye düzenli seferler bulunmaktadır. Karakaya Ilıcası giriş ücreti ise uygun fiyatlarla aile bütçesine dost bir seçenek sunmaktadır. Ayrıca, çevresinde bulunan Karakaya Ilıcası otelleri, konforlu bir konaklama imkanı sunarak tatilinizi daha keyifli hale getirecektir.

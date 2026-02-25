@@ -48,6 +48,16 @@ Diyadin Kaplıcaları, sunduğu sağlık ve wellness olanakları ile dikkat çek
 
 Diyadin ilçesi, doğal güzellikleri ve tarihsel zenginlikleri ile keşfedilmeyi bekleyen bir bölgedir. Kaplıcaların yanı sıra çevrede bulunan tarihi kalıntılar, yerel kültür ve gelenekler hakkında bilgi edinmek isteyenler için ilgi çekici bir deneyim sunmaktadır. Ayrıca, doğa yürüyüşleri, piknik alanları ve fotoğraf çekimleri için uygun mekanlar, ziyaretçilerin keyifli vakit geçirmesine olanak tanır. Ağrı kaplıcaları arasında en çok tercih edilen yerlerden biri olan Diyadin, konaklama seçenekleri ile de misafirlerini ağırlamaya hazırdır.
 
+
+## Konaklama Rehberi
+
+diyadin-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: diyadin-kaplicalari, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Diyadin Kaplıcaları'na ulaşım oldukça kolaydır. Ağrı'nın merkezine yaklaşık 30 kilometre mesafede bulunan Diyadin, karayolu ile rahatlıkla ulaşılabilir. Araçla gelenler için uygun park alanları mevcuttur. Ayrıca, bölgedeki oteller, kaplıca alanına yürüme mesafesinde bulunduğundan, konaklama sırasında rahat bir ulaşım imkanı sağlamaktadır. Diyadin Kaplıcaları giriş ücreti, yılın dönemine göre değişkenlik göstermekte olup, çeşitli paketler sunulmaktadır. Bu nedenle, seyahat öncesinde gerekli araştırmalar yapılması faydalı olacaktır.

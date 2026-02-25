@@ -46,6 +46,29 @@ Bursa Çekirge Kaplıcaları’nın sunduğu sağlık faydaları oldukça geniş
 
 Bursa Çekirge Kaplıcaları'na ulaşım oldukça rahattır. Bursa şehir merkezinden sadece birkaç kilometre uzaklıkta yer aldığından, özel aracınızla veya toplu taşıma ile kısa sürede ulaşabilirsiniz. Bursa'nın toplu taşıma ağı, Çekirge'ye sık seferler düzenlemektedir. Bu kaplıcaların çevresinde ise konaklama olanakları oldukça fazladır. Bursa Çekirge Kaplıcaları otelleri, misafirlerine konforlu ve lüks bir konaklama deneyimi sunarak, kaplıca keyfini tamamlar.
 
+
+## Konaklama Rehberi
+
+Bursa Çekirge, şehir merkezinin içinde konumlanmış nadir termal bölgelerden biridir. Osmanlı'dan günümüze uzanan hamam geleneğiyle tarihi tesislerin yanında modern termal otel zincirleri de aynı caddede yer alır. Ulaşım kolaylığı ve şehir olanaklarına yakınlık Çekirge'yi cazip kılan başlıca özelliklerdir.
+
+### Konaklama Tipleri
+
+**Tarihi ve Modern Termal Oteller:** Çekirge'de küçük butik otellerden büyük zincir termal otellere kadar geniş seçenek bulunur. Tarihi Çekirge Caddesi boyunca sıralanan tesislerde Osmanlı mimarisi ile modern spa anlayışı iç içe geçer.
+
+**Şehir Merkezi Otelleri:** Bursa merkezindeki otellerde kalıp Çekirge kaplıcalarına günübirlik ulaşmak mümkündür. Şehir merkezi otelleri genellikle daha ekonomiktir.
+
+**Tarihi Hamamlar:** Çekirge ve Bursa merkezindeki tarihi Osmanlı hamamları, düşük bütçeyle özgün bir termal deneyim sunar.
+
+### Fiyat Aralığı ve Sezon Bilgisi
+
+Bursa'nın büyükşehir dinamikleri Çekirge fiyatlarını da etkiler. Hafta sonu doluluk oranı hafta içine göre yüksektir; İstanbul'dan gelen ziyaretçiler yoğunluğu artırır. Kış aylarında Uludağ kayak + Çekirge termal kombinasyonu, kış tatilini cazip kılar.
+
+### Rezervasyon İpuçları
+
+Bir şehir tatilini termal tedaviyle birleştirmek isteyenler için Bursa + Çekirge kombinasyonu idealdir. Termal tedavi için **3–5 gece** konaklama yeterlidir. [Bursa'daki diğer kaplıcaları](/iller/bursa/) da gezi planınıza dahil edebilirsiniz.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: bursa-cekirge-kaplicalari, İl: Bursa -->
+
 ## Ziyaretçi İpuçları
 
 Çekirge Kaplıcaları'nı ziyaret etmek isteyenler için birkaç öneri sunmakta fayda var. Öncelikle, kaplıca giriş ücretlerini kontrol etmeyi unutmayın; bu bilgi, ziyaretinize hazırlık yapmanıza yardımcı olur. Kaplıcalara gitmeden önce, kendi havlunuzu ve terliklerinizi getirmeniz önerilir. Ayrıca, kaplıca sularının en iyi faydasını alabilmek için, suyun içinde yeterince vakit geçirmeniz önemlidir. Güneşli günlerde, dış havuzlarda zaman geçirerek doğanın tadını çıkarabilirsiniz. Rahat giysiler tercih etmeyi ve yanınıza bol su almayı unutmayın; bu, hem konforunuzu artıracak hem de vücudunuzun nem dengesini koruyacaktır.

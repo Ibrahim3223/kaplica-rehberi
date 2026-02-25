@@ -48,3 +48,12 @@ Heybeli Kaplıcaları'nın sunduğu avantajlar arasında, yüksek sıcaklığın
 ## Sonuç ve Tavsiye
 
 Sonuç olarak, Heybeli Kaplıcaları, Afyonkarahisar kaplıcaları arasında dikkat çeken bir destinasyon olarak, hem fiziksel hem de ruhsal sağlığı destekleyen özellikleri ile öne çıkmaktadır. Eklem hastalıkları ve romatizma gibi rahatsızlıkları olanların mutlaka deneyimlemesi gereken bu kaplıcalar, sunduğu tedavi olanakları ve doğal güzellikleri ile unutulmaz bir deneyim yaşatacaktır. Eğer siz de termal turizm ile sağlığınıza kavuşmak istiyorsanız, Heybeli Kaplıcaları'nı tercih edebilir, burada geçireceğiniz zamanın keyfini çıkarabilirsiniz. Unutmayın, doğanın sunduğu bu eşsiz şifa kaynağını keşfetmek, sağlığınızı yeniden kazanmanın en güzel yoludur!
+
+## Konaklama Rehberi
+
+heybeli-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: heybeli-kaplicalari, İl: İl Merkezi -->

@@ -41,6 +41,16 @@ Sarıkaya Kaplıcaları'nın suyu, bikarbonat, kalsiyum, magnezyum ve sülfat mi
 
 Sarıkaya Kaplıcaları’nın bulunduğu bölge, sadece kaplıca deneyimiyle sınırlı kalmıyor. Yozgat’ın zengin tarihi dokusunu keşfetmek isteyenler için çevredeki tarihi yapılar ve doğal güzellikler büyük bir fırsat sunuyor. Ayrıca, yürüyüş parkurlarında yapacağınız doğa yürüyüşleri ile hem fiziksel sağlığınıza katkıda bulunabilir hem de bölgenin doğal güzelliklerini keşfedebilirsiniz. Sarıkaya Kaplıcaları’na yakın konumda bulunan oteller, konaklama süresince rahat bir ortam sağlarken, yerel mutfağın tatlarını da deneyimleme imkânı sunuyor. Bu sayede hem fiziksel hem de kültürel bir yolculuk yapabilirsiniz.
 
+
+## Konaklama Rehberi
+
+sarikaya-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: sarikaya-kaplicalari, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Sarıkaya Kaplıcaları, farklı sağlık sorunları olan bireyler için uygun bir tedavi merkezi olarak öne çıkıyor. Özellikle romatizma, eklem hastalıkları ve cilt rahatsızlıkları olanlar için önerilen bu kaplıcalarda, üst düzey mineral içeriğiyle sağlıklı bir iyileşme süreci yaşanabiliyor. Bunun yanı sıra, stres ve yorgunluk hissi yaşayanlar için de derin bir rahatlama sağlamakta. Ancak tedavi sürecine dahil olmadan önce, mutlaka bir doktordan tavsiye almak faydalı olacaktır. Herkesin ihtiyaçlarına uygun tedavi yöntemlerinin bulunması, Sarıkaya Kaplıcaları’nın cazibesini artırıyor.

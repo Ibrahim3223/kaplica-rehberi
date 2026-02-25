@@ -54,3 +54,12 @@ Sarıcakaya Kaplıcaları’na ulaşım oldukça kolaydır. Eskişehir şehir me
 Sarıcakaya Kaplıcaları giriş ücreti, sağlık hizmetleri ve konaklama durumuna göre değişiklik göstermektedir. Genel olarak, kaplıca giriş fiyatları makul seviyelerde olup, çeşitli paket programlar ile birleştirildiğinde daha ekonomik hale getirilebilir. Ayrıca, kaplıca tesislerinde sunulan tedavi paketleri, ziyaretçilerin sağlık ihtiyaçlarına yönelik olarak hazırlanmış olup, bütçeye uygun seçenekler sunar. Sarıcakaya Kaplıcaları, hem sağlık hem de tatil amacıyla tercih eden misafirler için uygun fiyatlı bir alternatif sunmaktadır.
 
 Sarıcakaya Kaplıcaları, şifalı suları, doğal güzellikleri ve rahatlatıcı atmosferi ile sağlık dolu bir tatil deneyimi sunuyor. Sağlık turizmi açısından özel bir yer olan bu kaplıcaları ziyaret ederek, hem bedeninizi hem de ruhunuzu yenileyebilirsiniz. Unutmayın, sağlığınıza yapacağınız bu yatırım, yaşam kalitenizi artıracak en güzel hediyelerden biri.
+
+## Konaklama Rehberi
+
+saricakaya-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: saricakaya-kaplicalari, İl: İl Merkezi -->

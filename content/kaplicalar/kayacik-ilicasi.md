@@ -45,3 +45,12 @@ Kayacık Ilıcası, özellikle aileler için çeşitli kür programları sunmakt
 Kayacık Ilıcası'na ulaşım oldukça kolaydır. Ulaşım için özel araç kullanabilir veya toplu taşıma alternatiflerini tercih edebilirsiniz. Bölge, iyi bir ulaşım ağına sahip olduğu için Kayacık Ilıcası'na nasıl gidileceği konusunda zorlanmayacaksınız. Kaplıca, ailelerin konaklaması için uygun fiyatlı otellerle çevrilidir. Kayacık Ilıcası giriş ücreti ise oldukça makuldür, bu da ailelerin bütçesine dost bir seçenek sunar. Keyifli bir aile tatili için Kayacık Ilıcası'nın sunduğu fırsatları değerlendirmeyi unutmayın!
 
 Kayacık Ilıcası, ailece geçireceğiniz keyifli ve sağlıklı bir tatil için mükemmel bir adres. Hem rahatlayın hem de sağlık bulun!
+
+## Konaklama Rehberi
+
+kayacik-ilicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kayacik-ilicasi, İl: İl Merkezi -->

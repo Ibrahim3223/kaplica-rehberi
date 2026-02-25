@@ -49,6 +49,16 @@ Pasinler Kaplıcaları, sağlık ve wellness olanakları ile misafirlerine kapsa
 
 Pasinler, hem doğal güzellikleri hem de tarihi zenginlikleri ile dolu bir bölgedir. Kaplıcaların bulunduğu alan, muhteşem dağ manzaraları ve yeşil doğası ile çevrilidir. Erzurum’un diğer turistik noktalarına da oldukça yakın olan Pasinler, ziyaretçilerine kolay ulaşım imkanı sunar. Tarihi kalıntılar, yerel pazarlarda taze ürünler ve yöresel lezzetler keşfetmek için bölgeyi gezmek önemlidir. Özellikle Erzurum’un ünlü cağ kebabı ve kadayıf dolması gibi lezzetlerini tatmadan dönmemeniz önerilir.
 
+
+## Konaklama Rehberi
+
+pasinler-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: pasinler-kaplicalari, İl: İl Merkezi -->
+
 ## Seyahat Planlama
 
 Pasinler Kaplıcaları’na ulaşmak oldukça kolaydır. Erzurum şehir merkezinden yalnızca 30-40 dakika uzaklıkta bulunan kaplıcalara, özel araçla ya da toplu taşıma ile ulaşım sağlanabilir. Pasinler Kaplıcaları giriş ücreti, uygun fiyatlarıyla herkesin bütçesine hitap etmektedir. Günlük veya haftalık paketler ile de ziyareti daha avantajlı hale getirmek mümkündür. Ayrıca, bölgede konaklama imkanı sunan çeşitli oteller, misafirlerin konforunu artırmak için gereken bütün olanakları sağlamaktadır. 

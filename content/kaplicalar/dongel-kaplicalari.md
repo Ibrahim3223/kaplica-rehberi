@@ -54,3 +54,12 @@ Döngel Kaplıcaları'na ulaşım oldukça kolaydır. Kahramanmaraş şehir merk
 Döngel Kaplıcaları’nda geçirilecek bir tatil, aile bütçenizi sarsmadan keyif alabileceğiniz bir deneyim sunuyor. Giriş ücretleri oldukça uygun ve konaklama seçenekleri de geniş bir fiyat aralığına hitap ediyor. Ayrıca, yerel restoranlarda yapacağınız yemek tercihleri de bütçenizi korumanıza yardımcı olacaktır. Kaliteli bir tatil deneyimi yaşarken, ailenizle birlikte sağlığınıza da yatırım yapabileceğiniz bu kaplıcalar, hem dinlendirici hem de ekonomik bir alternatif sunuyor.
 
 Döngel Kaplıcaları, ailecek huzurlu ve sağlıklı bir tatil için ideal bir adres. Şifalı suların tadını çıkarırken, muhteşem doğal güzelliklerin içinde keyifli anılar biriktirin. Sağlıklı bir tatil için siz de burayı tercih edin!
+
+## Konaklama Rehberi
+
+dongel-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: dongel-kaplicalari, İl: İl Merkezi -->

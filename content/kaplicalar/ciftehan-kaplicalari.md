@@ -49,3 +49,12 @@ gallery:
 Çiftehan Kaplıcaları'na ulaşım oldukça kolaydır. Niğde il merkezinden Ulukışla'ya giderek kaplıcalara rahatlıkla ulaşabilirsiniz. Aileler için uygun fiyat seçenekleriyle sunulan Çiftehan Kaplıcaları giriş ücreti, oldukça makul seviyelerde bulunmaktadır. Ayrıca, kaplıca çevresinde aile dostu oteller ve konaklama imkanları mevcuttur. Bu oteller, konforlu konaklamanın yanı sıra çocuklar için oyun alanları ve yüzme havuzları gibi ek imkanlar sunmaktadır.
 
 Çiftehan Kaplıcaları, aileler için hem eğlenceli hem de sağlıklı bir tatil deneyimi sunan, Niğde'nin gözde destinasyonlarından biridir. Ailelerin, bu doğal cennet içerisinde keyifli vakit geçirip sağlık bulmaları için davet ediyoruz. Kendinize ve sevdiklerinize bu eşsiz deneyimi yaşatmayı unutmayın!
+
+## Konaklama Rehberi
+
+ciftehan-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ciftehan-kaplicalari, İl: İl Merkezi -->

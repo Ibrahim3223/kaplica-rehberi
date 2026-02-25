@@ -45,3 +45,12 @@ Ekşisu Kaplıcaları'nın sunduğu avantajlar saymakla bitmez. Suyunun şifalı
 ## Sonuç ve Tavsiye
 
 Sonuç olarak, Ekşisu Kaplıcaları, hem romantik bir kaçamak hem de sağlık dolu bir tatil arayan çiftler için bulunmaz bir fırsat sunuyor. Doğanın sunduğu bu şifalı kaynakta, hem bedeninizi hem de ruhunuzu dinlendirebilir, birlikte geçireceğiniz anların tadını çıkarabilirsiniz. Unutulmaz anılar biriktirmek için hemen Ekşisu’ya yönelin ve bu muhteşem deneyimi yaşamadan geçmeyin!
+
+## Konaklama Rehberi
+
+eksisu-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: eksisu-kaplicalari, İl: İl Merkezi -->

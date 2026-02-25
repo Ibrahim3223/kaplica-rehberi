@@ -58,3 +58,19 @@ Kozaklı Kaplıcaları, hem sağlık hem de tatil amacıyla ideal bir seçenek o
 [Sinir hastalıkları](/hastaliklar/sinir-hastalıkları/) ve [kas hastalıkları](/hastaliklar/kas-hastalıkları/) için Kozaklı’nın sodyum klorürlü suları özellikle önerilir. Türkiye’nin diğer termal destinasyonlarını keşfetmek isteyenler için: [2026’da Türkiye’nin En İyi 10 Kaplıcası](/blog/turkiyenin-en-iyi-kaplicalari/)
 
 **Ayrıca:** Kışın Kapadokya + Kozaklı kombinasyonu için [Kışın Gidilecek En İyi 7 Termal Tesis](/blog/kisin-gidilecek-termal-tesisler/)
+
+## Konaklama Rehberi
+
+Kozaklı, Nevşehir iline bağlı ve Kapadokya'ya 60 km mesafesiyle peri bacaları + termal kaplıca kombinasyonu yapılabilen nadir bir destinasyondur.
+
+### Konaklama Tipleri
+
+**Termal Oteller:** Kozaklı'da termal havuzlu otel ve moteller mevcuttur; bölge küçük olduğundan seçenek sayısı sınırlıdır ve erken rezervasyon önemlidir.
+
+**Kapadokya Mağara Otelleri:** Ürgüp, Göreme veya Uçhisar'daki otellerde konaklanarak Kozaklı'ya günübirlik çıkmak mümkündür.
+
+### Rezervasyon İpuçları
+
+Kapadokya turizmiyle birleşik **5–7 gece** kombine tatil için idealdir. Nevşehir Havalimanı'ndan Kozaklı'ya yaklaşık 45 dakika sürer. [Nevşehir kaplıcaları rehberine bakın →](/iller/nevşehir/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kozakli-kaplicalari, İl: Nevşehir -->

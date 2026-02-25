@@ -54,3 +54,12 @@ Karamürsel Kaplıcaları'na ulaşmak oldukça kolaydır. İstanbul ve Kocaeli �
 Karamürsel Kaplıcaları'na yapılacak bir ziyaret için bütçe planınızı dikkatlice yapmalısınız. Karamürsel Kaplıcaları giriş ücreti oldukça makuldür ve çoğu ziyaretçi için uygun fiyatlı bir alternatiftir. Konaklama, yemek ve ulaşım gibi masraflarınızı göz önünde bulundurarak, günlük harcama planınızı oluşturabilirsiniz. Yerel lokantalarda yemek yemek, hem lezzetli hem de ekonomik bir seçenek sunar. Böylece, hem sağlığınıza kavuşabilir hem de bütçenizi koruyarak keyif dolu bir tatil yapabilirsiniz.
 
 Karamürsel Kaplıcaları, hem sağlık hem de huzur arayanlar için mükemmel bir destinasyon. Doğayla iç içe, uygun fiyatlı bir tatil için Karamürsel'i tercih edin, sağlıklı ve keyifli bir deneyim yaşayın!
+
+## Konaklama Rehberi
+
+karamursel-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: karamursel-kaplicalari, İl: İl Merkezi -->

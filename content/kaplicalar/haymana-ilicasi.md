@@ -49,6 +49,23 @@ Haymana Ilıcası'nın sağlık açısından sunduğu birçok fayda bulunmaktad�
 
 Haymana Ilıcası'na ulaşım oldukça kolaydır. Ankara'dan özel araçla yaklaşık 1,5 saatlik bir yolculukla bu kaplıcalara ulaşmanız mümkündür. Ayrıca, Haymana'nın merkezi konumda olması, otobüsle de erişimi kolaylaştırmaktadır. Kaplıca çevresinde konaklama seçenekleri de oldukça çeşitlidir. Haymana Ilıcası otelleri, ailelerin rahatça konaklayabileceği uygun fiyatlı ve konforlu alanlar sunmaktadır. Ailecek kalabileceğiniz otellerde, çocuklara özel aktivitelerin sunulması da tatilinizi daha eğlenceli hale getirecektir.
 
+
+## Konaklama Rehberi
+
+Haymana Ilıcası, Ankara'nın Haymana ilçesinde daha az bilinen ancak mineralce zengin bir termal kaynaktır. Ankara'ya yakınlığı hafta sonu ziyaretleri için avantaj sağlar.
+
+### Konaklama Tipleri
+
+**Lokal Tesisler:** Haymana'da kaplıca çevresinde konaklama imkânı sunan tesis ve pansiyonlar mevcuttur.
+
+**Haymana Merkez ve Ankara (70 km):** Haymana ilçe merkezinde pansiyonlar; daha geniş seçenek için Ankara'da konaklayıp günübirlik gidilebilir.
+
+### Rezervasyon İpuçları
+
+Termal tedavi için **3–5 gece** konaklama önerilmektedir. Haymana Kaplıcaları ile birlikte ziyaret edilerek bölgedeki termal kaynakları kombine edebilirsiniz.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: haymana-ilicasi, İl: Ankara -->
+
 ## Ziyaretçi İpuçları
 
 Haymana Ilıcası'nda geçireceğiniz tatil boyunca, aile olarak keyifli zaman geçirebilmeniz için bazı ipuçları vermek istiyoruz. Öncelikle, kaplıca sularının sağlık yararlarından tam anlamıyla faydalanabilmek için düzenli olarak suya girmeyi unutmayın. Bunun yanı sıra, çevredeki doğal güzellikleri de keşfetmek için yürüyüş yapabilir, piknik alanlarında ailecek vakit geçirebilirsiniz. Çocuklar için güvenli oyun alanları ve aktivitelerin olduğu oteller tercih etmek, tatilinizi daha keyifli hale getirecektir. Ayrıca, Haymana Ilıcası giriş ücreti konusunda önceden bilgi sahibi olmak, bütçenizi planlamanızı kolaylaştırır.

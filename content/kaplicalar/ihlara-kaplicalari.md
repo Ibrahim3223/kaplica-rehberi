@@ -48,6 +48,16 @@ Ihlara Kaplıcaları'nın sunduğu sağlık faydaları, sadece fiziksel değil, 
 
 Ihlara Kaplıcaları'na ulaşmak oldukça kolaydır. Aksaray şehir merkezinden birkaç kilometre uzaklıkta bulunan kaplıcalara, özel araçla ya da toplu taşıma ile rahatlıkla ulaşılabilir. Güzelyurt'un doğal güzellikleri içinde yer alan kaplıcalar, çiftler için romantik bir atmosfer sunarken, burada konaklama imkânları da oldukça çeşitlidir. Ihlara Kaplıcaları otelleri, konforlu bir konaklama deneyimi sunmakta ve güne keyifli bir başlangıç yapmanıza yardımcı olmaktadır.
 
+
+## Konaklama Rehberi
+
+ihlara-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ihlara-kaplicalari, İl: İl Merkezi -->
+
 ## Ziyaretçi İpuçları
 
 Ihlara Kaplıcaları'nı ziyaret etmeyi planlayan çiftler için, en güzel anların sabah saatlerinde yakalanabileceği önerilir. Termal suyun tadını çıkarırken, çevredeki doğal güzelliklerin tadını çıkarmak da romantik bir deneyim sunar. Ayrıca, kaplıcaların sunduğu masaj ve spa hizmetlerinden yararlanarak, birlikte unutulmaz bir sıcacık deneyim yaşayabilirsiniz. Ihlara Kaplıcaları giriş ücreti hakkında bilgi edinerek, planlarınızı daha da detaylandırabilirsiniz.

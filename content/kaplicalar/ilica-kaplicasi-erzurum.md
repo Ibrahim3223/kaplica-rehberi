@@ -54,3 +54,19 @@ Ilıca Kaplıcaları'na ulaşım oldukça kolaydır. Erzurum şehir merkezine 20
 Ilıca Kaplıcaları giriş ücreti, aileler için oldukça uygun fiyatlarla sunulmaktadır. Kaplıcaların sunduğu sağlık hizmetleri ve yüzme havuzları, ailenizin bütçesini zorlamadan tatil yapmanıza olanak tanır. Ayrıca, konaklama alanlarında yapılan özel kampanyalar ve paket programlar, tatilinizi daha ekonomik hale getirebilir. Yöresel restoranlarda yerel lezzetleri uygun fiyatlarla deneyimleyerek, hem damak tadınızı hem de bütçenizi koruyabilirsiniz.
 
 Ilıca Kaplıcaları, hem sağlık hem de eğlence açısından sunduğu olanaklarla aileler için mükemmel bir tatil seçeneği sunuyor. Doğanın ve tarihin iç içe geçtiği bu bölge, çocuklarla birlikte güvenli ve keyifli bir tatil geçirmek isteyenler için ideal. Erzurum'un bu eşsiz kaplıcalarını keşfetmek için hemen plan yapmaya başlayın!
+
+## Konaklama Rehberi
+
+Erzurum Pasinler İlıcası, Türkiye'nin doğusundaki en köklü termal destinasyonlarından biridir. Erzurum şehir merkezine yakınlığı konaklama seçeneklerini genişletmektedir.
+
+### Konaklama Tipleri
+
+**Tesis Konaklama:** Pasinler İlıcası çevresinde pansiyonlar ve küçük oteller hizmet verir.
+
+**Erzurum Merkez (35 km):** Erzurum'da tüm kategorilerde otel bulunur; kaplıcaya günübirlik gidilebilir.
+
+### Rezervasyon İpuçları
+
+Erzurum Havalimanı'ndan şehir merkezine 5 km, Pasinler İlıcası'na 35 km'dir. Kış mevsiminde Palandöken kayak merkezi ile kaplıca kombinasyonu yapılabilir. Romatizma için **5–7 gece** konaklama önerilir. [Erzurum kaplıcaları rehberine bakın →](/iller/erzurum/)
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ilica-kaplicasi-erzurum, İl: Erzurum -->

@@ -37,6 +37,16 @@ Figani Kaplıcası'nın su sıcaklığı ve mineral içeriği hakkında spesifik
 
 Figani Kaplıcası'nın çevresi, sadece kaplıca deneyimiyle sınırlı kalmıyor. Doğa yürüyüşleri yapmak, çevredeki dağları keşfetmek veya piknik alanlarında dinlenmek için ideal bir ortam sunuyor. Ayrıca, bölgedeki yerel lezzetleri tatmak için küçük restoran ve kafelere uğrayabilir, yöresel ürünler alarak sevdiklerinize hediye edebilirsiniz. Figani Kaplıcası'na yakın olan tarihi yerler ise, kültürel bir yolculuk yapma fırsatı sunarak tatilinizi zenginleştiriyor.
 
+
+## Konaklama Rehberi
+
+figani-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: figani-kaplicasi, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Figani Kaplıcası, hem dinlenmek hem de sağlık arayışında olan bireyler için ideal bir destinasyon. Stresli bir iş hayatı olanlar, şehir gürültüsünden kaçış arayanlar veya sadece kendine zaman ayırmak isteyenler için mükemmel bir seçenek. Aileler, arkadaş grupları ve çiftler için de uygun olanaklar sunan kaplıca, herkesin ihtiyacına yanıt verebiliyor. Figani Kaplıcası’nda, yaşa veya cinsiyete bakılmaksızın herkesin rahatlayabileceği bir atmosfer mevcut.

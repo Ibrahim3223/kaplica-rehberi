@@ -39,6 +39,16 @@ Kızılırmak Kaplıcaları, içerdiği bikarbonat, kalsiyum ve magnezyum minera
 
 Kızılırmak Kaplıcaları çevresi, yalnızca kaplıca keyfi ile sınırlı kalmıyor. Çankırı'nın tarihi ve doğal güzelliklerini keşfetmek için birçok fırsat sunuyor. Kaplıcalara yakın konumda bulunan Ilgaz Dağı, doğa yürüyüşleri ve kış sporları için ideal bir alan sunarken, Çankırı Kalesi gibi tarihi mekanlar da ziyaretçilerin ilgisini çekiyor. Ayrıca, çevrede bulunan yerel restoranlarda, bölgenin özgün lezzetlerini tatma fırsatına sahip olabilirsiniz. Bu şekilde hem kaplıca keyfi yapabilir hem de yerel kültürü keşfedebilirsiniz.
 
+
+## Konaklama Rehberi
+
+kizilirmak-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kizilirmak-kaplicalari, İl: İl Merkezi -->
+
 ## Kimler İçin Uygun
 
 Kızılırmak Kaplıcaları, özellikle romatizma ve eklem hastalıkları yaşayan bireyler için büyük faydalar sağlıyor. Bununla birlikte, stresi azaltmak ve bedenin yenilenmesini sağlamak isteyen herkes için de uygun bir mekan. Kaplıcaların sıcak suları, yaş grubu gözetmeksizin herkesin yararlanabileceği bir tedavi yöntemi sunuyor. Ancak, hamileler ve bazı kronik rahatsızlıkları bulunan kişilerin, kaplıca kullanımından önce doktorlarına danışmaları öneriliyor. Bu sayede, kaplıca deneyiminiz güvenli ve etkili bir şekilde gerçekleşir.

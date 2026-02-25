@@ -52,3 +52,12 @@ Babas, ulaşım açısından oldukça kolay bir noktada yer alıyor. Özel araba
 Babas kaplıcaları, uygun fiyat seçenekleri ile aile bütçenizi sarsmayacak bir tatil sunuyor. Babas giriş ücreti, diğer kaplıcalara göre oldukça makul bir seviyede. Ayrıca, konaklama, yeme içme ve ulaşım maliyetleri açısından da bütçenizi düşünecek seçenekler mevcut. Aileler için hazırlanan özel kampanyalar ve indirimler, tatilinizi daha da ekonomik hale getirebilir. 
 
 Babas kaplıcaları, hem dinlendirici hem de eğlenceli bir aile tatili için mükemmel bir destinasyon. Doğanın eşsiz güzellikleri eşliğinde sağlığınıza sağlık katmak için Babas'ı ziyaret etmeyi unutmayın! Sağlıklı ve keyifli bir tatil dileğiyle!
+
+## Konaklama Rehberi
+
+babas Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: babas, İl: İl Merkezi -->

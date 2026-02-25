@@ -45,3 +45,12 @@ Saraycık Ilıcası'nda uygulanan kür programları, hem fiziksel hem de ruhsal 
 Saraycık Ilıcası'na ulaşım oldukça kolaydır. İzmir şehir merkezinden ve çevre illerden, özel araçla veya toplu taşıma ile ulaşım sağlamak mümkündür. Saraycık Ilıcası giriş ücreti, sezon ve hizmetlere göre değişiklik göstermekte olup, ziyaretçilerin bütçelerine uygun alternatifler sunulmaktadır. Kaplıca çevresinde konaklama imkanı sağlayan Saraycık Ilıcası otelleri, misafirlere konforlu bir dinlenme ortamı sunmaktadır. Bu oteller, kaplıca hizmetleri ile entegre şekilde çalışarak, ziyaretçilerin sağlık turizmi deneyimlerini zenginleştirmektedir.
 
 Saraycık Ilıcası, sağlık turizmi bakımından önemli bir alternatif sunarak, doğa ile iç içe bir deneyim yaşamak isteyenler için ideal bir destinasyon olmaktadır. Şifalı sularının ve doğal güzelliklerinin tadını çıkarmak için Saraycık Ilıcası’nı keşfetmeyi unutmayın!
+
+## Konaklama Rehberi
+
+saraycik-ilicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
+
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+
+[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: saraycik-ilicasi, İl: İl Merkezi -->

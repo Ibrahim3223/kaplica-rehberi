@@ -44,6 +44,23 @@ Dikili Termal Kaplıcaları'nın çevresinde, misafirlerin kaplıca deneyimlemes
 
 Dikili'nin yerel mutfağı da keşfedilmeye değer. Yerel restoranlarda, zeytinyağlı yemekler ve taze deniz ürünleri gibi lezzetleri tatma fırsatı bulabilirsiniz. Kaplıca sonrası dinlenmek ve güzel bir yemek yemek, tüm günün yorgunluğunu atmak için harika bir yöntemdir.
 
+
+## Konaklama Rehberi
+
+Dikili, İzmir'in kuzeyinde Ege kıyısında konumlanmış bir ilçedir. Termal kaynakları ve denize yakınlığıyla yaz döneminde deniz + termal kombinasyonu sunar.
+
+### Konaklama Tipleri
+
+**Dikili Otelleri:** Dikili'de sahil boyunca otel ve tatil köyleri sıralanmaktadır; kaplıca tesislerine araçla kolayca ulaşılabilir.
+
+**Bergama Yakınlığı:** Tarihi Bergama (Pergamon) Dikili'ye 30 km mesafededir; kültür + termal + deniz üçlüsü için ideal güzergâh oluşturur.
+
+### Rezervasyon İpuçları
+
+İzmir Havalimanı'ndan Dikili'ye yaklaşık 90 dakika. Yaz aylarında Ege sahil sezonu + termal tedavi için **5–7 gece** konaklama planlanabilir.
+
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: dikili-termal-kaplicalari, İl: İzmir -->
+
 ## Kimler İçin Uygun
 
 Dikili Termal Kaplıcaları, farklı yaş gruplarındaki bireyler için uygundur. Özellikle romatizma, cilt hastalıkları ve sinir hastalıkları gibi kronik rahatsızlıklara sahip olanlar için önerilmektedir. Bunun yanı sıra, stres ve yorgunluktan arınmak isteyen herkes, kaplıca deneyiminden fayda sağlayabilir. Hamileler, çocuklar ve yaşlılar gibi özel grupların kaplıca kullanımında doktor tavsiyelerine dikkat etmesi önerilir.
