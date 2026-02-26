@@ -21,7 +21,7 @@
     {{ end }}
     <h1 class="blog-single-hero__title">{{ .Title }}</h1>
     <div class="blog-single-hero__meta">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "date-tr.html" .Date }}</time>
       {{ with .Params.reading_time }}
       <span aria-hidden="true">·</span>
       <span>{{ . }} dakika okuma</span>
