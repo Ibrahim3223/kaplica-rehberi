@@ -23,8 +23,6 @@ _structure: "C"
 _angle: "budget"
 gallery:
   - "/images/kaplicalar/banaz-hamambogazi-kaplicalari-1.jpg"
-  - "/images/kaplicalar/banaz-hamambogazi-kaplicalari-2.jpg"
-  - "/images/kaplicalar/banaz-hamambogazi-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

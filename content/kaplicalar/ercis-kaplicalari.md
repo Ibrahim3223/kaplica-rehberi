@@ -23,8 +23,6 @@ _structure: "C"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/ercis-kaplicalari-1.jpg"
-  - "/images/kaplicalar/ercis-kaplicalari-2.jpg"
-  - "/images/kaplicalar/ercis-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

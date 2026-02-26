@@ -23,8 +23,6 @@ _structure: "A"
 _angle: "luxury"
 gallery:
   - "/images/kaplicalar/cesme-sifne-kaplicalari-1.jpg"
-  - "/images/kaplicalar/cesme-sifne-kaplicalari-2.jpg"
-  - "/images/kaplicalar/cesme-sifne-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

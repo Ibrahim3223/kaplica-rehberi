@@ -23,8 +23,6 @@ _structure: "C"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/erzin-kaplicalari-1.jpg"
-  - "/images/kaplicalar/erzin-kaplicalari-2.jpg"
-  - "/images/kaplicalar/erzin-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

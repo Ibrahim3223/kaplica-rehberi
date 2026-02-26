@@ -23,8 +23,6 @@ _structure: "A"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/balcova-kaplicalari-1.jpg"
-  - "/images/kaplicalar/balcova-kaplicalari-2.jpg"
-  - "/images/kaplicalar/balcova-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

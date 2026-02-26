@@ -23,8 +23,6 @@ _structure: "B"
 _angle: "budget"
 gallery:
   - "/images/kaplicalar/kursunlu-kaplicalari-1.jpg"
-  - "/images/kaplicalar/kursunlu-kaplicalari-2.jpg"
-  - "/images/kaplicalar/kursunlu-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

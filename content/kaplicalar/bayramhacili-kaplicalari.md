@@ -23,8 +23,6 @@ _structure: "C"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/bayramhacili-kaplicalari-1.jpg"
-  - "/images/kaplicalar/bayramhacili-kaplicalari-2.jpg"
-  - "/images/kaplicalar/bayramhacili-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

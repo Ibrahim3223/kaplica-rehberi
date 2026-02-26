@@ -23,8 +23,6 @@ _structure: "B"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/buharkent-kaplicalari-1.jpg"
-  - "/images/kaplicalar/buharkent-kaplicalari-2.jpg"
-  - "/images/kaplicalar/buharkent-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**

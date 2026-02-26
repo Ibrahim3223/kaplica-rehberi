@@ -23,8 +23,6 @@ _structure: "C"
 _angle: "health"
 gallery:
   - "/images/kaplicalar/darende-kaplicalari-1.jpg"
-  - "/images/kaplicalar/darende-kaplicalari-2.jpg"
-  - "/images/kaplicalar/darende-kaplicalari-3.jpg"
 ---
 
 > **Bir Bakışta**
