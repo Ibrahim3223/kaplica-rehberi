@@ -69,7 +69,7 @@ Sarıcakaya Kaplıcaları, şifalı suları, doğal güzellikleri ve rahatlatıc
 
 saricakaya-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Eskişehir il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: saricakaya-kaplicalari, İl: İl Merkezi -->
+[Eskişehir kaplıcaları rehberine bakın →](/iller/eskişehir/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: saricakaya-kaplicalari, İl: Eskişehir -->

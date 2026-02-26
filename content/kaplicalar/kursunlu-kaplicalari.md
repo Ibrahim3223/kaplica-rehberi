@@ -1,6 +1,6 @@
 ---
 title: "Kurşunlu Kaplıcaları"
-description: "Kurşunlu Kaplıcaları (38°C) — Manisa ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Kurşunlu Kaplıcaları (40°C) — Manisa ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-26
 lastmod: 2026-02-26
 draft: false
@@ -9,7 +9,7 @@ province: "Manisa"
 district: "Ahmetli"
 latitude: 38.545
 longitude: 27.956
-temperature: 38
+temperature: 40
 minerals: ["bikarbonat", "kalsiyum", "magnezyum"]
 conditions: ["romatizma", "eklem hastalıkları", "cilt hastalıkları"]
 image: "/images/kaplicalar/kursunlu-kaplicalari-1.jpg"
@@ -28,7 +28,7 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Manisa, Ahmetli — Manisa merkeze 55 km
-> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 🌡️ **Su Sıcaklığı:** 40°C
 > - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum
 > - ⭐ **Öne Çıkan Özellik:** Manisa ovasında sakin, kalabalıksız termal kaynak; bütçe dostu konaklama seçenekleri
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
@@ -42,7 +42,7 @@ Kurşunlu Kaplıcaları, [Manisa kaplıcaları](/iller/manisa/)'nın Ahmetli il�
 Kurşunlu Kaplıcaları'nın tarihi, antik dönemlere kadar uzandığı düşünülmektedir. Özellikle Roma döneminde sağlık ve tedavi amacıyla kullanıldığına dair bulgular mevcuttur. Bu kaplıcalar, Gediz Ovası'nın bereketli toprakları üzerinde yer almakta ve bölgenin doğal kaynakları açısından önemli bir yere sahiptir. Günümüzde ise, hem yerel halkın hem de dışarıdan gelen turistlerin sağlıklı bir yaşam sürmelerine katkıda bulunmak amacıyla kullanılmaktadır.
 
 ## Suyun Özellikleri
-Kurşunlu Kaplıcaları'nın su sıcaklığı 38°C'dir. Bu sıcaklık, [romatizma](/hastaliklar/romatizma/) ve eklem hastalıkları gibi rahatsızlıkların yönetimi açısından faydalı olabilmektedir. Suyun mineral içeriği ise oldukça zengindir; bikarbonat, kalsiyum ve magnezyum gibi mineraller barındırmaktadır. Su, genellikle renksizdir ve hafif bir kükürt kokusu hissedilebilir. Bu özellikler, kaplıcanın şifalı etkilerini artıran unsurlar arasında yer alır.
+Kurşunlu Kaplıcaları'nın su sıcaklığı 40°C'dir. Bu sıcaklık, [romatizma](/hastaliklar/romatizma/) ve eklem hastalıkları gibi rahatsızlıkların yönetimi açısından faydalı olabilmektedir. Suyun mineral içeriği ise oldukça zengindir; bikarbonat, kalsiyum ve magnezyum gibi mineraller barındırmaktadır. Su, genellikle renksizdir ve hafif bir kükürt kokusu hissedilebilir. Bu özellikler, kaplıcanın şifalı etkilerini artıran unsurlar arasında yer alır.
 
 ## Şifalı Etkileri
 Kurşunlu Kaplıcaları'nın sunduğu su, romatizma, eklem hastalıkları ve cilt hastalıkları gibi rahatsızlıklar için faydalı olabilmektedir. Bikarbonat, kalsiyum ve magnezyum gibi mineraller, vücudun çeşitli fonksiyonlarını destekleyerek iyileşme sürecine katkıda bulunabilir. Ancak, kaplıca tedavisine başlamadan önce doktorunuza danışmanızı öneririz.

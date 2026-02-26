@@ -1,6 +1,6 @@
 ---
 title: "Diyadin Kaplıcaları"
-description: "Diyadin Kaplıcaları (78°C) — Ağrı ilindeki romatizma, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Diyadin Kaplıcaları (90°C) — Ağrı ilindeki romatizma, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-18
 lastmod: 2026-02-18
 draft: false
@@ -9,7 +9,7 @@ province: "Ağrı"
 district: "Diyadin"
 latitude: 39.5478
 longitude: 43.6712
-temperature: 78
+temperature: 90
 minerals: ["sülfat", "kalsiyum", "magnezyum", "bikarbonat"]
 conditions: ["romatizma", "cilt hastalıkları", "eklem hastalıkları"]
 image: "/images/kaplicalar/diyadin-kaplicalari-1.jpg"
@@ -31,7 +31,7 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Ağrı, Diyadin
-> - 🌡️ **Su Sıcaklığı:** 78°C
+> - 🌡️ **Su Sıcaklığı:** 90°C
 > - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Magnezyum, Bikarbonat
 > - ⭐ **Öne Çıkan Özellik:** 90°C'ye yaklaşan sıcaklığıyla Türkiye'nin en yüksek ısılı termal kaynaklarından
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
@@ -40,11 +40,11 @@ gallery:
 
 ## Kapsamlı Tanıtım
 
-Diyadin Kaplıcaları, Ağrı ilinin Diyadin ilçesinde yer alan doğal ve şifalı sıcak su kaynaklarıdır. 78°C sıcaklığındaki termal suyu, zengin mineral içeriği ile sağlık arayanlar için önemli bir durak noktası haline gelmiştir. Sülfat, kalsiyum, magnezyum ve bikarbonat gibi minerallerin bulunduğu bu kaynaklar, bölgenin doğal güzellikleriyle birleşerek hem fiziksel hem de ruhsal bir iyileşme sunmaktadır. Diyadin Kaplıcaları, konumu ve sunduğu olanaklar ile hem yerel halkın hem de sağlık turizmi amacıyla buraya gelen ziyaretçilerin ilgisini çekmektedir.
+Diyadin Kaplıcaları, Ağrı ilinin Diyadin ilçesinde yer alan doğal ve şifalı sıcak su kaynaklarıdır. 90°C sıcaklığındaki termal suyu, zengin mineral içeriği ile sağlık arayanlar için önemli bir durak noktası haline gelmiştir. Sülfat, kalsiyum, magnezyum ve bikarbonat gibi minerallerin bulunduğu bu kaynaklar, bölgenin doğal güzellikleriyle birleşerek hem fiziksel hem de ruhsal bir iyileşme sunmaktadır. Diyadin Kaplıcaları, konumu ve sunduğu olanaklar ile hem yerel halkın hem de sağlık turizmi amacıyla buraya gelen ziyaretçilerin ilgisini çekmektedir.
 
 ## Su Kimyası ve Sıcaklık Analizi
 
-Diyadin Kaplıcaları'nın suyu, içerdiği mineral çeşitliliği ve sıcaklığı ile dikkat çekmektedir. 78°C sıcaklığa sahip bu termal su, sülfat, kalsiyum ve magnezyum gibi minerallerce zengin olup, cilt ve eklem sağlığı üzerinde olumlu etkiler yaratmaktadır. Bu yüksek sıcaklık, vücutta kan dolaşımını artırarak toksinlerin atılmasına yardımcı olurken, mineral bileşenleri ise hücrelerin onarımı ve bağışıklık sisteminin güçlenmesi için faydalı olmaktadır. Özellikle romatizma, cilt hastalıkları ve eklem rahatsızlıkları gibi sorunlar için önerilmektedir.
+Diyadin Kaplıcaları'nın suyu, içerdiği mineral çeşitliliği ve sıcaklığı ile dikkat çekmektedir. 90°C sıcaklığa sahip bu termal su, sülfat, kalsiyum ve magnezyum gibi minerallerce zengin olup, cilt ve eklem sağlığı üzerinde olumlu etkiler yaratmaktadır. Bu yüksek sıcaklık, vücutta kan dolaşımını artırarak toksinlerin atılmasına yardımcı olurken, mineral bileşenleri ise hücrelerin onarımı ve bağışıklık sisteminin güçlenmesi için faydalı olmaktadır. Özellikle romatizma, cilt hastalıkları ve eklem rahatsızlıkları gibi sorunlar için önerilmektedir.
 
 ## Tarihsel Önemi
 
@@ -63,10 +63,10 @@ Diyadin ilçesi, doğal güzellikleri ve tarihsel zenginlikleri ile keşfedilmey
 
 diyadin-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Ağrı il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: diyadin-kaplicalari, İl: İl Merkezi -->
+[Ağrı kaplıcaları rehberine bakın →](/iller/ağrı/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: diyadin-kaplicalari, İl: Ağrı -->
 
 ## Seyahat Planlama
 

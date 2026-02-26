@@ -9,7 +9,7 @@ province: "Amasya"
 district: ""
 latitude: 40.472777777
 longitude: 35.705
-temperature:
+temperature: 58
 minerals: []
 conditions: []
 image: "/images/kaplicalar/terzikoy-kaplicasi-1.png"
@@ -56,10 +56,10 @@ Kaplıca tatilinizin sadece su ile sınırlı kalmasını istemiyorsanız, Terzi
 
 terzikoy-kaplicasi Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Amasya il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: terzikoy-kaplicasi, İl: İl Merkezi -->
+[Amasya kaplıcaları rehberine bakın →](/iller/amasya/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: terzikoy-kaplicasi, İl: Amasya -->
 
 ## Kimler İçin Uygun
 

@@ -1,6 +1,6 @@
 ---
 title: "Buharkent Kaplıcaları"
-description: "Buharkent Kaplıcaları (68°C) — Aydın ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Buharkent Kaplıcaları (88°C) — Aydın ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-26
 lastmod: 2026-02-26
 draft: false
@@ -9,7 +9,7 @@ province: "Aydın"
 district: "Buharkent"
 latitude: 37.9712
 longitude: 28.7645
-temperature: 68
+temperature: 88
 minerals: ["sodyum", "bikarbonat", "klorür", "sülfat"]
 conditions: ["romatizma", "eklem hastalıkları", "cilt hastalıkları"]
 image: "/images/kaplicalar/buharkent-kaplicalari-1.jpg"
@@ -28,21 +28,21 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Aydın, Buharkent — Aydın merkeze 55 km
-> - 🌡️ **Su Sıcaklığı:** 68°C
+> - 🌡️ **Su Sıcaklığı:** 88°C
 > - 💧 **Mineral İçeriği:** Sodyum, Bikarbonat, Klorür, Sülfat
-> - ⭐ **Öne Çıkan Özellik:** 68°C yüksek sıcaklıklı sodyum bikarbonatlı suları; Büyük Menderes Havzası'nın önemli termal noktası
+> - ⭐ **Öne Çıkan Özellik:** 88°C yüksek sıcaklıklı sodyum bikarbonatlı suları; Büyük Menderes Havzası'nın önemli termal noktası
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
 > - 🕐 **Önerilen Kalış:** 3-5 gece
 > - 💰 **Bütçe Seviyesi:** Ekonomik
 
 ## Giriş
-Buharkent Kaplıcaları, [Aydın kaplıcaları](/iller/aydın/)'ın Buharkent ilçesinde, Büyük Menderes Nehri vadisinde yer alan doğal bir şifa kaynağıdır. 68°C sıcaklığa sahip olan bu kaplıcalar, hem yerli hem de yabancı turistler için cazip bir destinasyon haline gelmiştir.
+Buharkent Kaplıcaları, [Aydın kaplıcaları](/iller/aydın/)'ın Buharkent ilçesinde, Büyük Menderes Nehri vadisinde yer alan doğal bir şifa kaynağıdır. 88°C sıcaklığa sahip olan bu kaplıcalar, hem yerli hem de yabancı turistler için cazip bir destinasyon haline gelmiştir.
 
 ## Tarihçe ve Genel Bilgi
 Buharkent, tarih boyunca birçok medeniyete ev sahipliği yapmış bir bölgedir. Antik çağlardan beri bilinen kaplıcalar, özellikle Romalılar döneminde sağlık amaçlı kullanılmıştır. Günümüzde ise bölge, yüksek sıcaklıklı jeotermal aktivite ile dikkat çekmektedir. Buharkent, hem kaplıca turizmi hem de jeotermal enerji üretimi açısından önemli bir merkez konumundadır. Bu özelliği ile Türkiye'nin termal turizm haritasında kendine sağlam bir yer edinmiştir.
 
 ## Suyun Özellikleri
-Buharkent Kaplıcaları'ndaki su, 68°C sıcaklığı ile dikkat çekmektedir. Su, yüksek sıcaklığının yanı sıra sodyum, bikarbonat, klorür ve sülfat mineralleri bakımından zengindir. Bu mineraller, suyun şifalı etkilerinin temelini oluşturur. Suyun rengi genellikle berrak olup, özellikle yüksek sıcaklıkta sıcak bir kaynak görünümündedir. Koku açısından ise rahatsız edici bir durum söz konusu değildir; bu nedenle, kaplıca keyfi sırasında suyun tadını çıkarmak oldukça mümkündür.
+Buharkent Kaplıcaları'ndaki su, 88°C sıcaklığı ile dikkat çekmektedir. Su, yüksek sıcaklığının yanı sıra sodyum, bikarbonat, klorür ve sülfat mineralleri bakımından zengindir. Bu mineraller, suyun şifalı etkilerinin temelini oluşturur. Suyun rengi genellikle berrak olup, özellikle yüksek sıcaklıkta sıcak bir kaynak görünümündedir. Koku açısından ise rahatsız edici bir durum söz konusu değildir; bu nedenle, kaplıca keyfi sırasında suyun tadını çıkarmak oldukça mümkündür.
 
 ## Şifalı Etkileri
 Buharkent Kaplıcaları'nın suyu, özellikle [romatizma](/hastaliklar/romatizma/), eklem hastalıkları ve cilt hastalıkları gibi rahatsızlıklara iyi geldiği bilinmektedir. Sodyum minerali, vücutta sıvı dengesini sağlamaya yardımcı olurken, bikarbonat ve klorür mineralleri de cilt sağlığı üzerinde olumlu etkiler yaratabilir. Bununla birlikte, kaplıca tedavisine başlamadan önce doktorunuza danışmanızı öneririz.

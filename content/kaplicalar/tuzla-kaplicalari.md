@@ -67,17 +67,6 @@ Tuzla Kaplıcaları'na yakın birkaç doğal ve turistik yer de bulunmaktadır. 
 ## Ziyaret İpuçları
 Tuzla Kaplıcaları'nı ziyaret etmek için en uygun zaman, bahar ve yaz aylarıdır. Bu dönemlerde hava sıcaklıkları keyifli bir deneyim sunar. Günübirlik ziyaretlerde, en az yarım gün boyunca kaplıca tesisinde kalmanızı öneririz. Yanınıza havlu, mayo ve kişisel bakım ürünlerinizi almayı unutmayın. Ayrıca, kaplıca suyunun sıcaklığına alışmak için yavaş yavaş suya girmeniz önerilir.
 
-## Sıkça Sorulan Sorular
-
-**1. Tuzla Kaplıcaları'nın suyu gerçekten şifalı mı?**  
-Tuzla Kaplıcaları'nın suyu, romatizma ve cilt hastalıklarına iyi geldiği bilinen mineraller içermektedir. Ancak herhangi bir tedavi yöntemi uygulamadan önce doktorunuza danışmanız önemlidir.
-
-**2. Tuzla Kaplıcaları'na ulaşım nasıl sağlanır?**  
-İstanbul'un merkezine yaklaşık 40 km uzaklıkta bulunan kaplıcalara, özel araçla veya toplu taşıma ile ulaşmak mümkündür. Otobüs ve minibüs seferleri ile de rahatlıkla gitmek mümkündür.
-
-**3. Kaplıca ziyaretim için en iyi zaman nedir?**  
-Bahar ve yaz ayları, Tuzla Kaplıcaları'nı ziyaret etmek için en uygun mevsimlerdir. Bu dönemde hava sıcaklığı daha keyifli olur ve kaplıca deneyiminiz daha keyifli geçer.
-
 ---
 
 ## İstanbul'daki Diğer Kaplıcalar

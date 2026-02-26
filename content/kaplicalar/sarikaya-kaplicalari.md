@@ -1,6 +1,6 @@
 ---
 title: "Sarıkaya Kaplıcaları"
-description: "Sarıkaya Kaplıcaları (44°C) — Yozgat ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Sarıkaya Kaplıcaları (62°C) — Yozgat ilindeki romatizma, eklem hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-18
 lastmod: 2026-02-18
 draft: false
@@ -9,7 +9,7 @@ province: "Yozgat"
 district: "Sarıkaya"
 latitude: 39.4812
 longitude: 35.3712
-temperature: 44
+temperature: 62
 minerals: ["bikarbonat", "kalsiyum", "magnezyum", "sülfat"]
 conditions: ["romatizma", "eklem hastalıkları", "cilt hastalıkları"]
 image: "/images/kaplicalar/sarikaya-kaplicalari-1.jpg"
@@ -32,16 +32,16 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Yozgat, Sarıkaya
-> - 🌡️ **Su Sıcaklığı:** 44°C
+> - 🌡️ **Su Sıcaklığı:** 62°C
 > - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum, Sülfat
-> - ⭐ **Öne Çıkan Özellik:** 44°C sularıyla Yozgat ilinin öne çıkan termal kaynağı
+> - ⭐ **Öne Çıkan Özellik:** 62°C sularıyla Yozgat ilinin öne çıkan termal kaynağı
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
 > - 🕐 **Önerilen Kalış:** 3-7 gece
 > - 💰 **Bütçe Seviyesi:** Ekonomik
 
 ## İlk İzlenim ve Atmosfer
 
-Yozgat'ın Sarıkaya ilçesinde yer alan Sarıkaya Kaplıcaları, huzur ve şifa arayanlar için mükemmel bir sığınak sunuyor. Kaplıcaların bulunduğu bölge, doğal yeşilliklerle ve huzur veren manzaralarla çevrili. Varış anında sizi karşılayan sıcak termal suyun buharı, bedensel ve zihinsel rahatlama arayışınıza hemen katkıda bulunuyor. 44°C sıcaklığındaki mineral açısından zengin sular, yalnızca sağlık değil, aynı zamanda estetik bir deneyim sunuyor. Kaplıcaların içindeki havuzların sürekli akan sularıyla oluşturduğu dinlendirici sesler, stresinizi anında hafifletiyor. 
+Yozgat'ın Sarıkaya ilçesinde yer alan Sarıkaya Kaplıcaları, huzur ve şifa arayanlar için mükemmel bir sığınak sunuyor. Kaplıcaların bulunduğu bölge, doğal yeşilliklerle ve huzur veren manzaralarla çevrili. Varış anında sizi karşılayan sıcak termal suyun buharı, bedensel ve zihinsel rahatlama arayışınıza hemen katkıda bulunuyor. 62°C sıcaklığındaki mineral açısından zengin sular, yalnızca sağlık değil, aynı zamanda estetik bir deneyim sunuyor. Kaplıcaların içindeki havuzların sürekli akan sularıyla oluşturduğu dinlendirici sesler, stresinizi anında hafifletiyor. 
 
 ## Termal Deneyimi
 
@@ -56,10 +56,10 @@ Sarıkaya Kaplıcaları’nın bulunduğu bölge, sadece kaplıca deneyimiyle s�
 
 sarikaya-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Yozgat il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: sarikaya-kaplicalari, İl: İl Merkezi -->
+[Yozgat kaplıcaları rehberine bakın →](/iller/yozgat/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: sarikaya-kaplicalari, İl: Yozgat -->
 
 ## Kimler İçin Uygun
 

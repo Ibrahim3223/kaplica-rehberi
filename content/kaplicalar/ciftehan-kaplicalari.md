@@ -1,6 +1,6 @@
 ---
 title: "Çiftehan Kaplıcaları"
-description: "Çiftehan Kaplıcaları (45°C) — Niğde ilindeki eklem hastalıkları, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Çiftehan Kaplıcaları (38°C) — Niğde ilindeki eklem hastalıkları, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-18
 lastmod: 2026-02-18
 draft: false
@@ -9,7 +9,7 @@ province: "Niğde"
 district: "Ulukışla"
 latitude: 37.4312
 longitude: 34.4823
-temperature: 45
+temperature: 38
 minerals: ["magnezyum", "kalsiyum", "bikarbonat", "sülfat"]
 conditions: ["eklem hastalıkları", "cilt hastalıkları", "romatizma"]
 image: "/images/kaplicalar/ciftehan-kaplicalari-1.jpg"
@@ -31,16 +31,16 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Niğde, Ulukışla
-> - 🌡️ **Su Sıcaklığı:** 45°C
+> - 🌡️ **Su Sıcaklığı:** 38°C
 > - 💧 **Mineral İçeriği:** Magnezyum, Kalsiyum, Bikarbonat, Sülfat
-> - ⭐ **Öne Çıkan Özellik:** 45°C sularıyla Niğde ilinin öne çıkan termal kaynağı
+> - ⭐ **Öne Çıkan Özellik:** 38°C sularıyla Niğde ilinin öne çıkan termal kaynağı
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma
 > - 🕐 **Önerilen Kalış:** 3-7 gece
 > - 💰 **Bütçe Seviyesi:** Ekonomik
 
 ## Neden Bu Kaplıca?
 
-Çiftehan Kaplıcaları, Niğde'nin Ulukışla ilçesinde yer alan doğal kaynakları ile hem sağlık hem de huzur arayan aileler için mükemmel bir kaçış noktasıdır. Doğal güzelliklerin içinde yer alan bu kaplıcalar, özellikle çocuklu aileler için sunduğu güvenli ortam ve çeşitli etkinlikler ile dikkat çekmektedir. 45°C sıcaklığa sahip termal suyu, hem dinlendirici hem de tedavi edici özellikleri ile misafirlerini karşılamaktadır. Aile vakitleri için güzel bir etkinlik alanı sunan bu kaplıcalar, hem eğlenceli hem de sağlıklı bir tatil imkanı sunar.
+Çiftehan Kaplıcaları, Niğde'nin Ulukışla ilçesinde yer alan doğal kaynakları ile hem sağlık hem de huzur arayan aileler için mükemmel bir kaçış noktasıdır. Doğal güzelliklerin içinde yer alan bu kaplıcalar, özellikle çocuklu aileler için sunduğu güvenli ortam ve çeşitli etkinlikler ile dikkat çekmektedir. 38°C sıcaklığa sahip termal suyu, hem dinlendirici hem de tedavi edici özellikleri ile misafirlerini karşılamaktadır. Aile vakitleri için güzel bir etkinlik alanı sunan bu kaplıcalar, hem eğlenceli hem de sağlıklı bir tatil imkanı sunar.
 
 ## Mineral Analizi ve Su Kimyası
 
@@ -64,7 +64,7 @@ gallery:
 
 ciftehan-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Niğde il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ciftehan-kaplicalari, İl: İl Merkezi -->
+[Niğde kaplıcaları rehberine bakın →](/iller/niğde/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: ciftehan-kaplicalari, İl: Niğde -->

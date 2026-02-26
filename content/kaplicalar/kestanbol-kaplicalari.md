@@ -1,6 +1,6 @@
 ---
 title: "Kestanbol Kaplıcaları"
-description: "Kestanbol Kaplıcaları (48°C) — Çanakkale ilindeki eklem hastalıkları, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Kestanbol Kaplıcaları (51°C) — Çanakkale ilindeki eklem hastalıkları, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-18
 lastmod: 2026-02-18
 draft: false
@@ -9,7 +9,7 @@ province: "Çanakkale"
 district: "Ezine"
 latitude: 39.7456
 longitude: 26.2931
-temperature: 48
+temperature: 51
 minerals: ["kalsiyum", "magnezyum", "sülfat", "bikarbonat"]
 conditions: ["eklem hastalıkları", "cilt hastalıkları", "romatizma"]
 image: "/images/kaplicalar/kestanbol-kaplicalari-1.webp"
@@ -31,20 +31,20 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Çanakkale, Ezine
-> - 🌡️ **Su Sıcaklığı:** 48°C
+> - 🌡️ **Su Sıcaklığı:** 51°C
 > - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Sülfat, Bikarbonat
-> - ⭐ **Öne Çıkan Özellik:** 48°C sularıyla Çanakkale ilinin öne çıkan termal kaynağı
+> - ⭐ **Öne Çıkan Özellik:** 51°C sularıyla Çanakkale ilinin öne çıkan termal kaynağı
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma
 > - 🕐 **Önerilen Kalış:** 3-7 gece
 > - 💰 **Bütçe Seviyesi:** Ekonomik
 
 ## Kapsamlı Tanıtım
 
-Çanakkale’nin Ezine ilçesinde yer alan Kestanbol Kaplıcaları, şifalı sularıyla hem sağlık arayanların hem de huzur bulmak isteyenlerin uğrak noktasıdır. 48°C sıcaklığa sahip mineral zengini sularıyla Kestanbol Kaplıcaları, eklem hastalıkları, cilt hastalıkları ve romatizma gibi rahatsızlıklara iyi gelmesiyle dikkat çekmektedir. Doğanın içinde yer alan bu kaplıcalar, hem fiziksel hem de ruhsal dinginlik arayanlar için ideal bir hafta sonu kaçamağı sunar.
+Çanakkale’nin Ezine ilçesinde yer alan Kestanbol Kaplıcaları, şifalı sularıyla hem sağlık arayanların hem de huzur bulmak isteyenlerin uğrak noktasıdır. 51°C sıcaklığa sahip mineral zengini sularıyla Kestanbol Kaplıcaları, eklem hastalıkları, cilt hastalıkları ve romatizma gibi rahatsızlıklara iyi gelmesiyle dikkat çekmektedir. Doğanın içinde yer alan bu kaplıcalar, hem fiziksel hem de ruhsal dinginlik arayanlar için ideal bir hafta sonu kaçamağı sunar.
 
 ## Su Kimyası ve Sıcaklık Analizi
 
-Kestanbol Kaplıcaları'nın suyu, kalsiyum, magnezyum, sülfat ve bikarbonat mineralleri açısından zengindir. Bu mineral bileşimi, vücudun ihtiyaç duyduğu besin maddelerini sağlarken, birçok hastalığın tedavisine katkıda bulunur. Kaplıcaların sıcaklığı, 48°C olarak ölçülmektedir; bu da suyun derinlerden geldiğini ve yer altı kaynaklarının etkileyici gücünü yansıttığını gösterir. Bu sıcaklık, kan dolaşımını hızlandırarak eklem ağrılarını hafifletmede etkili olur.
+Kestanbol Kaplıcaları'nın suyu, kalsiyum, magnezyum, sülfat ve bikarbonat mineralleri açısından zengindir. Bu mineral bileşimi, vücudun ihtiyaç duyduğu besin maddelerini sağlarken, birçok hastalığın tedavisine katkıda bulunur. Kaplıcaların sıcaklığı, 51°C olarak ölçülmektedir; bu da suyun derinlerden geldiğini ve yer altı kaynaklarının etkileyici gücünü yansıttığını gösterir. Bu sıcaklık, kan dolaşımını hızlandırarak eklem ağrılarını hafifletmede etkili olur.
 
 ## Tarihsel Önemi
 
@@ -63,10 +63,10 @@ Kestanbol Kaplıcaları çevresinde keşfedilecek pek çok doğal güzellik bulu
 
 kestanbol-kaplicalari Kaplıcaları bölgesindeki konaklama seçenekleri sınırlı olmakla birlikte, yakın çevrede çeşitli pansiyon ve otel alternatifleri bulunmaktadır. Kaplıca tesisinde günlük giriş ya da tesis bünyesinde konaklama imkânı mevcut olabilir; ziyaret öncesinde teyit edilmesi önerilir.
 
-Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. İl Merkezi il merkezinde daha geniş konaklama seçenekleri mevcuttur.
+Termal tedaviden en iyi sonucu almak için **minimum 3–5 gece** konaklama planlanmalıdır. Çanakkale il merkezinde daha geniş konaklama seçenekleri mevcuttur.
 
-[İl Merkezi kaplıcaları rehberine bakın →](/iller/i̇l merkezi/)
-<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kestanbol-kaplicalari, İl: İl Merkezi -->
+[Çanakkale kaplıcaları rehberine bakın →](/iller/çanakkale/)
+<!-- BOOKING_AFFILIATE_PLACEHOLDER: Bu alana ileride Booking.com widget'ı veya affiliate linkleri eklenecektir. Kaplıca: kestanbol-kaplicalari, İl: Çanakkale -->
 
 ## Seyahat Planlama
 

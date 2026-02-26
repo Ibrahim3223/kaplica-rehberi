@@ -1,6 +1,6 @@
 ---
 title: "Ilgın Kaplıcaları"
-description: "Ilgın Kaplıcaları (44°C) — Konya ilindeki romatizma, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
+description: "Ilgın Kaplıcaları (46°C) — Konya ilindeki romatizma, cilt hastalıkları başta olmak üzere pek çok rahatsızlığa iyi gelen termal kaynak."
 date: 2026-02-18
 lastmod: 2026-02-18
 draft: false
@@ -9,7 +9,7 @@ province: "Konya"
 district: "Ilgın"
 latitude: 38.2834
 longitude: 31.9124
-temperature: 44
+temperature: 46
 minerals: ["sülfat", "bikarbonat", "kalsiyum", "magnezyum"]
 conditions: ["romatizma", "cilt hastalıkları", "eklem hastalıkları"]
 image: "/images/kaplicalar/ilgin-kaplicalari-1.jpg"
@@ -31,9 +31,9 @@ gallery:
 > **Bir Bakışta**
 >
 > - 📍 **Konum:** Konya, Ilgın
-> - 🌡️ **Su Sıcaklığı:** 44°C
+> - 🌡️ **Su Sıcaklığı:** 46°C
 > - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum, Magnezyum
-> - ⭐ **Öne Çıkan Özellik:** 44°C sularıyla Konya ilinin öne çıkan termal kaynağı
+> - ⭐ **Öne Çıkan Özellik:** 46°C sularıyla Konya ilinin öne çıkan termal kaynağı
 > - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
 > - 🕐 **Önerilen Kalış:** 3-7 gece
 > - 💰 **Bütçe Seviyesi:** Ekonomik
@@ -44,7 +44,7 @@ Ilgın Kaplıcaları, Konya’nın aynı adı taşıyan ilçesinde yer alıyor v
 
 ## Termal Deneyimi
 
-Ilgın Kaplıcaları, 44°C sıcaklığa sahip olan termal su kaynağıyla dikkat çekiyor. İçeriğinde yer alan sülfat, bikarbonat, kalsiyum ve magnezyum mineralleri sayesinde sağlık açısından birçok fayda sunuyor. Romatizma, cilt hastalıkları ve eklem rahatsızlıkları gibi sorunlar için tedavi edici özellikleri ile ön plana çıkıyor. Kaplıcaların sunduğu termal havuzlar, konforlu bir dinlenme ve şifa bulma imkanı sağlıyor. Kaplıca suyu, cildinize ve ruhunuza hitap ederken, sıcak suyun sağladığı rahatlama hissi, stresi azaltıp zindelik kazandırıyor.
+Ilgın Kaplıcaları, 46°C sıcaklığa sahip olan termal su kaynağıyla dikkat çekiyor. İçeriğinde yer alan sülfat, bikarbonat, kalsiyum ve magnezyum mineralleri sayesinde sağlık açısından birçok fayda sunuyor. Romatizma, cilt hastalıkları ve eklem rahatsızlıkları gibi sorunlar için tedavi edici özellikleri ile ön plana çıkıyor. Kaplıcaların sunduğu termal havuzlar, konforlu bir dinlenme ve şifa bulma imkanı sağlıyor. Kaplıca suyu, cildinize ve ruhunuza hitap ederken, sıcak suyun sağladığı rahatlama hissi, stresi azaltıp zindelik kazandırıyor.
 
 ## Çevredeki Aktiviteler
 

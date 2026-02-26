@@ -59,17 +59,6 @@ Balçova Kaplıcaları'nın çevresinde gezilecek birkaç önemli yer bulunmakta
 ## Ziyaret İpuçları
 Balçova Kaplıcaları'nı ziyaret etmek için en ideal dönem bahar ve sonbahar aylarıdır. Bu mevsimlerde hava sıcaklığı oldukça ılımandır. Kaplıcalarda en az 2-3 gün kalmanız, suyun faydalarından tam anlamıyla yararlanmanızı sağlar. Ziyaret öncesinde havuzların sıcaklıkları ve tesis saatleri hakkında bilgi almak için tesisle iletişime geçmeyi unutmayın. Ayrıca, kişisel eşyalarınızı ve havlu gibi malzemelerinizi yanınıza almanızı öneririm.
 
-## Sıkça Sorulan Sorular
-
-**1. Balçova Kaplıcaları'na giriş ücreti var mı?**
-Kaplıcalara giriş ücretleri, dönemsel olarak değişebilir. Kesin bilgi almak için tesisle iletişime geçmeniz önerilir.
-
-**2. Kaplıcalarda hangi hizmetler sunuluyor?**
-Balçova Kaplıcaları'nda kaplıca havuzları, spa hizmetleri ve çeşitli sağlık terapileri gibi olanaklar mevcuttur.
-
-**3. Kaplıca suyunun sıcaklığı değişiyor mu?**
-Kaplıca suyu genel olarak 62°C olarak sabittir, ancak havuzlarda su sıcaklığı tesisin uygulamalarına göre soğutulabilir. Kesin değer için tesise danışın.
-
 ---
 
 ## İzmir'daki Diğer Kaplıcalar
