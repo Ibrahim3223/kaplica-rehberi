@@ -24,6 +24,16 @@ _angle: "romantic"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çankırı
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çankırı ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Kös Kaplıcası, Türkiye'nin batısında, doğal güzellikleri ve huzurlu atmosferi ile bilinen bir yer olarak pek çok çift için romantik bir kaçamak noktasıdır. Doğanın kucağında, çeşitli bitki örtüsü ile çevrili bu kaplıca, hem fiziksel hem de ruhsal olarak yenilenmek isteyenler için ideal bir mekan sunar. Kös Kaplıcası, yalnızca şifalı sularıyla değil, sunduğu huzurlu ortamıyla da ziyaretçilerine unutulmaz anlar yaşatır. Kaplıca çevresinde düzenlenen çeşitli etkinlikler ve aktiviteler, çiftlere birlikte kaliteli zaman geçirme fırsatı sunarken, şifalı suların keyfini çıkartmak da oldukça kolaydır.

@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/diyadin-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ağrı, Diyadin
+> - 🌡️ **Su Sıcaklığı:** 78°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Magnezyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 90°C'ye yaklaşan sıcaklığıyla Türkiye'nin en yüksek ısılı termal kaynaklarından
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Diyadin Kaplıcaları, Ağrı ilinin Diyadin ilçesinde yer alan doğal ve şifalı sıcak su kaynaklarıdır. 78°C sıcaklığındaki termal suyu, zengin mineral içeriği ile sağlık arayanlar için önemli bir durak noktası haline gelmiştir. Sülfat, kalsiyum, magnezyum ve bikarbonat gibi minerallerin bulunduğu bu kaynaklar, bölgenin doğal güzellikleriyle birleşerek hem fiziksel hem de ruhsal bir iyileşme sunmaktadır. Diyadin Kaplıcaları, konumu ve sunduğu olanaklar ile hem yerel halkın hem de sağlık turizmi amacıyla buraya gelen ziyaretçilerin ilgisini çekmektedir.

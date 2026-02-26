@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/gure-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Balıkesir, Edremit
+> - 🌡️ **Su Sıcaklığı:** 57°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Magnezyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 57°C sularıyla Balıkesir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Güre Kaplıcaları, Balıkesir'in şirin Edremit ilçesinde, doğanın kalbinde yer alan bir sağlık cenneti olarak karşımıza çıkıyor. Kaplıcalara adım attığınız andan itibaren hissedeceğiniz huzur, eşsiz doğa manzaralarıyla birleşerek sizi sarıp sarmalıyor. Etrafınızı saran yeşil dağlar ve tertemiz hava, buraya ulaşan her bireye derin bir rahatlık sunuyor. Su sıcaklığının 57°C'ye kadar çıkması, ziyaretçilerin kaplıca suyunun şifalı özelliklerini deneyimlemelerini sağlıyor. Modern tesisler ve doğal alanlar arasında kurulan bu denge, Güre Kaplıcaları’nın eşsiz atmosferini oluşturuyor. 

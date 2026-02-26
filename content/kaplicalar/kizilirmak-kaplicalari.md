@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/kizilirmak-kaplicalari-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çankırı, Merkez
+> - 🌡️ **Su Sıcaklığı:** 36°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 36°C sularıyla Çankırı ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Çankırı'nın merkezinde yer alan Kızılırmak Kaplıcaları, doğanın kucağında huzur dolu bir deneyim sunuyor. Kaplıcaların bulunduğu alana adım attığınızda, tarihi bir atmosferle karşılaşıyorsunuz. Etrafta hafif bir su sesi ve doğanın cıvıltıları arasında kaybolmuş hissediyorsunuz. Su sıcaklığının 36°C olması, bu bölgedeki termal kaynakların zenginliğini gözler önüne seriyor. Kaplıcaların çevresindeki yeşil alanlar, ziyaretçilere hem görsel bir şölen sunuyor hem de dinlendirici bir atmosfer yaratıyor. Burada, hem fiziksel hem de ruhsal bir yenilenme sürecine girmek için tüm koşullar mevcut.

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/dongel-kaplicalari-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kahramanmaraş, Afşin
+> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 38°C sularıyla Kahramanmaraş ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Döngel Kaplıcaları, Kahramanmaraş’ın Afşin ilçesinde, doğal güzellikleri ve şifalı sularıyla aile tatilleri için mükemmel bir destinasyon sunuyor. 38 °C sıcaklığa sahip termal suyu, bikarbonat, kalsiyum ve magnezyum mineralleri ile zengin bir yapıya sahip. Bu özellikleri sayesinde, özellikle romatizma, cilt hastalıkları gibi sağlık sorunlarıyla mücadele edenler için önemli bir alternatif oluşturuyor. Aile dostu bir atmosferde, çocuklarınızla birlikte hem dinlenip hem de sağlık bulabileceğiniz bu kaplıcalar, doğanın kucağında geçireceğiniz huzurlu bir tatil için ideal bir seçenek.

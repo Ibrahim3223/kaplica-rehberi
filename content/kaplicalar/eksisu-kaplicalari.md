@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/eksisu-kaplicalari-4.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Erzincan, Merkez
+> - 🌡️ **Su Sıcaklığı:** 35°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum, Demir
+> - ⭐ **Öne Çıkan Özellik:** 35°C sularıyla Erzincan ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Sindirim hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Bu Kaplıcanın Farkı
 
 Ekşisu Kaplıcaları, Erzincan'ın merkezinde gizli bir cennet olarak parıldıyor. Burası, 35°C sıcaklığa sahip şifalı su kaynakları ile dolup taşarken, içerisinde barındırdığı bikarbonat, kalsiyum, magnezyum ve demir mineralleri ile sağlığınıza sağlık katıyor. Farkını özellikle sindirim hastalıkları ve romatizma gibi rahatsızlıklar üzerindeki olumlu etkileri ile kanıtlıyor. Kaplıca suyunun yumuşak dokusu, çiftlerin romantik bir kaçamak için aradığı huzuru sunarken, doğanın sesleri eşliğinde geçireceğiniz her dakika, unutulmaz anılar biriktirmenize zemin hazırlıyor. 

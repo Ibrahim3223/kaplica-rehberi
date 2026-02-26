@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/ayas-kaplicasi-5.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara, Ayaş
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Ankara ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Ayaş Kaplıcası, Ankara'nın huzur dolu köylerinden biri olan Ayaş'ta yer alıyor. Burada, doğal güzellikler ve şifalı sular bir arada sunuluyor. Çiftler için romantik kaçamaklar yaratacak bir atmosfer sunan bu kaplıca, sakin ve dinlendirici bir tatil arayanların gözde adresi. Yeşil alanlarla çevrili, kuş cıvıltıları eşliğinde bir yudum sıcak suyun tadını çıkarmak, sevgilinizle birlikte unutulmaz anlar yaşamak için ideal bir yer. İster sadece huzur arıyor olun, ister birbirinize olan bağınızı daha da güçlendirmek isteyin, Ayaş Kaplıcası tam aradığınız yer.

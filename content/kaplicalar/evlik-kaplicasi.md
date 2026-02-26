@@ -24,6 +24,16 @@ _angle: "romantic"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çorum
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çorum ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Romantik bir kaçamak için mükemmel bir adres arıyorsanız, Evlik Kaplıcası tam da hayal ettiğiniz huzuru sunuyor. Doğanın kucaklayıcı sıcaklığı ve kaplıcanın özelliği ile birleşen suyu, zihinlerinizi dinlendirirken bedeninizi tazeliyor. Aşk dolu anlar yaşamak için ideal bir mekan olan Evlik Kaplıcası, hem romantik çiftlere hem de kendine zaman ayırmak isteyenlere hitap ediyor. Yeşilin ve mavinin birçok tonunu barındıran bu cennet köşesi, doğanın sunduğu doğal güzellikler ile ruhunuza dokunacak.

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/hisaralan-kaplicalari-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kastamonu, Araç
+> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Magnezyum, Kalsiyum
+> - ⭐ **Öne Çıkan Özellik:** 38°C sularıyla Kastamonu ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Sinir hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Bakış
 
 Hisaralan Kaplıcaları, Kastamonu ilinin Araç ilçesinde bulunan doğal şifa kaynaklarından biridir. 38°C sıcaklığa sahip termal sularıyla, hem yerli hem de uluslararası sağlık turizmi açısından dikkat çeken bir destinasyondur. Bu kaplıcaların sunduğu mineral zenginliği ve suyun şifalı özellikleri, özellikle sinir hastalıkları ve romatizma gibi pek çok rahatsızlığa iyi gelmesi bakımından önemli bir rol oynamaktadır. Hisaralan Kaplıcaları, doğal güzellikler içinde yer aldığından, hem tedavi süreçleri için hem de dinlenmek amacıyla tercih edilmektedir.

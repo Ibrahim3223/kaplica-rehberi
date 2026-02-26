@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/gediz-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kütahya, Gediz
+> - 🌡️ **Su Sıcaklığı:** 45°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 45°C sularıyla Kütahya ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Neden Bu Kaplıca?
 
 Gediz Kaplıcaları, Kütahya’nın gözde şifalı su kaynaklarından biri olarak öne çıkmakta. 45°C sıcaklığındaki termal suyu, hem sağlık hem de dinlenme amacıyla tercih edenler için ideal bir ortam sunuyor. Gediz ilçesinde, doğal güzelliklerle çevrili bir arazide yer alan bu kaplıcalar, sakinliği ve huzur veren atmosferiyle tedavi arayışında olanların uğrak noktasıdır. Yüksek mineral içeriği sayesinde, romatizma ve kas hastalıkları gibi rahatsızlıkları olan bireyler için önemli bir tedavi alternatifi sunuyor. Kaplıca, sağlık turizmi açısından da dikkat çekici bir destinasyon haline gelmiştir.

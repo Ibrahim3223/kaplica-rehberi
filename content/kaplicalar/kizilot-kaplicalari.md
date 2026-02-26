@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/kizilot-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Balıkesir, Susurluk
+> - 🌡️ **Su Sıcaklığı:** 44°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Sülfat, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 44°C sularıyla Balıkesir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Kapsamlı Tanıtım
 
 Balıkesir'in Susurluk ilçesinde yer alan Kızılot Kaplıcaları, sıcak su kaynaklarıyla dolup taşan bir cennet niteliğindedir. 44°C'ye ulaşan su sıcaklığı, ziyaretçilere hem fiziksel hem de ruhsal bir şifa sunarken, bölgenin eşsiz doğal güzellikleriyle birleşerek huzurlu bir kaçış noktası oluşturur. Yerel halk arasında "Şifa Durağı" olarak anılan bu kaplıcalar, özellikle romatizma ve eklem hastalıkları gibi rahatsızlıklara iyi gelen minerallerle zengindir.

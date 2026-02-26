@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/urganli-kaplicalari-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Manisa, Turgutlu
+> - 🌡️ **Su Sıcaklığı:** 50°C
+> - 💧 **Mineral İçeriği:** Magnezyum, Kalsiyum, Bikarbonat, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 50°C sularıyla Manisa ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Genel Bakış
 
 Manisa'nın Turgutlu ilçesinde yer alan Urganlı Kaplıcaları, doğal kaynakları ve mineral açısından zengin suları ile dikkat çekmektedir. Yaklaşık 50°C sıcaklığa sahip şifalı suyu, birçok sağlık problemine karşı alternatif bir tedavi yöntemi sunar. Özellikle eklem hastalıkları, cilt rahatsızlıkları ve romatizma gibi durumların tedavisinde etkili olduğu bilinen Urganlı Kaplıcaları, hem yerli hem de yabancı turistler için cazibe merkezi olmuştur. 

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/seben-kaplicalari-5.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bolu, Seben
+> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Bikarbonat, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 38°C sularıyla Bolu ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Bakış
 
 Seben Kaplıcaları, Bolu'nun Seben ilçesinde yer alan, şifalı sularıyla ünlü bir kaplıca tesisi olarak dikkat çekmektedir. 38°C sıcaklığa sahip olan bu termal kaynak, hem yerli hem de yabancı turistler için sağladığı sağlık faydaları ve muhteşem doğal manzaralarla dolu bir tatil deneyimi sunmaktadır. Aile dostu bir ortamda, çocuklarınızla birlikte keyifli zaman geçirebileceğiniz Seben Kaplıcaları, aynı zamanda Bolu kaplıcaları arasında da ön plana çıkmaktadır.

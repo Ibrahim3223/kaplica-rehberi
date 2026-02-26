@@ -24,6 +24,16 @@ _angle: "family"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çorum
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çorum ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Hamamlıçay Köy Kaplıcası, Türkiye'nin doğal güzellikleri ile dolu bir köy olan Hamamlıçay'da yer almaktadır. Ailelerin rahatça tatil yapabileceği bu kaplıca, doğal termal sularıyla hem dinlendirici hem de şifa verici bir deneyim sunmaktadır. Kaplıca, sakin bir atmosferde, çocuklu ailelerin güvenli bir şekilde vakit geçirebileceği bir ortam sunar. Kaplıcaya gelen ziyaretçiler, hem fiziksel rahatlama hem de ruhsal yenilenme imkanı bulurlar. Hamamlıçay Köy Kaplıcası'nın kendine has güzellikleri ve sunduğu olanaklarla, ailenizle birlikte keyifli bir tatil geçirmek için ideal bir seçenek olduğunu söyleyebiliriz.

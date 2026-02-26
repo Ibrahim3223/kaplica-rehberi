@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/pasinler-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Erzurum, Pasinler
+> - 🌡️ **Su Sıcaklığı:** 53°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 53°C sularıyla Erzurum ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Pasinler Kaplıcaları, Erzurum'un Pasinler ilçesinde yer alan ve şehrin doğasına adeta can veren bir cennet köşesidir. 53°C sıcaklığındaki şifalı suları ile dikkat çeken bu kaplıcalar, hem yerel halkın hem de turistlerin sağlık ve huzur arayışlarının merkezi haline gelmiştir. Benzersiz mineral içeriği, özellikle sülfat, kalsiyum ve bikarbonat, bu kaplıcaların sunduğu tedavi olanaklarını zenginleştirirken, aynı zamanda bölgenin doğal güzellikleri ve tarihi dokusu ile birleşerek unutulmaz bir deneyim sunar. 

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/simav-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kütahya, Simav
+> - 🌡️ **Su Sıcaklığı:** 96°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 96°C ile Türkiye'nin en sıcak termal kaynaklarından biri
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Tanıtım
 
 Eğer ruhunuzu dinlendirecek, bedeninize şifa verecek ve unutulmaz anılar biriktireceğiniz bir yer arıyorsanız, Kütahya'nın Simav ilçesindeki Simav Kaplıcaları tam size göre. Doğanın kucaklayıcı sıcaklığında, mineral zengini termal sularıyla ünlü bu kaplıcalar, 96°C sıcaklığıyla ziyaretçilerine adeta bir cennet sunuyor. Sülfat, bikarbonat, kalsiyum, magnezyum ve bor mineralleri içeren bu sıcak sular, romatizma, cilt hastalıkları, eklem ve sinir rahatsızlıklarına iyi geldiği bilinen bir doğal şifa kaynağı. Özellikle stresli bir yaşam tarzına sahip olan çiftler, burada geçirecekleri zamanla hem fiziksel hem de ruhsal bir yenilenme yaşayacaklar.

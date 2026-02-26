@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/sandikli-hudai-kaplicasi-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Afyonkarahisar, Sandıklı
+> - 🌡️ **Su Sıcaklığı:** 72°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 72°C yüksek sıcaklıklı sülfürlü su ve fango (çamur) banyosu imkânı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Sinir hastalıkları, Kas romatizması
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Bakış
 
 Afyonkarahisar ilinin Sandıklı ilçesinde yer alan Sandıklı Hüdai Kaplıcası, termal turizm açısından önemli bir merkezdir. 72°C sıcaklığa sahip termal suyu, birçok mineral içeriği ile sağlık turizmi için cazip hale gelmektedir. Romatizma, cilt hastalıkları, sinir hastalıkları ve kas romatizması gibi rahatsızlıkların tedavisinde etkili olduğu bilinen bu kaplıca, hem yerli hem de yabancı turistler tarafından sıklıkla tercih edilmektedir. Sandıklı Hüdai Kaplıcası, sunduğu doğal terapilerin yanı sıra sunduğu konaklama ve eğlence olanakları ile de dikkat çekmektedir.

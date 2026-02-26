@@ -24,6 +24,16 @@ _angle: "family"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Burdur
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Burdur ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Aile tatilleri, hem dinlenme hem de sağlık için fırsatlar sunarken, Kayacık Ilıcası bu açıdan dikkat çeken bir destinasyon. Ailelerin rahatça vakit geçirebileceği, çocuklar için güvenli bir ortam sunan bu kaplıca, doğal kaynakları ile hem bedensel hem de ruhsal yenilenme imkânı sağlıyor. Kayacık Ilıcası, eşsiz doğal güzellikleri ve sağlığa olan katkıları ile ailelerin tercih ettiği bir yer haline gelmiştir. Doğayla iç içe bir ortamda, tatilinizin tadını çıkarırken bedeninizi de iyileştirme fırsatı bulabilirsiniz.

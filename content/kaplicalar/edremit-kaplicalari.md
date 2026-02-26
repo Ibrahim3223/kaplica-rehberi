@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/edremit-kaplicalari-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Van, Edremit
+> - 🌡️ **Su Sıcaklığı:** 45°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 45°C sularıyla Van ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Edremit Kaplıcaları, Van'ın serin dağlarının eteğinde konumlanmış, doğal güzellikleriyle çevrili bir huzur cennetidir. Zamanın durduğu bu yerde, sıcak suyun huzur verici sesi ve doğanın yeşil dokusu, ziyaretçilere eşsiz bir atmosfer sunar. Kaplıcaların etrafındaki çam ormanları, mis gibi temiz havayı doldururken, suyun sıcaklığı insanı sarmalayan bir şefkat gibidir. Günübirlik kaçışlar için ideal bir nokta olan Edremit, şehrin karmaşasından uzaklaşmak isteyenler için harika bir seçenektir.

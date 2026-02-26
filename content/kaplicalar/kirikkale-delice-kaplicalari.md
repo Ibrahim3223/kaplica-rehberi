@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/kirikkale-delice-kaplicalari-5.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kırıkkale, Delice
+> - 🌡️ **Su Sıcaklığı:** 36°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 36°C sularıyla Kırıkkale ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Bakış
 
 Kırıkkale Delice Kaplıcaları, huzur dolu bir romantik kaçamak arayan çiftlerin gözdesi haline gelmiş bir cennet köşesidir. Doğanın sunduğu sıcak su kaynakları ve çevresindeki doğal güzellikler, ziyaretçilerine yalnızca bedensel bir iyileşme değil, aynı zamanda ruhsal bir huzur da sunar. 36°C sıcaklığa sahip mineral açısından zengin suyu, Kırıkkale kaplıcaları arasında kendine has bir öneme sahiptir. Bikarbonat, kalsiyum ve sülfat mineralleriyle zenginleşmiş bu su, hem sağlık hem de dinlenme arayanlar için ideal bir ortam sağlar.

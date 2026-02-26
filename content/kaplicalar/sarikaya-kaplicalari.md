@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/sarikaya-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Yozgat, Sarıkaya
+> - 🌡️ **Su Sıcaklığı:** 44°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 44°C sularıyla Yozgat ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Yozgat'ın Sarıkaya ilçesinde yer alan Sarıkaya Kaplıcaları, huzur ve şifa arayanlar için mükemmel bir sığınak sunuyor. Kaplıcaların bulunduğu bölge, doğal yeşilliklerle ve huzur veren manzaralarla çevrili. Varış anında sizi karşılayan sıcak termal suyun buharı, bedensel ve zihinsel rahatlama arayışınıza hemen katkıda bulunuyor. 44°C sıcaklığındaki mineral açısından zengin sular, yalnızca sağlık değil, aynı zamanda estetik bir deneyim sunuyor. Kaplıcaların içindeki havuzların sürekli akan sularıyla oluşturduğu dinlendirici sesler, stresinizi anında hafifletiyor. 

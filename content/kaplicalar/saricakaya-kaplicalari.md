@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/saricakaya-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Eskişehir, Sarıcakaya
+> - 🌡️ **Su Sıcaklığı:** 55°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Magnezyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 55°C sularıyla Eskişehir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Genel Tanıtım
 
 Sarıcakaya Kaplıcaları, Eskişehir ilinin Sarıcakaya ilçesinde yer alır ve şifalı suları ile sağlık turizmi açısından önemli bir yere sahiptir. 55°C sıcaklığa sahip termal su, sülfat, kalsiyum, magnezyum ve bikarbonat mineralleri ile zenginleşmiştir. Bu mineral içeriği, kaplıcanın romatizma, eklem hastalıkları ve cilt hastalıkları gibi rahatsızlıklara şifa sunduğu birçok uzman tarafından onaylanmıştır. Kaplıcalar, doğanın sunduğu bu eşsiz kaynakları, medikal bir tedavi süreci ile harmanlayarak ziyaretçilerine sağlıklı bir tatil deneyimi sunmayı hedefler.

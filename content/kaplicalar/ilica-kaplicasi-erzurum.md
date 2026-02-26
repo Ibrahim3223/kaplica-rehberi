@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/ilica-kaplicasi-erzurum-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Erzurum, Aziziye
+> - 🌡️ **Su Sıcaklığı:** 40°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Sülfat, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 40°C sularıyla Erzurum ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Genel Tanıtım
 
 Erzurum'un Aziziye ilçesinde yer alan Ilıca Kaplıcaları, hem doğal güzellikleri hem de sağlık açısından sunduğu olanaklarla dikkat çekmektedir. Su sıcaklığı 40°C olan bu kaplıcalar, banyo ve tedavi imkanları sunan profesyonel tesisleri ile misafirlerine konforlu bir deneyim sağlamaktadır. Mineral içeriği bakımından zengin olan Ilıca Kaplıcaları'nın suyu, bikarbonat, kalsiyum, sülfat ve magnezyum gibi faydalı minerallerle doludur. Özellikle romatizma, cilt hastalıkları ve sinir hastalıkları gibi rahatsızlıklara iyi geldiği bilinen bu kaplıcalar, ailecek huzurlu bir tatil geçirmek isteyenler için ideal bir noktadır.

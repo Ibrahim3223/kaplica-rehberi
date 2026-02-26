@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/karahayit-kaplicalari-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Pamukkale
+> - 🌡️ **Su Sıcaklığı:** 56°C
+> - 💧 **Mineral İçeriği:** Demir, Sülfat, Kalsiyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** Demir oksit içeriğinden gelen kırmızı su; Pamukkale ile aynı tatilde birleştirilebilir
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Karahayıt Kaplıcaları, Denizli'nin Pamukkale ilçesinde yer alan, doğanın sunduğu eşsiz bir cennet. Kaplıcalara yaklaşırken, kırmızımsı toprak yapısıyla çevrili bu bölge, ilginç bir doğa olayıyla karşılaştığınızı hissediyor. Geleneksel Türk misafirperverliğiyle kucaklanan ziyaretçiler, kaplıca alanına adım attıklarında huzur dolu bir atmosferle karşılaşıyorlar. Ağaçlarla çevrili dinlenme alanları ve göletler, ailelerin çocuklarıyla birlikte hem dinlenebileceği hem de eğlenebileceği bir ortam sunuyor. Etrafı saran doğal güzellikler, tatilinizi unutmamanız için özel bir arka plan oluşturuyor.

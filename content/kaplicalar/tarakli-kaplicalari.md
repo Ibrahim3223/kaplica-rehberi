@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/tarakli-kaplicalari-3.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Sakarya, Taraklı
+> - 🌡️ **Su Sıcaklığı:** 42°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Bikarbonat, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 42°C sularıyla Sakarya ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Taraklı Kaplıcaları, Sakarya'nın huzur dolu köylerinden biri olan Taraklı'da bulunuyor. Doğanın kucağında, yeşilin binbir tonunu barındıran bir ortamda yer alan bu kaplıca, ziyaretçilerine adeta bir sakinlik cenneti sunuyor. Kaplıcalara adım attığınızda, sıcak suyun buharı ve doğanın huzur veren sesleri arasında kaybolmuş hissediyorsunuz. Sıcak, fakat serinletici bir rüzgar, cildinizi okşarken, gözlerinizi kapatıp ruhunuzu dinlendirmeye davet ediyor. Özellikle akşam saatlerinde, gün batımının romantik renkleriyle kaplıcaların etrafındaki manzara, çiftler için unutulmaz anların başlangıcını müjdeliyor.

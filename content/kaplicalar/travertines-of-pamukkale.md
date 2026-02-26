@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/travertines-of-pamukkale-3.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Pamukkale
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** UNESCO Dünya Mirası kalsiyum travertenleri ve Kleopatra Havuzu
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Pamukkale’nin beyaz travertenleri, doğanın en muhteşem hediyelerinden biri olarak karşımıza çıkıyor. İlk adımınızı attığınız andan itibaren, yeryüzünde başka bir yerde bulamayacağınız büyülü bir atmosferin içerisine adım atıyorsunuz. Göz alıcı beyaz travertenler, sıcak su kaynaklarının kalkerle birleşerek oluşturduğu doğal havuzlar, güneşin altında parıldayan bir tablo gibi gözlerinizin önünde açılıyor. Bu muazzam manzara, hem ruhunuzu dinlendiriyor hem de kalbinizi ısıtıyor; adeta doğanın kendisiyle baş başa kalmışsınız gibi hissediyorsunuz. Pamukkale, sadece bir kaplıca değil, aynı zamanda romantik bir kaçamak için de ideal bir mekân.

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/haymana-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara, Haymana
+> - 🌡️ **Su Sıcaklığı:** 55°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Magnezyum, Sülfat, Kalsiyum
+> - ⭐ **Öne Çıkan Özellik:** 55°C sularıyla Ankara ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Sinir hastalıkları, Eklem hastalıkları, Cilt hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Tanıtım
 
 Haymana Kaplıcaları, Ankara'nın gözde termal kaynaklarından biri olarak, doğal şifa arayanların uğrak noktası haline gelmiştir. 55°C sıcaklığa sahip termal suyu, zengin mineral içeriğiyle dikkat çekmektedir. Bikarbonat, magnezyum, sülfat ve kalsiyum gibi minerallerle dolu bu su, sinir hastalıkları, eklem hastalıkları, cilt hastalıkları ve romatizma gibi pek çok sağlık sorununa iyi gelmektedir. Haymana, tarih boyunca pek çok medeniyete ev sahipliği yapmış ve kaplıcalarıyla ünlü olmuştur. Bu bölgedeki termal sulardan yararlanmak için gelen ziyaretçiler, hem fiziksel hem de ruhsal açıdan rahatlama fırsatı bulurlar.

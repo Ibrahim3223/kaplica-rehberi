@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/salihli-caferbeyli-kaplicalari-5.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Manisa, Salihli
+> - 🌡️ **Su Sıcaklığı:** 63°C
+> - 💧 **Mineral İçeriği:** Sülfat, Klorür, Sodyum
+> - ⭐ **Öne Çıkan Özellik:** 63°C yüksek ısılı sülfürlü sular; romatizma için yoğun kür
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Neden Bu Kaplıca?
 
 Salihli Caferbeyli Kaplıcaları, Manisa'nın doğal güzellikleri ile çevrili bir köşesinde, şifalı sularıyla ziyaretçilerine sağlık ve dinlenme imkanı sunuyor. Su sıcaklığı 63°C olan bu kaplıcalar, mineral açısından zengin içeriği ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Salihli Caferbeyli Kaplıcaları, özellikle romatizma ve cilt hastalıkları gibi kronik rahatsızlıkların tedavisinde etkinliği ile öne çıkmaktadır. Kaplıcaya ulaşımın kolay olması ve çevresindeki doğal güzellikler, bu mekanı sağlık turizmi açısından cazip hale getiriyor.

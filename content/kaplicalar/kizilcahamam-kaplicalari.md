@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/kizilcahamam-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara, Kızılcahamam
+> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Sülfat, Kalsiyum, Radyoaktif
+> - ⭐ **Öne Çıkan Özellik:** Soğuksu Milli Parkı'nın ormanlarına yaslanmış, Ankara'nın en sevilen hafta sonu destinasyonu
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Sinir hastalıkları, Romatizma, Cilt hastalıkları, Solunum hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Bakış
 
 Kızılcahamam Kaplıcaları, Ankara'nın serin dağlarının eteklerinde yer alarak hem yerli hem de yabancı turistlerin ilgisini çeken bir kaplıca tesisi. 38°C sıcaklıklı şifalı suları ve zengin mineral içeriği ile bilinen bu kaplıcalar, dinlenmek ve sağlık bulmak isteyenler için kaçış noktası. Doğanın kalbinde yer alan Kızılcahamam, hem fiziksel hem de zihinsel yenilenme arayanlara huzur dolu bir deneyim sunuyor. Eğer şehir hayatının karmaşasından uzaklaşmak istiyorsanız, Kızılcahamam Kaplıcaları ideal bir hafta sonu kaçamağı olabilir.

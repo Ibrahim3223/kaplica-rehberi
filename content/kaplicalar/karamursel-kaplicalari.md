@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/karamursel-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kocaeli, Karamürsel
+> - 🌡️ **Su Sıcaklığı:** 40°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Sülfat, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 40°C sularıyla Kocaeli ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Karamürsel Kaplıcaları, Kocaeli'nin huzur dolu köşelerinden biri olarak gezginleri ağırlıyor. 40°C sıcaklığa sahip olan termal suyu, kalsiyum, sülfat ve bikarbonat mineralleri ile zenginleştirilmiştir. Bu mineraller, özellikle romatizma ve kas hastalıkları gibi rahatsızlıklara iyi gelmesiyle bilinir. Karamürsel'in doğal güzellikleri arasında yer alan bu kaplıcalar, hem sağlık hem de dinlenme arayanların uğrak noktası haline gelmiştir. Bütçe dostu bir tatil için ideal bir seçenek sunan Karamürsel Kaplıcaları, doğa ile iç içe bir deneyim yaşamak isteyenleri bekliyor.

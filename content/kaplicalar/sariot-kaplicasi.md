@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/sariot-kaplicasi-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bolu, Göynük
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Bolu ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Sarıot Kaplıcası, doğanın kucaklayıcı atmosferinde huzuru bulmak isteyen çiftler için mükemmel bir kaçamak noktasıdır. Sakarya’nın doğal güzellikleri arasında yer alan bu eşsiz kaplıca, göz alıcı manzaraları ve sakin ortamıyla romantik anların tadını çıkarabileceğiniz bir mekan sunar. Suyunun şifalı özellikleriyle bilinen Sarıot Kaplıcası, hem bedensel hem de ruhsal rahatlama arayanlar için ideal bir seçenektir. Kaplıcadan yükselen buhar, doğanın sesiyle birleşerek sizi tüm stres ve kaygılardan arındıracak bir atmosfer yaratır.

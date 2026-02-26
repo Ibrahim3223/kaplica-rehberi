@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/bursa-cekirge-kaplicalari-2.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bursa, Osmangazi
+> - 🌡️ **Su Sıcaklığı:** 47°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Bikarbonat, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** Roma döneminden bu yana kesintisiz kullanılan, Osmanlı ve Bizans izleri taşıyan tarihi termal merkez
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları, Cilt hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Bakış
 
 Bursa'nın tarihi ve doğal güzellikleri arasında gizlenmiş bir cennet olan Çekirge Kaplıcaları, termal turizm açısından önemli bir destinasyondur. Osmangazi ilçesinde yer alan bu kaplıcalar, şehrin merkezine olan yakınlığı ile hem yerli hem de yabancı turistlerin ilgisini çekmektedir. 47°C sıcaklığa sahip olan şifalı sular, mineral bakımından zengin yapısıyla çeşitli sağlık sorunlarına da iyi gelmektedir. Bursa Çekirge Kaplıcaları, hem dinlenmek hem de sağlık bulmak isteyenler için mükemmel bir hafta sonu kaçamağı sunuyor.

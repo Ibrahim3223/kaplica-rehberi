@@ -24,6 +24,16 @@ _angle: "health"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Manisa
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Manisa ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Saraycık Ilıcası, sağlık turizmi açısından dikkat çeken bir destinasyon olarak öne çıkmaktadır. İzmir’in kuzeydoğusunda, Manisa sınırlarına yakın bir konumda yer alan bu kaplıca, huzur veren doğal ortamı ve sakin atmosferi ile misafirlerini karşılamaktadır. Saraycık Ilıcası'nın en büyük avantajlarından biri, hem yerli hem de yabancı turistlere sunduğu doğal kaynakların şifalı özellikleridir. Kaplıcanın çevresindeki yeşil alanlar ve doğal güzellikler, ziyaretçilere sadece fiziksel değil, aynı zamanda ruhsal bir iyileşme de sunmaktadır.

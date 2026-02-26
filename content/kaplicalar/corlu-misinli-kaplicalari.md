@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/corlu-misinli-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Tekirdağ, Çorlu
+> - 🌡️ **Su Sıcaklığı:** 36°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 36°C sularıyla Tekirdağ ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Bu Kaplıcanın Farkı
 
 Çorlu Misinli Kaplıcaları, Tekirdağ'ın doğal güzellikleri arasında yer alan, sıcak ve mineral bakımından zengin sularıyla öne çıkan bir mekandır. Su sıcaklığı 36°C olan kaplıca, özellikle kalsiyum, magnezyum ve bikarbonat mineralleri açısından zengin içeriğiyle sağlık arayan aileler için mükemmel bir alternatif sunmaktadır. Bu kaplıca, romatizma ve cilt hastalıkları gibi rahatsızlıklara iyi gelmesiyle bilinir. Misinli Kaplıcaları'nın, ailenizle birlikte keyifli bir tatil geçirebileceğiniz huzurlu bir atmosfer sunması, onu diğer kaplıcalardan ayıran en önemli özelliğidir.

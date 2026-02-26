@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/ihlara-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Aksaray, Güzelyurt
+> - 🌡️ **Su Sıcaklığı:** 40°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 40°C sularıyla Aksaray ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Bakış
 
 Doğanın kucaklayıcı sıcaklığında, Ihlara Kaplıcaları, Aksaray'ın Güzelyurt bölgesinde, huzurlu bir kaçamak arayan çiftler için adeta bir cennet köşesi sunuyor. 40°C sıcaklıktaki termal suyu ve zengin mineral içeriği ile hem bedeninizi hem de ruhunuzu dinlendirirken, unutulmaz anılar biriktirmenizi sağlıyor. Ihlara Kaplıcaları'nın büyülü atmosferi, romantik bir tatil için ideal bir zemin oluşturuyor.

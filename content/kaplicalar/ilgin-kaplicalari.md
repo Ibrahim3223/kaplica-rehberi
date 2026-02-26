@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/ilgin-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Konya, Ilgın
+> - 🌡️ **Su Sıcaklığı:** 44°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 44°C sularıyla Konya ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Ilgın Kaplıcaları, Konya’nın aynı adı taşıyan ilçesinde yer alıyor ve ziyaretçilerini tarihi bir yolculuğa çıkarıyor. Kaplıcaların bulunduğu bölge, doğanın yeşil dokusu ve kuş cıvıltılarıyla dolu bir atmosfer sunuyor. Kaplıcaların etrafındaki doğal güzellikler, hem zihinsel hem de bedensel huzur sağlamak için ideal bir ortam yaratıyor. Kaplıcalara adım attığınızda, sıcak suyun buharıyla sarılmış bir atmosferin sizi karşıladığını hissedeceksiniz. Burada, günlük yaşamın karmaşasından uzaklaşarak kendinizi yenileyebilirsiniz.

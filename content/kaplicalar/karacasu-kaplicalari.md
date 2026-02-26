@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/karacasu-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bolu, Merkez
+> - 🌡️ **Su Sıcaklığı:** 42°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 42°C sularıyla Bolu ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Karacasu Kaplıcaları, Bolu'nun kalbinde, doğal güzellikler ile çevrili bir alanda yer alır. 42°C sıcaklıkta termal suya sahip olan bu kaplıcalar, hem şifalı özellikleri hem de huzur verici atmosferi ile dikkat çekmektedir. Termal suyun içeriğinde yer alan bikarbonat, kalsiyum ve magnezyum mineralleri, özellikle sağlık turizmi açısından önemli bir çekim merkezi haline gelmiştir. Kaplıcaların sunduğu tedavi olanakları ve rahatlatıcı ortamı, her yıl birçok yerli ve yabancı turisti kendine çekmektedir. **Karacasu Kaplıcaları**, sağlığını ön planda tutan bireyler için ideal bir destinasyondur.

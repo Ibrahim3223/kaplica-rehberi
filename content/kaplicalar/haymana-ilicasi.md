@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/haymana-ilicasi-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara, Haymana
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Ankara ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Bakış
 
 Haymana Ilıcası, Ankara'nın 84 kilometre güneyinde yer alan, tarihi ve doğal güzellikleriyle ünlü bir kaplıca alanıdır. Doğanın kucağında, huzur dolu bir tatil deneyimi sunan Haymana Ilıcası, aileler için ideal bir seçimdir. Bu bölge, zengin mineral yapısıyla birçok sağlık problemine iyi gelmesiyle bilinirken, doğal güzellikleriyle de konuklarını kendine hayran bırakmaktadır. Ailece keyifli vakit geçirilebilecek, güvenli ve samimi bir ortam sunan Haymana Ilıcası, tatil planlarınızda yer almayı kesinlikle hak ediyor.

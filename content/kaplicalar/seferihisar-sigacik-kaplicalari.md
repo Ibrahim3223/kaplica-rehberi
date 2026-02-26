@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/seferihisar-sigacik-kaplicalari-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** İzmir, Seferihisar
+> - 🌡️ **Su Sıcaklığı:** 41°C
+> - 💧 **Mineral İçeriği:** Klorür, Sodyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 41°C sularıyla İzmir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Bu Kaplıcanın Farkı
 
 Seferihisar Sığacık Kaplıcaları, İzmir’in gözbebeği Seferihisar'ın huzurlu sokaklarında gizli bir cennet gibi karşımıza çıkıyor. 41°C sıcaklığıyla sıcak su kaynakları, zihin ve beden sağlığı için adeta bir şifa kaynağı. Kaplıcanın suyu, klorür, sodyum ve sülfat gibi minerallerle zengindir. Bu mineral çeşitliliği, özellikle romatizma ve cilt hastalıkları gibi rahatsızlıklara iyi geldiği bilinen bir özellik. Sığacık'ın mistik atmosferi, kaplıca deneyimini daha da özel kılarken, kaplıca çevresindeki doğal güzellikler, çiftler için romantik anlar yaratıyor.

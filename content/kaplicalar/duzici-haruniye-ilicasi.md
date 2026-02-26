@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/duzici-haruniye-ilicasi-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Osmaniye, Düziçi
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Osmaniye ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Düziçi Haruniye Ilıcası, Adana ilinin Düziçi ilçesinde yer alan ve sağlık turizmi açısından önemli bir destinasyon olma potansiyeline sahip bir kaplıcadır. Doğanın kucağında bulunan bu ilıca, sunduğu sağlık faydaları ile dikkat çekmektedir. Kaplıcanın doğal güzellikleri ve sakin atmosferi, hem dinlenmek hem de tedavi süreçlerinde destek arayan misafirler için ideal bir ortam sunar. Ayrıca, bölgenin doğal yapısı ve temiz havası, kaplıca ziyaretlerini daha da cazip hale getirir. Bu nedenle, Düziçi Haruniye Ilıcası, sağlık odaklı seyahatler için doğru bir adres olarak öne çıkmaktadır.

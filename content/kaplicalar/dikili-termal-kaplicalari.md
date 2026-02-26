@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/dikili-termal-kaplicalari-2.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** İzmir, Dikili
+> - 🌡️ **Su Sıcaklığı:** 57°C
+> - 💧 **Mineral İçeriği:** Sülfat, Kalsiyum, Bikarbonat, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 57°C sularıyla İzmir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Sinir hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Dikili Termal Kaplıcaları, İzmir’in doğal güzellikleriyle bezenmiş bir köşesinde, sakin bir atmosferde ziyaretçilerine kapılarını açıyor. İzmir’in Dikili ilçesinde yer alan bu kaplıcalar, hem yerli hem de yabancı turistlerin ilgisini çeken bir sağlık turizmi merkezi olma özelliği taşıyor. Kaplıcaların bulunduğu alan, yeşil doğası ve temiz havasıyla huzur veriyor. Ziyaretçiler, bu doğal alanda hem bedenlerini hem de ruhlarını dinlendirme fırsatı buluyor. Kaplıcaların etrafındaki doğal peyzaj, su sesi ve ağaçların hafif hışırtısı, misafirlere huzurlu bir deneyim sunuyor.

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/gazligol-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Afyonkarahisar, Gazlıgöl
+> - 🌡️ **Su Sıcaklığı:** 60°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Flor, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** Yüksek karbonatlı ve mineralli sular; Afyon'un beş yıldızlı termal tesisleriyle çevrili
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Sindirim hastalıkları, Eklem hastalıkları, Cilt hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Bakış
 
 Gazlıgöl Kaplıcaları, Afyonkarahisar'ın doğal güzellikleri arasında yer alan bir cennet köşesi. Termal sularının sıcaklığı 60°C olup, şifalı mineralleri ile dolu olan bu kaplıcalar, romantik bir tatil arayışında olan çiftler için huzur dolu bir kaçamak sunuyor. Bikarbonat, flor, kalsiyum, magnezyum ve sülfat gibi zengin mineral içerikleri ile hem bedeninizi hem ruhunuzu besleyecek bu kaplıcalar, doğanın sunduğu en güzel hediyelerden biri. Gazlıgöl Kaplıcaları, hem sağlık hem de keyif arayan misafirlerine unutulmaz anlar yaşatmayı vaadediyor.

@@ -24,6 +24,16 @@ _angle: "weekend"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Amasya
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Amasya ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Terziköy Kaplıcası, doğal güzellikler ve huzur arayanların buluşma noktası. Doğa ile iç içe, sakin bir ortamda yer alan bu kaplıca, şehrin karmaşasından uzaklaşmak isteyenler için ideal bir hafta sonu kaçamağı sunuyor. Kaplıcanın etrafındaki yemyeşil ağaçlar ve kuş sesleri, ziyaretçileri adeta bir huzur denizine davet ederken, sıcak su kaynaklarının bulunduğu alan ise rahatlamanın en güzel örneğini sergiliyor. Girişte sizi karşılayan güleryüzlü personel ve temiz, düzenli bir ortam, kaplıcaya dair ilk izlenimlerinizi pekiştiriyor.

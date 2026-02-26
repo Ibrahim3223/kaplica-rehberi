@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/saraykoy-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Sarayköy
+> - 🌡️ **Su Sıcaklığı:** 68°C
+> - 💧 **Mineral İçeriği:** Sülfat, Klorür, Sodyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 68°C yüksek ısılı sülfürlü sular; romatizma için yoğun kür
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Genel Tanıtım
 
 Sarayköy Kaplıcaları, Denizli'nin huzur veren doğal cennetlerinden biri olarak çiftlere romantik bir kaçamak sunuyor. 68°C sıcaklığa sahip, mineral açısından zengin termal sularıyla hem bedeninizi hem de ruhunuzu dinlendirecek bir deneyim yaşatıyor. Sülfat, klorür, sodyum ve magnezyum içeren bu sular, romatizma, kas hastalıkları ve eklem hastalıklarına iyi gelirken, aynı zamanda derin bir rahatlama hissi sağlıyor. Doğanın kucağında yer alan bu kaplıcalar, sizi günlük hayatın telaşından uzaklaştırarak, sakin ve huzurlu bir atmosferde unutulmaz anlar yaşatmaya davet ediyor.

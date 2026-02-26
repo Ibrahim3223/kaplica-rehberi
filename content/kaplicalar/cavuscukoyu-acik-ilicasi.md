@@ -24,6 +24,16 @@ _angle: "budget"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Konya
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Konya ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Bu Kaplıcanın Farkı
 
 Çavuşçuköyü Açık Ilıcası, Türkiye’nin termal zenginlikleri arasında dikkat çeken, bütçe dostu bir alternatif sunan bir kaplıcadır. Doğal bir ortamda yer alması, konuklara hem sağlık hem de huzur arayışı içerisinde eşsiz bir deneyim yaşatmaktadır. Açık alanda yer alan bu ilıca, doğal güzellikleriyle iç içe olmanın yanı sıra, çevredeki organik yaşamın sunduğu manzaralarla da göz doldurmaktadır. Çavuşçuköyü Açık Ilıcası’nda, kaplıca suyunun kalitesi ve mineral içeriği hakkında kesin verilere ulaşamasak da, doğanın sunduğu ferahlık ve huzur, burayı ziyaret edenler için unutulmaz bir deneyim oluşturur.

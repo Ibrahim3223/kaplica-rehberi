@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/kozakli-kaplicalari-5.png"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Nevşehir, Kozaklı
+> - 🌡️ **Su Sıcaklığı:** 60°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Sülfat, Kalsiyum, Radyoaktif
+> - ⭐ **Öne Çıkan Özellik:** Kapadokya peri bacaları ile termal kürü aynı tatilde birleştirme imkânı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Sinir hastalıkları, Cilt hastalıkları, Solunum hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Bu Kaplıcanın Farkı
 
 Kozaklı Kaplıcaları, Nevşehir’in Kozaklı belgesinde yer alan, 60°C sıcaklığında şifalı sularıyla dikkat çeken bir termal merkezdir. Suyun mineral içeriği, bikarbonat, sülfat, kalsiyum ve radyoaktif bileşenler bakımından zengindir. Bu özellikleri, kaplıcanın romatizma, sinir hastalıkları, cilt hastalıkları ve solunum rahatsızlıklarına iyi geldiği yönündeki bilgilere de yansımaktadır. Aileler için güvenli ve huzurlu bir tatil imkanı sunan Kozaklı Kaplıcaları, hem fiziksel hem de ruhsal iyileşmeyi destekleyen bir atmosfere sahiptir.

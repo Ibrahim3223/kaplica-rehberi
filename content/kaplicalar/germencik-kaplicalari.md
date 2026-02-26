@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/germencik-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Aydın, Germencik
+> - 🌡️ **Su Sıcaklığı:** 98°C
+> - 💧 **Mineral İçeriği:** Sülfat, Klorür, Sodyum, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 98°C kaynak sıcaklığıyla Türkiye'nin en sıcak termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Aydın'ın Germencik ilçesinde yer alan Germencik Kaplıcaları, doğal güzellikleri ve şifalı sularıyla ziyareti bekleyenleri büyüleyen bir yer. İlk adımınızı attığınızda, termal suyun sıcaklığının ve mineral zenginliğinin yarattığı atmosfer hemen hissedilir. Yüksek sıcaklıkta, 98°C’ye kadar ulaşabilen termal sular, çevredeki doğal güzelliklerle birleşerek huzur dolu bir ortam sunar. Kaplıcaların çevresindeki yeşil alanlar, ağaçlar ve temiz hava, ruhsal ve bedensel bir ferahlama yaşatır. Misafirlerin, tıbbi ve ruhsal bir iyileşme arayışında kendilerini bulacakları bir cennet burası.

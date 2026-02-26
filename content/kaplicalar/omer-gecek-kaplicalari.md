@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/omer-gecek-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Afyonkarahisar, Merkez
+> - 🌡️ **Su Sıcaklığı:** 50°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum
+> - ⭐ **Öne Çıkan Özellik:** 50°C sularıyla Afyonkarahisar ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## İlk İzlenim ve Atmosfer
 
 Afyonkarahisar'ın merkezine yalnızca birkaç dakikalık mesafede bulunan Ömer-Gecek Kaplıcaları, ziyaretçilerine huzur dolu bir ortam sunuyor. Kaplıcanın doğal çevresi, yeşil ağaçlar ve temiz hava ile süslenmiş, bu da buraya adım attığınız andan itibaren kendinizi yenilenmiş hissetmenizi sağlıyor. Kaplıca tesislerinin düzenli yapısı ve doğayla uyum içinde tasarlanmış alanları, şehir hayatının karmaşasından kaçış arayanlar için adeta bir sığınak niteliği taşıyor.

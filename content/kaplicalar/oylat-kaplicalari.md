@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/oylat-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bursa, İnegöl
+> - 🌡️ **Su Sıcaklığı:** 39°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Bikarbonat, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** İnegöl'ün derin vadisinde orman içi, sakin ve kalabalıksız termal deneyim
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Sinir hastalıkları, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Oylat Kaplıcaları, Bursa'nın İnegöl ilçesinde, doğanın kucaklayıcı güzellikleri içerisinde yer alan bir termal cennet. Kaplıcaların bulunduğu alan, yemyeşil ormanlarla çevrili ve sakin bir atmosfer sunuyor. Oylat’ın doğal güzellikleri, misafirlerine sadece fiziksel değil, ruhsal bir dinginlik de vaat ediyor. Buraya adım attığınızda, sıcak su kaynaklarının şifalı etkilerinin yanı sıra, doğanın sunduğu huzurla kendinizi yenilenmiş hissediyorsunuz. 

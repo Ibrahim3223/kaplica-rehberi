@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/gonen-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Balıkesir, Gönen
+> - 🌡️ **Su Sıcaklığı:** 82°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Sodyum, Sülfat, Klorür
+> - ⭐ **Öne Çıkan Özellik:** 82°C ile Türkiye'nin en sıcak termal kaynaklarından biri
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Genel Tanıtım
 
 Balıkesir’in huzur dolu atmosferinde yer alan **Gönen Kaplıcaları**, ziyaretçilerine doğal şifa sunan sıcak su kaynaklarıyla dolu bir cennet. 82°C sıcaklığa sahip bu termal sular, yer altından zengin minerallerle dolu bir şekilde yüzeye çıkarken, bikarbonat, sodyum, sülfat ve klorür gibi bileşenler de sağlığınıza katkı sağlıyor. Özellikle eklem hastalıkları, romatizma, cilt hastalıkları ve kas rahatsızlıkları gibi sorunlarla mücadele edenler için ideal bir mekan olan Gönen Kaplıcaları, sadece fiziksel sağlık değil, ruhsal dinginlik de sunuyor.

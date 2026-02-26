@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/ciftehan-kaplicalari-4.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Niğde, Ulukışla
+> - 🌡️ **Su Sıcaklığı:** 45°C
+> - 💧 **Mineral İçeriği:** Magnezyum, Kalsiyum, Bikarbonat, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 45°C sularıyla Niğde ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Çiftehan Kaplıcaları, Niğde'nin Ulukışla ilçesinde yer alan doğal kaynakları ile hem sağlık hem de huzur arayan aileler için mükemmel bir kaçış noktasıdır. Doğal güzelliklerin içinde yer alan bu kaplıcalar, özellikle çocuklu aileler için sunduğu güvenli ortam ve çeşitli etkinlikler ile dikkat çekmektedir. 45°C sıcaklığa sahip termal suyu, hem dinlendirici hem de tedavi edici özellikleri ile misafirlerini karşılamaktadır. Aile vakitleri için güzel bir etkinlik alanı sunan bu kaplıcalar, hem eğlenceli hem de sağlıklı bir tatil imkanı sunar.

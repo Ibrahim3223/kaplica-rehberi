@@ -24,6 +24,16 @@ _angle: "family"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Ankara ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Karakaya Ilıcası, Türkiye'nin termal kaynaklar açısından zengin coğrafyasında yer alan, hem ailelere hem de bireylere hitap eden özel bir kaplıcadır. Doğal güzelliklerin ortasında konumlanan bu kaplıca, huzurlu bir tatil deneyimi sunmakta ve ailelerin birlikte keyifli zaman geçirebileceği bir ortam sağlamaktadır. Su kaynaklarının kendine has özellikleri, hem sağlık açısından faydalar sunması hem de dinlendirici etkisiyle öne çıkar. 

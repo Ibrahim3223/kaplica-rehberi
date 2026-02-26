@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/yalova-termal-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Yalova, Termal
+> - 🌡️ **Su Sıcaklığı:** 65°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Sodyum, Kalsiyum
+> - ⭐ **Öne Çıkan Özellik:** Atatürk'ün de ziyaret ettiği tarihi kaplıca; feribotle İstanbul'a 1,5 saat
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Sinir hastalıkları, Cilt hastalıkları
+> - 🕐 **Önerilen Kalış:** 7-10 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## İlk İzlenim ve Atmosfer
 
 Yalova Termal Kaplıcaları, doğanın kucaklayıcı sessizliği içinde, şehrin gürültüsünden uzaklaşmak isteyenler için bir sığınak niteliği taşıyor. Yalova’nın Termal ilçesinde yer alan bu kaplıcalar, doğasıyla ve temiz havasıyla göz kamaştırıyor. Gözlerinizi kapladığında bir dinginlik hissedeceksiniz; yemyeşil çam ormanları ve kuş cıvıltıları arasında yürüyüş yaparken, kaplıcalara doğru ilerlemek, günün stresinden arınmanıza yardımcı olacak. Kaplıcaların sıcak sularının, sizi davet eden bir sarılış gibi hissettirdiği bu ortamda, sağlığınıza ve ruh halinize iyi geleceğini düşünmek bile keyif veriyor.

@@ -25,6 +25,16 @@ gallery:
   - "/images/kaplicalar/figani-kaplicasi-1.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çorum
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çorum ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Figani Kaplıcası, Türkiye'nin karasal ikliminin ortasında, huzur dolu bir köşede konumlanıyor. Doğayla iç içe, yeşil alanlarla çevrili bu kaplıca, ilk adımınızı attığınız anda sizi dinginliğe davet ediyor. Kaplıca kompleksinin içinde dolaşırken, sıcak suyun buharı ve doğal aroma terapisinin birleşimiyle oluşan mistik bir atmosferle karşılaşıyorsunuz. Figani Kaplıcası, sadece bir sağlık merkezi değil, aynı zamanda zihin ve bedenin yenilendiği bir kaçış noktası olarak öne çıkıyor.

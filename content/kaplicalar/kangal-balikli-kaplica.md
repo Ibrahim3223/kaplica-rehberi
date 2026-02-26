@@ -25,6 +25,16 @@ gallery:
   - "/images/kaplicalar/kangal-balikli-kaplica-1.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Sivas, Kangal
+> - 🌡️ **Su Sıcaklığı:** 37°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum, Selenyum
+> - ⭐ **Öne Çıkan Özellik:** Dünyada nadir bulunan doktor balıkları (Garra rufa) ile sedef ve cilt tedavisi
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Cilt hastalıkları, Sedef hastalığı, Romatizma
+> - 🕐 **Önerilen Kalış:** 7-21 gece (kür programı)
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Sivas’ın Kangal ilçesinde yer alan **Kangal Balıklı Kaplıca**, hem doğal güzellikleri hem de şifalı suları ile dikkat çeken bir destinasyondur. 37°C sıcaklığındaki termal suyu, cilt hastalıklarından romatizmaya kadar birçok rahatsızlığa iyi geldiği bilinen minerallerle doludur. Özellikle kalsiyum, magnezyum, bikarbonat ve selenyum içeriği sayesinde, sağlık arayışında olanlar için ideal bir kaçış noktasıdır. Hafta sonu kaçamakları için mükemmel bir tercih olan Kangal Balıklı Kaplıca, hem dinlendirici hem de tedavi edici bir deneyim sunar.

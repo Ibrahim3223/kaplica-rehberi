@@ -26,6 +26,16 @@ gallery:
   - "/images/kaplicalar/koycegiz-sultaniye-kaplicalari-2.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Muğla, Köyceğiz
+> - 🌡️ **Su Sıcaklığı:** 40°C
+> - 💧 **Mineral İçeriği:** Sülfat, Bikarbonat, Kalsiyum, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** Ege kıyı şeridinde, doğa ve termal dinlenmeyi bir arada sunan destinasyon
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Cilt hastalıkları, Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Muğla’nın yeşil doğasıyla bezeli Köyceğiz ilçesi, Sultaniye Kaplıcaları ile hem doğal güzellikleri hem de şifalı sularıyla dikkat çekiyor. Kaplıcaların bulunduğu alan, hem zengin bitki örtüsü hem de göl manzarası ile göz alıcı bir doğal ortam sunuyor. Sultaniye Kaplıcaları’na adım attığınızda, sıcak su kaynaklarının hafif buharıyla kaplanmış bir atmosfer sizi karşılıyor. Doğanın sessizliği ve sıcak suyun huzur verici etkisi, zihin ve beden arasında bir denge kurma imkanı sağlıyor. Kaplıcaların çevresindeki alan, ziyaretçileri karşılamaya hazır olan çeşitli tesisler ve oteller ile donatılmış.

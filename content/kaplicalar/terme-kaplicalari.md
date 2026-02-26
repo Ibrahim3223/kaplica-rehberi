@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/terme-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Kırşehir, Merkez
+> - 🌡️ **Su Sıcaklığı:** 42°C
+> - 💧 **Mineral İçeriği:** Bikarbonat, Kalsiyum, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 42°C sularıyla Kırşehir ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Terme Kaplıcaları, Kırşehir il merkezine oldukça yakın bir konumda bulunarak hem yerel halk hem de ziyaretçiler için önemli bir sağlık merkezi olma özelliği taşımaktadır. 42°C sıcaklığındaki mineral zengini suyu, özellikle eklem ve romatizma rahatsızlıkları için etkili bir tedavi yöntemi sunar. Kırşehir kaplıcaları arasında benzersiz bir konumda yer alan Terme, sadece fiziksel sağlık değil, aynı zamanda ruhsal rahatlama için de ideal bir ortam sunar. Doğanın kucağında, sakin bir atmosferde, şifalı suların keyfini çıkarırken, bedeninizin yeniden doğuşuna tanıklık edebilirsiniz.

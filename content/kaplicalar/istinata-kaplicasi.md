@@ -24,6 +24,16 @@ _angle: "romantic"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çankırı
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çankırı ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 İstınata Kaplıcası, Türkiye’nin gözde termal noktalarından biri olarak, huzur arayan çiftler için ideal bir romantik kaçamak sunuyor. Doğa ile iç içe, yeşil bir cennette bulunan bu kaplıca, sakin atmosferi ve şifalı sularıyla sizi bekliyor. Göz alıcı doğal güzellikler içinde, tarihi ve kültürel bir yolculuğa çıkarken, aynı zamanda ruhunuzu dinlendireceğiniz bir mekan arıyorsanız, İstınata Kaplıcası tam size göre. Su kaynaklarının sıcaklığı ve mineral içeriği hakkında spesifik bilgiler mevcut olmasa da, buradaki tesisler ve ortam, tam anlamıyla bir yenilenme ve huzur deneyimi vaadediyor.

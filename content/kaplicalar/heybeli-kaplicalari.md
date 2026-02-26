@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/heybeli-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Afyonkarahisar, Sandıklı
+> - 🌡️ **Su Sıcaklığı:** 55°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** 55°C sularıyla Afyonkarahisar ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Bu Kaplıcanın Farkı
 
 Heybeli Kaplıcaları, Afyonkarahisar ilinin Sandıklı ilçesinde bulunan, Türkiye'nin en etkileyici termal kaynaklarından biridir. Su sıcaklığı 55°C olan bu kaplıcalar, kalsiyum, magnezyum ve sülfat açısından zengin mineral içeriği ile dikkat çekmektedir. Özellikle eklem hastalıkları ve romatizma gibi rahatsızlıklara şifa bulmak isteyenler için ideal bir tercih sunar. Heybeli Kaplıcaları, doğal mineral suyu ve şifalı özellikleri ile sadece fiziksel değil, aynı zamanda ruhsal bir iyileşme süreci de sağlar. Bu kaplıcaların huzur veren atmosferi, stres ve kaygıdan arınmak isteyenler için eşsiz bir fırsat sunar.

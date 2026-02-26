@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/pamukkale-termal-kaynaklari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Pamukkale
+> - 🌡️ **Su Sıcaklığı:** 35°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Bikarbonat, Sülfat, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** UNESCO Dünya Mirası kalsiyum travertenleri ve Kleopatra Havuzu
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Cilt hastalıkları, Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Neden Bu Kaplıca?
 
 Pamukkale Termal Kaynakları, sadece Türkiye’nin değil, dünyanın da en gözde termal alanlarından biridir. Denizli'nin Pamukkale beldesindeki bu eşsiz doğal oluşum, beyaz traverten terasları ve sıcak su kaynaklarıyla hem görsel bir şölen sunar hem de ruhsal bir huzur sağlar. Çiftler için romantik bir kaçamak yeri olarak ideal olan bu kaplıcada, sıcak suyun şefkatiyle dolup taşan anlar yaşamak mümkündür. Sıcak suyun 35°C’deki sıcaklığı, hem bedeni hem de zihni dinlendirirken, travertenlerin muazzam manzarası, el ele yürüyüşler yapacağınız bir atmosfer yaratır.

@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/armutlu-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bursa, Mudanya
+> - 🌡️ **Su Sıcaklığı:** 42°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Sülfat
+> - ⭐ **Öne Çıkan Özellik:** Marmara kıyısında deniz + termal kombinasyonu; İstanbul'dan feribotle ulaşım
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Kas hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Neden Bu Kaplıca?
 
 Armutlu Kaplıcaları, Bursa'nın Mudanya ilçesinde yer alan ve şifalı sularıyla bilinen bir cennettir. Yılda birçok ziyaretçiyi ağırlayan bu kaplıcalar, hem bölge sakinleri hem de şehir dışından gelen konuklar için vazgeçilmez bir dinlenme alanıdır. 42°C'ye ulaşan sıcaklığı ile cildinizi ve ruhunuzu canlandırırken, sunduğu şifalı mineral içerikleriyle pek çok hastalığın tedavisine yardımcı olur. Uygun fiyatlı konaklama seçenekleri ile de bütçe dostu bir alternatif sunar. Armutlu Kaplıcaları'nın doğal güzellikleri, sakin atmosferi ve sağlığa olan faydaları, onu ziyaret etmeye değer kılan unsurlar arasında yer alıyor.

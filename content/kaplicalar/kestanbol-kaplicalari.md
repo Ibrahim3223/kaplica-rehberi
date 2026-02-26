@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/kestanbol-kaplicalari-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çanakkale, Ezine
+> - 🌡️ **Su Sıcaklığı:** 48°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Magnezyum, Sülfat, Bikarbonat
+> - ⭐ **Öne Çıkan Özellik:** 48°C sularıyla Çanakkale ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Eklem hastalıkları, Cilt hastalıkları, Romatizma
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Kapsamlı Tanıtım
 
 Çanakkale’nin Ezine ilçesinde yer alan Kestanbol Kaplıcaları, şifalı sularıyla hem sağlık arayanların hem de huzur bulmak isteyenlerin uğrak noktasıdır. 48°C sıcaklığa sahip mineral zengini sularıyla Kestanbol Kaplıcaları, eklem hastalıkları, cilt hastalıkları ve romatizma gibi rahatsızlıklara iyi gelmesiyle dikkat çekmektedir. Doğanın içinde yer alan bu kaplıcalar, hem fiziksel hem de ruhsal dinginlik arayanlar için ideal bir hafta sonu kaçamağı sunar.

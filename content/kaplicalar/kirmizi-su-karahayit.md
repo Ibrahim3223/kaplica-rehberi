@@ -28,6 +28,16 @@ gallery:
   - "/images/kaplicalar/kirmizi-su-karahayit-4.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Pamukkale
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** Demir oksit içeriğinden gelen kırmızı su; Pamukkale ile aynı tatilde birleştirilebilir
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Kapsamlı Tanıtım
 
 Kırmızı Su Karahayıt, Ege Bölgesi’nin gizli cennetlerinden biri olarak, doğanın sunduğu şifalı sularıyla hem yerli hem de yabancı turistlerin ilgisini çekmektedir. Kütahya iline bağlı Karahayıt beldesinde bulunan bu kaplıca, kendine özgü kırmızı suyu ile ünlüdür. Bu su, özellikle mineral içeriği ile dikkat çekerken, kaplıca tesisi ve çevresindeki doğal güzellikler, gelen misafirlerin rahatlayıp yenilenmesi için ideal bir ortam sunar.

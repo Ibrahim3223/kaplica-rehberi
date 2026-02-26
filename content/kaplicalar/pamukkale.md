@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/pamukkale-5.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Denizli, Pamukkale
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** UNESCO Dünya Mirası kalsiyum travertenleri ve Kleopatra Havuzu
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Orta–Lüks
+
 ## Bu Kaplıcanın Farkı
 
 Pamukkale, sadece bir kaplıca değil; aynı zamanda doğanın bir sanat eseri olarak karşımıza çıkıyor. Beyaz traverten terasları, sıcak su kaynaklarının kalbinden doğarak, yüzyıllar boyunca oluşturduğu bu eşsiz manzarayla adeta büyülüyor. Bu doğal oluşum, UNESCO Dünya Mirası Listesi’nde yer alarak, hem yerel hem de uluslararası ziyaretçilerin ilgisini çekiyor. Pamukkale'nin sıcak sularında yapılan doğal banyolar, minerallerin cilt üzerindeki olumlu etkileriyle birleştiğinde, burayı romantik bir kaçamak için ideal bir nokta haline getiriyor.

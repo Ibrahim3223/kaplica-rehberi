@@ -24,6 +24,16 @@ _angle: "romantic"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Ankara
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Ankara ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 Kürttacın Ilıcası, gökyüzüyle buluşan yüksek dağların eteğinde, doğal güzelliklerin arasında gizlenmiş bir cennet gibi karşınıza çıkar. Yakın çevresindeki yeşil ormanlar, huzurunuzu pekiştirirken, gözlerinizi dinlendiren manzaralarıyla ruhunuza hitap eder. Buraya adım attığınızda, zamanın yavaşladığını hissedecek, stres ve kaygılarınızın geride kaldığına tanıklık edeceksiniz. Kaplıcanın etrafındaki doğal alan, sizi adeta bir romantik masalın içine çekerken, sıcak suyun buharı da yeni bir hikayenin başlangıcını müjdeler.

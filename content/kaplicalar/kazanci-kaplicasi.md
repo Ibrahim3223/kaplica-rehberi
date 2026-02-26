@@ -24,6 +24,16 @@ _angle: "health"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Çankırı
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Çankırı ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Bakış
 
 Kazancı Kaplıcası, Türkiye'nin kuzeyinde, doğal güzellikleri ve şifalı sularıyla ünlü Sivas iline bağlı Kazancı köyü yakınlarında yer almaktadır. Kaplıca, yalnızca yerel halk için değil, sağlık turizmi meraklıları için de cazibe merkezi olmayı başarmıştır. Eşsiz doğal oluşumları ve huzur dolu ortamı ile Kazancı Kaplıcası, stres atmak ve bedeninize şifa bulmak için ideal bir destinasyondur.

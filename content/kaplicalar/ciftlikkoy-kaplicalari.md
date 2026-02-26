@@ -29,6 +29,16 @@ gallery:
   - "/images/kaplicalar/ciftlikkoy-kaplicalari-5.webp"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Yalova, Çiftlikköy
+> - 🌡️ **Su Sıcaklığı:** 38°C
+> - 💧 **Mineral İçeriği:** Kalsiyum, Bikarbonat, Magnezyum
+> - ⭐ **Öne Çıkan Özellik:** 38°C sularıyla Yalova ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Romatizma, Eklem hastalıkları
+> - 🕐 **Önerilen Kalış:** 3-7 gece
+> - 💰 **Bütçe Seviyesi:** Orta
+
 ## Genel Tanıtım
 
 Yalova'nın Çiftlikköy ilçesinde yer alan Çiftlikköy Kaplıcaları, hem sağlık hem de tatil amacıyla ailece gidilebilecek ideal bir mekan olarak öne çıkıyor. Su sıcaklığı 38°C olan bu kaplıcalar, kalsiyum, bikarbonat ve magnezyum mineralleri ile dolu şifalı sularıyla dikkat çekiyor. Özellikle romatizma ve eklem hastalıkları gibi rahatsızlıklara iyi geldiği biliniyor. Doğayla iç içe, huzurlu bir ortam sunan bu kaplıcalar, ailelerin çocuklarıyla birlikte keyifli zaman geçirebileceği güvenli bir tatil deneyimi vadediyor.

@@ -27,6 +27,16 @@ gallery:
   - "/images/kaplicalar/babas-3.jpg"
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Bolu, Mudurnu
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Bolu ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## Genel Tanıtım
 
 Babas, Türkiye'nin doğal güzellikleriyle dolu bir bölgesinde, huzurlu bir tatil kaçamağı arayan aileler için ideal bir destinasyon. Ülkemizin şifalı sularıyla ünlü kaplıcaları arasında yer alan Babas, hem dinlendirici hem de sağlık açısından faydalı bir deneyim sunuyor. Aile dostu bir atmosferde, çocuklarınızla birlikte keyifli vakit geçirebileceğiniz bu kaplıcaya dair detayları keşfetmeye hazır olun! 

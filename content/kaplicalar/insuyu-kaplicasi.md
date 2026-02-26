@@ -24,6 +24,16 @@ _angle: "romantic"
 gallery: []
 ---
 
+> **Bir Bakışta**
+>
+> - 📍 **Konum:** Burdur
+> - 🌡️ **Su Sıcaklığı:** Belirtilmemiş
+> - 💧 **Mineral İçeriği:** Belirtilmemiş
+> - ⭐ **Öne Çıkan Özellik:** şifalı sularıyla Burdur ilinin öne çıkan termal kaynağı
+> - 🏥 **İyi Geldiği Rahatsızlıklar:** Çeşitli rahatsızlıklar
+> - 🕐 **Önerilen Kalış:** 2-5 gece
+> - 💰 **Bütçe Seviyesi:** Ekonomik
+
 ## İlk İzlenim ve Atmosfer
 
 İnsuyu Kaplıcası, yürüyüş yaparken karşınıza çıkan bir vaha gibi. Doğanın kucaklayıcı yeşilliği içinde, dağların arasında gizlenmiş bu kaplıca, huzur dolu bir romantik kaçamak için ideal bir mekan sunuyor. Kaplıcaya yaklaşırken, temiz havanın ve doğal suyun aroması, çiftler için bir huzur kaynağı oluşturuyor. İçeri adım attığınızda, ahşap mimarinin sıcaklığı ve doğal taşların estetiği, sizi hemen sarıyor. Gözlerinizi kapatıp altın ışıltılı güneşin yansıdığı su yüzeyine bakarken, bu anın sadece size ait olduğunu hissediyorsunuz.
