@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/gozlek-kaplicalari-1.jpg"
   - "/images/kaplicalar/gozlek-kaplicalari-2.jpg"
   - "/images/kaplicalar/gozlek-kaplicalari-3.jpg"
+  - "/images/kaplicalar/gozlek-kaplicalari-4.jpg"
+  - "/images/kaplicalar/gozlek-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

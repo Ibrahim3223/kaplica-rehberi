@@ -12,7 +12,7 @@ longitude: 32.063888888
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/kurttacin-ilicasi-1.webp"
 popularity: "low"
 wikidata_id: "Q49741953"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "romantic"
-gallery: []
+gallery:
+  - "/images/kaplicalar/kurttacin-ilicasi-1.webp"
+  - "/images/kaplicalar/kurttacin-ilicasi-2.png"
+  - "/images/kaplicalar/kurttacin-ilicasi-3.jpg"
+  - "/images/kaplicalar/kurttacin-ilicasi-4.jpg"
+  - "/images/kaplicalar/kurttacin-ilicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

@@ -12,7 +12,7 @@ longitude: 35.705
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/terzikoy-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49742002"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "weekend"
-gallery: []
+gallery:
+  - "/images/kaplicalar/terzikoy-kaplicasi-1.png"
+  - "/images/kaplicalar/terzikoy-kaplicasi-2.jpg"
+  - "/images/kaplicalar/terzikoy-kaplicasi-3.jpg"
+  - "/images/kaplicalar/terzikoy-kaplicasi-4.png"
+  - "/images/kaplicalar/terzikoy-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

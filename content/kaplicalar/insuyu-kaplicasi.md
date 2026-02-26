@@ -12,7 +12,7 @@ longitude: 30.557777777
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/insuyu-kaplicasi-1.jpg"
 popularity: "low"
 wikidata_id: "Q49742035"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "D"
 _angle: "romantic"
-gallery: []
+gallery:
+  - "/images/kaplicalar/insuyu-kaplicasi-1.jpg"
+  - "/images/kaplicalar/insuyu-kaplicasi-2.webp"
+  - "/images/kaplicalar/insuyu-kaplicasi-3.jpg"
+  - "/images/kaplicalar/insuyu-kaplicasi-4.jpg"
+  - "/images/kaplicalar/insuyu-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

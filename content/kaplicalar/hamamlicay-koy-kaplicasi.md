@@ -12,7 +12,7 @@ longitude: 34.860277777
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/hamamlicay-koy-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741919"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "C"
 _angle: "family"
-gallery: []
+gallery:
+  - "/images/kaplicalar/hamamlicay-koy-kaplicasi-1.png"
+  - "/images/kaplicalar/hamamlicay-koy-kaplicasi-2.png"
+  - "/images/kaplicalar/hamamlicay-koy-kaplicasi-3.png"
+  - "/images/kaplicalar/hamamlicay-koy-kaplicasi-4.png"
+  - "/images/kaplicalar/hamamlicay-koy-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

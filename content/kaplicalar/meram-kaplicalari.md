@@ -12,7 +12,7 @@ longitude: 32.3812
 temperature: 35
 minerals: ["bikarbonat", "kalsiyum", "sülfat"]
 conditions: ["romatizma", "eklem hastalıkları", "stres"]
-image: "/images/kaplicalar/meram-kaplicalari-1.jpg"
+image: "/images/kaplicalar/meram-kaplicalari-1.webp"
 popularity: "low"
 wikidata_id: ""
 wikipedia_url: ""
@@ -22,9 +22,11 @@ schema_type: "TouristAttraction"
 _structure: "C"
 _angle: "weekend"
 gallery:
-  - "/images/kaplicalar/meram-kaplicalari-1.jpg"
+  - "/images/kaplicalar/meram-kaplicalari-1.webp"
   - "/images/kaplicalar/meram-kaplicalari-2.jpg"
   - "/images/kaplicalar/meram-kaplicalari-3.jpg"
+  - "/images/kaplicalar/meram-kaplicalari-4.jpg"
+  - "/images/kaplicalar/meram-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/sulusaray-kaplicalari-1.jpg"
   - "/images/kaplicalar/sulusaray-kaplicalari-2.jpg"
   - "/images/kaplicalar/sulusaray-kaplicalari-3.jpg"
+  - "/images/kaplicalar/sulusaray-kaplicalari-4.jpg"
+  - "/images/kaplicalar/sulusaray-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

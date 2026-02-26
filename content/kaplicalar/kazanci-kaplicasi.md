@@ -12,7 +12,7 @@ longitude: 33.701388888
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/kazanci-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741944"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "A"
 _angle: "health"
-gallery: []
+gallery:
+  - "/images/kaplicalar/kazanci-kaplicasi-1.png"
+  - "/images/kaplicalar/kazanci-kaplicasi-2.jpg"
+  - "/images/kaplicalar/kazanci-kaplicasi-3.png"
+  - "/images/kaplicalar/kazanci-kaplicasi-4.png"
+  - "/images/kaplicalar/kazanci-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

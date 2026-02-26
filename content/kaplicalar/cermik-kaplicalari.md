@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/cermik-kaplicalari-1.jpg"
   - "/images/kaplicalar/cermik-kaplicalari-2.jpg"
   - "/images/kaplicalar/cermik-kaplicalari-3.jpg"
+  - "/images/kaplicalar/cermik-kaplicalari-4.jpg"
+  - "/images/kaplicalar/cermik-kaplicalari-5.webp"
 ---
 
 > **Bir Bakışta**

@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/coruh-kaplicalari-1.jpg"
   - "/images/kaplicalar/coruh-kaplicalari-2.jpg"
   - "/images/kaplicalar/coruh-kaplicalari-3.jpg"
+  - "/images/kaplicalar/coruh-kaplicalari-4.jpg"
+  - "/images/kaplicalar/coruh-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

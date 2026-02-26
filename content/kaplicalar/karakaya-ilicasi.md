@@ -12,7 +12,7 @@ longitude: 32.335833333
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/karakaya-ilicasi-1.webp"
 popularity: "low"
 wikidata_id: "Q49741940"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "F"
 _angle: "family"
-gallery: []
+gallery:
+  - "/images/kaplicalar/karakaya-ilicasi-1.webp"
+  - "/images/kaplicalar/karakaya-ilicasi-2.jpg"
+  - "/images/kaplicalar/karakaya-ilicasi-3.png"
+  - "/images/kaplicalar/karakaya-ilicasi-4.jpg"
+  - "/images/kaplicalar/karakaya-ilicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

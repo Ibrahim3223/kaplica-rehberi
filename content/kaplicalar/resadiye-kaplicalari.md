@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/resadiye-kaplicalari-1.jpg"
   - "/images/kaplicalar/resadiye-kaplicalari-2.jpg"
   - "/images/kaplicalar/resadiye-kaplicalari-3.jpg"
+  - "/images/kaplicalar/resadiye-kaplicalari-4.jpg"
+  - "/images/kaplicalar/resadiye-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

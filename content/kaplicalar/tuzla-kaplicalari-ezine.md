@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/tuzla-kaplicalari-ezine-1.jpg"
   - "/images/kaplicalar/tuzla-kaplicalari-ezine-2.jpg"
   - "/images/kaplicalar/tuzla-kaplicalari-ezine-3.jpg"
+  - "/images/kaplicalar/tuzla-kaplicalari-ezine-4.jpg"
+  - "/images/kaplicalar/tuzla-kaplicalari-ezine-5.jpg"
 ---
 
 > **Bir Bakışta**

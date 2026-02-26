@@ -24,7 +24,9 @@ _angle: "health"
 gallery:
   - "/images/kaplicalar/sicak-cermik-kaplicalari-1.jpg"
   - "/images/kaplicalar/sicak-cermik-kaplicalari-2.jpg"
-  - "/images/kaplicalar/sicak-cermik-kaplicalari-3.jpg"
+  - "/images/kaplicalar/sicak-cermik-kaplicalari-3.png"
+  - "/images/kaplicalar/sicak-cermik-kaplicalari-4.jpg"
+  - "/images/kaplicalar/sicak-cermik-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

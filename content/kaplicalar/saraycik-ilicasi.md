@@ -12,7 +12,7 @@ longitude: 28.450277777
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/saraycik-ilicasi-1.jpg"
 popularity: "low"
 wikidata_id: "Q49741974"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "B"
 _angle: "health"
-gallery: []
+gallery:
+  - "/images/kaplicalar/saraycik-ilicasi-1.jpg"
+  - "/images/kaplicalar/saraycik-ilicasi-2.png"
+  - "/images/kaplicalar/saraycik-ilicasi-3.jpg"
+  - "/images/kaplicalar/saraycik-ilicasi-4.jpg"
+  - "/images/kaplicalar/saraycik-ilicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

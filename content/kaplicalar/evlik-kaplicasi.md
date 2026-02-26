@@ -12,7 +12,7 @@ longitude: 34.889166666
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/evlik-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741908"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "C"
 _angle: "romantic"
-gallery: []
+gallery:
+  - "/images/kaplicalar/evlik-kaplicasi-1.png"
+  - "/images/kaplicalar/evlik-kaplicasi-2.jpg"
+  - "/images/kaplicalar/evlik-kaplicasi-3.png"
+  - "/images/kaplicalar/evlik-kaplicasi-4.png"
+  - "/images/kaplicalar/evlik-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

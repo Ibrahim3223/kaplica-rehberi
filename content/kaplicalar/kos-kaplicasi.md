@@ -12,7 +12,7 @@ longitude: 32.898333333
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/kos-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741951"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "F"
 _angle: "romantic"
-gallery: []
+gallery:
+  - "/images/kaplicalar/kos-kaplicasi-1.png"
+  - "/images/kaplicalar/kos-kaplicasi-2.jpg"
+  - "/images/kaplicalar/kos-kaplicasi-3.png"
+  - "/images/kaplicalar/kos-kaplicasi-4.png"
+  - "/images/kaplicalar/kos-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

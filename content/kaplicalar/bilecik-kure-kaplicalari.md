@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/bilecik-kure-kaplicalari-1.jpg"
   - "/images/kaplicalar/bilecik-kure-kaplicalari-2.jpg"
   - "/images/kaplicalar/bilecik-kure-kaplicalari-3.jpg"
+  - "/images/kaplicalar/bilecik-kure-kaplicalari-4.jpg"
+  - "/images/kaplicalar/bilecik-kure-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

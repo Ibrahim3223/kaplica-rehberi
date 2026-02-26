@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/manyas-kaplicalari-1.jpg"
   - "/images/kaplicalar/manyas-kaplicalari-2.jpg"
   - "/images/kaplicalar/manyas-kaplicalari-3.jpg"
+  - "/images/kaplicalar/manyas-kaplicalari-4.jpg"
+  - "/images/kaplicalar/manyas-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

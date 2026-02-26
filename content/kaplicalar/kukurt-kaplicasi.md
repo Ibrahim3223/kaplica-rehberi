@@ -12,7 +12,7 @@ longitude: 33.072777777
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/kukurt-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741952"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "E"
 _angle: "budget"
-gallery: []
+gallery:
+  - "/images/kaplicalar/kukurt-kaplicasi-1.png"
+  - "/images/kaplicalar/kukurt-kaplicasi-2.png"
+  - "/images/kaplicalar/kukurt-kaplicasi-3.jpg"
+  - "/images/kaplicalar/kukurt-kaplicasi-4.jpg"
+  - "/images/kaplicalar/kukurt-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/yildizeli-kaplicalari-1.jpg"
   - "/images/kaplicalar/yildizeli-kaplicalari-2.jpg"
   - "/images/kaplicalar/yildizeli-kaplicalari-3.jpg"
+  - "/images/kaplicalar/yildizeli-kaplicalari-4.jpg"
+  - "/images/kaplicalar/yildizeli-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

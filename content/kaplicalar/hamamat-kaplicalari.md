@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/hamamat-kaplicalari-1.jpg"
   - "/images/kaplicalar/hamamat-kaplicalari-2.jpg"
   - "/images/kaplicalar/hamamat-kaplicalari-3.jpg"
+  - "/images/kaplicalar/hamamat-kaplicalari-4.webp"
+  - "/images/kaplicalar/hamamat-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

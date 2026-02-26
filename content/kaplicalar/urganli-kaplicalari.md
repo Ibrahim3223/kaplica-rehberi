@@ -12,7 +12,7 @@ longitude: 28.1487
 temperature: 50
 minerals: ["magnezyum", "kalsiyum", "bikarbonat", "sülfat"]
 conditions: ["eklem hastalıkları", "cilt hastalıkları", "romatizma"]
-image: "/images/kaplicalar/urganli-kaplicalari-2.jpg"
+image: "/images/kaplicalar/urganli-kaplicalari-1.jpg"
 popularity: "medium"
 wikidata_id: "Q31189587"
 wikipedia_url: "https://tr.wikipedia.org/wiki/Urganl%C4%B1_Kapl%C4%B1calar%C4%B1"
@@ -22,8 +22,11 @@ schema_type: "TouristAttraction"
 _structure: "A"
 _angle: "health"
 gallery:
+  - "/images/kaplicalar/urganli-kaplicalari-1.jpg"
   - "/images/kaplicalar/urganli-kaplicalari-2.jpg"
+  - "/images/kaplicalar/urganli-kaplicalari-3.jpg"
   - "/images/kaplicalar/urganli-kaplicalari-4.jpg"
+  - "/images/kaplicalar/urganli-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

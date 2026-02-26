@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/sultanhisar-imamkoy-kaplicalari-1.jpg"
   - "/images/kaplicalar/sultanhisar-imamkoy-kaplicalari-2.jpg"
   - "/images/kaplicalar/sultanhisar-imamkoy-kaplicalari-3.jpg"
+  - "/images/kaplicalar/sultanhisar-imamkoy-kaplicalari-4.jpg"
+  - "/images/kaplicalar/sultanhisar-imamkoy-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

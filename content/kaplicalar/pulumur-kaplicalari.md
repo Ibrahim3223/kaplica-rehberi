@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/pulumur-kaplicalari-1.jpg"
   - "/images/kaplicalar/pulumur-kaplicalari-2.jpg"
   - "/images/kaplicalar/pulumur-kaplicalari-3.jpg"
+  - "/images/kaplicalar/pulumur-kaplicalari-4.jpg"
+  - "/images/kaplicalar/pulumur-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

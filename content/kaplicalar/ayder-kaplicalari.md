@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/ayder-kaplicalari-1.jpg"
   - "/images/kaplicalar/ayder-kaplicalari-2.jpg"
   - "/images/kaplicalar/ayder-kaplicalari-3.jpg"
+  - "/images/kaplicalar/ayder-kaplicalari-4.jpg"
+  - "/images/kaplicalar/ayder-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

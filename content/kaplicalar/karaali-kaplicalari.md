@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/karaali-kaplicalari-1.jpg"
   - "/images/kaplicalar/karaali-kaplicalari-2.jpg"
   - "/images/kaplicalar/karaali-kaplicalari-3.jpg"
+  - "/images/kaplicalar/karaali-kaplicalari-4.jpg"
+  - "/images/kaplicalar/karaali-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

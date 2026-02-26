@@ -12,7 +12,7 @@ longitude: 30.3534
 temperature: 38
 minerals: ["bikarbonat", "kalsiyum", "magnezyum", "sülfat"]
 conditions: ["romatizma", "eklem hastalıkları", "sinir hastalıkları"]
-image: "/images/kaplicalar/kirkgoz-kaplicalari-1.jpg"
+image: "/images/kaplicalar/kirkgoz-kaplicalari-1.png"
 popularity: "medium"
 wikidata_id: ""
 wikipedia_url: ""
@@ -22,9 +22,11 @@ schema_type: "TouristAttraction"
 _structure: "B"
 _angle: "weekend"
 gallery:
-  - "/images/kaplicalar/kirkgoz-kaplicalari-1.jpg"
+  - "/images/kaplicalar/kirkgoz-kaplicalari-1.png"
   - "/images/kaplicalar/kirkgoz-kaplicalari-2.jpg"
-  - "/images/kaplicalar/kirkgoz-kaplicalari-3.jpg"
+  - "/images/kaplicalar/kirkgoz-kaplicalari-3.webp"
+  - "/images/kaplicalar/kirkgoz-kaplicalari-4.jpg"
+  - "/images/kaplicalar/kirkgoz-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

@@ -12,7 +12,7 @@ longitude: 33.651111111
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/istinata-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49742036"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "F"
 _angle: "romantic"
-gallery: []
+gallery:
+  - "/images/kaplicalar/istinata-kaplicasi-1.png"
+  - "/images/kaplicalar/istinata-kaplicasi-2.jpg"
+  - "/images/kaplicalar/istinata-kaplicasi-3.jpg"
+  - "/images/kaplicalar/istinata-kaplicasi-4.jpg"
+  - "/images/kaplicalar/istinata-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

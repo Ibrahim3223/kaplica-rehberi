@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/guroymak-kaplicalari-1.jpg"
   - "/images/kaplicalar/guroymak-kaplicalari-2.jpg"
   - "/images/kaplicalar/guroymak-kaplicalari-3.jpg"
+  - "/images/kaplicalar/guroymak-kaplicalari-4.png"
+  - "/images/kaplicalar/guroymak-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**

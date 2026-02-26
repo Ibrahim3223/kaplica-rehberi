@@ -12,7 +12,7 @@ longitude: 33.256666666
 temperature:
 minerals: []
 conditions: []
-image: ""
+image: "/images/kaplicalar/acisu-kaplicasi-1.png"
 popularity: "low"
 wikidata_id: "Q49741877"
 wikipedia_url: ""
@@ -21,7 +21,12 @@ hastaliklar: []
 schema_type: "TouristAttraction"
 _structure: "B"
 _angle: "weekend"
-gallery: []
+gallery:
+  - "/images/kaplicalar/acisu-kaplicasi-1.png"
+  - "/images/kaplicalar/acisu-kaplicasi-2.jpg"
+  - "/images/kaplicalar/acisu-kaplicasi-3.png"
+  - "/images/kaplicalar/acisu-kaplicasi-4.png"
+  - "/images/kaplicalar/acisu-kaplicasi-5.jpg"
 ---
 
 > **Bir Bakışta**

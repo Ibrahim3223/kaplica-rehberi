@@ -25,6 +25,8 @@ gallery:
   - "/images/kaplicalar/mucur-kaplicalari-1.jpg"
   - "/images/kaplicalar/mucur-kaplicalari-2.jpg"
   - "/images/kaplicalar/mucur-kaplicalari-3.jpg"
+  - "/images/kaplicalar/mucur-kaplicalari-4.jpg"
+  - "/images/kaplicalar/mucur-kaplicalari-5.jpg"
 ---
 
 > **Bir Bakışta**
